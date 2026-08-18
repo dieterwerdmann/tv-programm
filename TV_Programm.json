@@ -1,8 +1,8 @@
 {
-    "Aktualisiert":  "2026-08-18T05:31:40",
+    "Aktualisiert":  "2026-08-18T05:48:29",
     "ZeitraumVon":  "2026-08-18T00:00:00",
     "ZeitraumBis":  "2026-08-20T00:00:00",
-    "Anzahl":  913,
+    "Anzahl":  910,
     "Sendungen":  [
                       {
                           "Art":  "Dokumentation",
@@ -64,7 +64,7 @@
                           "Art":  "Dokumentation",
                           "Sender":  "Das Erste HD",
                           "Beginn":  "2026-08-17T23:35:00",
-                          "Ende":  "2026-08-18T00:10:00",
+                          "Ende":  "2026-08-18T00:05:00",
                           "Sendung":  "Lang lebe der Adel?!"
                       },
                       {
@@ -131,6 +131,20 @@
                           "Sendung":  "Die Tagesschau vor 20 Jahren"
                       },
                       {
+                          "Art":  "Dokumentation",
+                          "Sender":  "tagesschau24 HD",
+                          "Beginn":  "2026-08-18T00:15:00",
+                          "Ende":  "2026-08-18T00:30:00",
+                          "Sendung":  "Tagesschau vor 20 Jahren"
+                      },
+                      {
+                          "Art":  "Spielfilm",
+                          "Sender":  "Das Erste HD",
+                          "Beginn":  "2026-08-18T00:15:00",
+                          "Ende":  "2026-08-18T01:48:00",
+                          "Sendung":  "Der Buchspazierer"
+                      },
+                      {
                           "Art":  "Serie",
                           "Sender":  "Sport1",
                           "Beginn":  "2026-08-18T00:15:00",
@@ -146,20 +160,6 @@
                       },
                       {
                           "Art":  "Dokumentation",
-                          "Sender":  "tagesschau24 HD",
-                          "Beginn":  "2026-08-18T00:20:00",
-                          "Ende":  "2026-08-18T00:35:00",
-                          "Sendung":  "Tagesschau vor 20 Jahren"
-                      },
-                      {
-                          "Art":  "Spielfilm",
-                          "Sender":  "Das Erste HD",
-                          "Beginn":  "2026-08-18T00:20:00",
-                          "Ende":  "2026-08-18T01:53:00",
-                          "Sendung":  "Der Buchspazierer"
-                      },
-                      {
-                          "Art":  "Dokumentation",
                           "Sender":  "phoenix",
                           "Beginn":  "2026-08-18T00:30:00",
                           "Ende":  "2026-08-18T01:15:00",
@@ -168,8 +168,8 @@
                       {
                           "Art":  "Dokumentation",
                           "Sender":  "tagesschau24 HD",
-                          "Beginn":  "2026-08-18T00:35:00",
-                          "Ende":  "2026-08-18T01:05:00",
+                          "Beginn":  "2026-08-18T00:30:00",
+                          "Ende":  "2026-08-18T01:00:00",
                           "Sendung":  "Raketenstarts im schottischen Inselparadies"
                       },
                       {
@@ -551,18 +551,18 @@
                           "Sendung":  "Harte Arbeit auf rauer See - Die deutschen Hochseefischer"
                       },
                       {
+                          "Art":  "Krimi",
+                          "Sender":  "Das Erste HD",
+                          "Beginn":  "2026-08-18T03:05:00",
+                          "Ende":  "2026-08-18T03:55:00",
+                          "Sendung":  "Hubert ohne Staller"
+                      },
+                      {
                           "Art":  "Serie",
                           "Sender":  "SWR BW HD",
                           "Beginn":  "2026-08-18T03:05:00",
                           "Ende":  "2026-08-18T03:55:00",
                           "Sendung":  "Nachtstreife"
-                      },
-                      {
-                          "Art":  "Krimi",
-                          "Sender":  "Das Erste HD",
-                          "Beginn":  "2026-08-18T03:10:00",
-                          "Ende":  "2026-08-18T04:00:00",
-                          "Sendung":  "Hubert ohne Staller"
                       },
                       {
                           "Art":  "Dokumentation",
@@ -635,6 +635,13 @@
                           "Sendung":  "SOKO Wien"
                       },
                       {
+                          "Art":  "Krimi",
+                          "Sender":  "Das Erste HD",
+                          "Beginn":  "2026-08-18T03:55:00",
+                          "Ende":  "2026-08-18T04:40:00",
+                          "Sendung":  "Morden im Norden"
+                      },
+                      {
                           "Art":  "Serie",
                           "Sender":  "zdf_neo HD",
                           "Beginn":  "2026-08-18T03:55:00",
@@ -647,13 +654,6 @@
                           "Beginn":  "2026-08-18T04:00:00",
                           "Ende":  "2026-08-18T05:30:00",
                           "Sendung":  "Harte Arbeit auf rauer See - Die deutschen Hochseefischer"
-                      },
-                      {
-                          "Art":  "Krimi",
-                          "Sender":  "Das Erste HD",
-                          "Beginn":  "2026-08-18T04:00:00",
-                          "Ende":  "2026-08-18T04:45:00",
-                          "Sendung":  "Morden im Norden"
                       },
                       {
                           "Art":  "Dokumentation",
@@ -720,13 +720,6 @@
                       },
                       {
                           "Art":  "Dokumentation",
-                          "Sender":  "Das Erste HD",
-                          "Beginn":  "2026-08-18T04:45:00",
-                          "Ende":  "2026-08-18T04:53:00",
-                          "Sendung":  "Deutschlandbilder"
-                      },
-                      {
-                          "Art":  "Dokumentation",
                           "Sender":  "ZDFinfo HD",
                           "Beginn":  "2026-08-18T04:45:00",
                           "Ende":  "2026-08-18T05:30:00",
@@ -754,18 +747,18 @@
                           "Sendung":  "Tierärztin Dr. Mertens"
                       },
                       {
-                          "Art":  "Dokumentation",
-                          "Sender":  "Das Erste HD",
-                          "Beginn":  "2026-08-18T04:55:00",
-                          "Ende":  "2026-08-18T05:30:00",
-                          "Sendung":  "Lang lebe der Adel?!"
-                      },
-                      {
                           "Art":  "Serie",
                           "Sender":  "zdf_neo HD",
                           "Beginn":  "2026-08-18T04:55:00",
                           "Ende":  "2026-08-18T05:25:00",
                           "Sendung":  "The Club"
+                      },
+                      {
+                          "Art":  "Dokumentation",
+                          "Sender":  "Das Erste HD",
+                          "Beginn":  "2026-08-18T05:00:00",
+                          "Ende":  "2026-08-18T05:30:00",
+                          "Sendung":  "Lang lebe der Adel?!"
                       },
                       {
                           "Art":  "Dokumentation",
@@ -885,13 +878,6 @@
                           "Beginn":  "2026-08-18T05:45:00",
                           "Ende":  "2026-08-18T06:00:00",
                           "Sendung":  "Tiere und Pflanzen"
-                      },
-                      {
-                          "Art":  "Dokumentation",
-                          "Sender":  "3sat HD",
-                          "Beginn":  "2026-08-18T05:55:00",
-                          "Ende":  "2026-08-18T06:20:00",
-                          "Sendung":  "Schlossidylle, Weingenuss und Klosterkultur in Venetien"
                       },
                       {
                           "Art":  "Dokumentation",
@@ -2963,7 +2949,7 @@
                           "Sender":  "rbb Berlin HD",
                           "Beginn":  "2026-08-18T20:45:00",
                           "Ende":  "2026-08-18T21:45:00",
-                          "Sendung":  "HausGeschichten"
+                          "Sendung":  "Reportage"
                       },
                       {
                           "Art":  "Dokumentation",
@@ -3130,7 +3116,7 @@
                           "Art":  "Spielfilm",
                           "Sender":  "rbb Berlin HD",
                           "Beginn":  "2026-08-18T22:15:00",
-                          "Ende":  "2026-08-18T23:55:00",
+                          "Ende":  "2026-08-19T00:00:00",
                           "Sendung":  "Drei Kilometer bis zum Ende der Welt"
                       },
                       {
@@ -3246,13 +3232,6 @@
                           "Sendung":  "Landwirtschaft trotz allem - Mit Innovation zum Durchbruch?"
                       },
                       {
-                          "Art":  "Spielfilm",
-                          "Sender":  "rbb Berlin HD",
-                          "Beginn":  "2026-08-18T23:55:00",
-                          "Ende":  "2026-08-19T01:25:00",
-                          "Sendung":  "Bulldog"
-                      },
-                      {
                           "Art":  "Dokumentation",
                           "Sender":  "ZDFinfo HD",
                           "Beginn":  "2026-08-19T00:00:00",
@@ -3265,6 +3244,13 @@
                           "Beginn":  "2026-08-19T00:00:00",
                           "Ende":  "2026-08-19T01:25:00",
                           "Sendung":  "One in a Million"
+                      },
+                      {
+                          "Art":  "Spielfilm",
+                          "Sender":  "rbb Berlin HD",
+                          "Beginn":  "2026-08-19T00:00:00",
+                          "Ende":  "2026-08-19T01:30:00",
+                          "Sendung":  "Bulldog"
                       },
                       {
                           "Art":  "Dokumentation",
@@ -3561,13 +3547,6 @@
                           "Sendung":  "Space Night"
                       },
                       {
-                          "Art":  "Dokumentation",
-                          "Sender":  "rbb Berlin HD",
-                          "Beginn":  "2026-08-19T02:25:00",
-                          "Ende":  "2026-08-19T03:10:00",
-                          "Sendung":  "Wilde Miezen - Katzen allein unterwegs"
-                      },
-                      {
                           "Art":  "Serie",
                           "Sender":  "Sport1",
                           "Beginn":  "2026-08-19T02:25:00",
@@ -3580,6 +3559,13 @@
                           "Beginn":  "2026-08-19T02:25:00",
                           "Ende":  "2026-08-19T02:55:00",
                           "Sendung":  "Twisted Metal"
+                      },
+                      {
+                          "Art":  "Dokumentation",
+                          "Sender":  "rbb Berlin HD",
+                          "Beginn":  "2026-08-19T02:30:00",
+                          "Ende":  "2026-08-19T03:15:00",
+                          "Sendung":  "Wilde Miezen - Katzen allein unterwegs"
                       },
                       {
                           "Art":  "Dokumentation",
@@ -3654,8 +3640,8 @@
                       {
                           "Art":  "Dokumentation",
                           "Sender":  "rbb Berlin HD",
-                          "Beginn":  "2026-08-19T03:10:00",
-                          "Ende":  "2026-08-19T03:55:00",
+                          "Beginn":  "2026-08-19T03:15:00",
+                          "Ende":  "2026-08-19T04:00:00",
                           "Sendung":  "Das geheime Wesen der Katzen"
                       },
                       {
@@ -3743,18 +3729,18 @@
                           "Sendung":  "Twisted Metal"
                       },
                       {
-                          "Art":  "Dokumentation",
-                          "Sender":  "rbb Berlin HD",
-                          "Beginn":  "2026-08-19T03:55:00",
-                          "Ende":  "2026-08-19T04:15:00",
-                          "Sendung":  "Berlin erwacht - Sommer"
-                      },
-                      {
                           "Art":  "Krimi",
                           "Sender":  "Das Erste HD",
                           "Beginn":  "2026-08-19T03:55:00",
                           "Ende":  "2026-08-19T04:40:00",
                           "Sendung":  "Morden im Norden"
+                      },
+                      {
+                          "Art":  "Dokumentation",
+                          "Sender":  "rbb Berlin HD",
+                          "Beginn":  "2026-08-19T04:00:00",
+                          "Ende":  "2026-08-19T04:15:00",
+                          "Sendung":  "Berlin erwacht - Sommer"
                       },
                       {
                           "Art":  "Dokumentation",
@@ -3774,7 +3760,7 @@
                           "Art":  "Dokumentation",
                           "Sender":  "Welt der Wunder",
                           "Beginn":  "2026-08-19T04:15:00",
-                          "Ende":  "2026-08-19T06:00:00",
+                          "Ende":  "2026-08-19T08:00:00",
                           "Sendung":  "Welt der Wunder Classics"
                       },
                       {
@@ -4000,13 +3986,6 @@
                           "Beginn":  "2026-08-19T06:00:00",
                           "Ende":  "2026-08-19T07:00:00",
                           "Sendung":  "Der Katzenflüsterer"
-                      },
-                      {
-                          "Art":  "Dokumentation",
-                          "Sender":  "Welt der Wunder",
-                          "Beginn":  "2026-08-19T06:00:00",
-                          "Ende":  "2026-08-19T08:00:00",
-                          "Sendung":  "Welt der Wunder Classics"
                       },
                       {
                           "Art":  "Serie",
@@ -6043,7 +6022,7 @@
                           "Sender":  "rbb Berlin HD",
                           "Beginn":  "2026-08-19T21:00:00",
                           "Ende":  "2026-08-19T21:45:00",
-                          "Sendung":  "Drohnen über der Siedlung"
+                          "Sendung":  "Unsichtbarer Angriff"
                       },
                       {
                           "Art":  "Dokumentation",
