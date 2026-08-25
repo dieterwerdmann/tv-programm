@@ -1,5 +1,5 @@
 ﻿{
-    "Aktualisiert":  "2026-08-25T04:48:51",
+    "Aktualisiert":  "2026-08-25T09:00:47",
     "ZeitraumVon":  "2026-08-25T00:00:00",
     "ZeitraumBis":  "2026-08-27T00:00:00",
     "Anzahl":  905,
@@ -2210,6 +2210,13 @@
                           "Sendung":  "Der Albtraum nebenan"
                       },
                       {
+                          "Art":  "Dokumentation",
+                          "Sender":  "Welt HD",
+                          "Beginn":  "2026-08-25T15:25:00",
+                          "Ende":  "2026-08-25T15:55:00",
+                          "Sendung":  "WELT-Spezial"
+                      },
+                      {
                           "Art":  "Serie",
                           "Sender":  "KiKa HD",
                           "Beginn":  "2026-08-25T15:25:00",
@@ -2222,13 +2229,6 @@
                           "Beginn":  "2026-08-25T15:30:00",
                           "Ende":  "2026-08-25T16:15:00",
                           "Sendung":  "Im Hügelland der Venezianer"
-                      },
-                      {
-                          "Art":  "Dokumentation",
-                          "Sender":  "Welt HD",
-                          "Beginn":  "2026-08-25T15:30:00",
-                          "Ende":  "2026-08-25T15:55:00",
-                          "Sendung":  "WELT-Spezial"
                       },
                       {
                           "Art":  "Krimi",
@@ -3226,6 +3226,13 @@
                       },
                       {
                           "Art":  "Dokumentation",
+                          "Sender":  "Welt HD",
+                          "Beginn":  "2026-08-26T00:00:00",
+                          "Ende":  "2026-08-26T00:55:00",
+                          "Sendung":  "UFO-Theorien - Zwischen Fakt und Fiktion: Schottland"
+                      },
+                      {
+                          "Art":  "Dokumentation",
                           "Sender":  "ZDFinfo HD",
                           "Beginn":  "2026-08-26T00:00:00",
                           "Ende":  "2026-08-26T00:45:00",
@@ -3237,13 +3244,6 @@
                           "Beginn":  "2026-08-26T00:00:00",
                           "Ende":  "2026-08-26T01:45:00",
                           "Sendung":  "The Princess - Lady Diana"
-                      },
-                      {
-                          "Art":  "Dokumentation",
-                          "Sender":  "Welt HD",
-                          "Beginn":  "2026-08-26T00:05:00",
-                          "Ende":  "2026-08-26T01:00:00",
-                          "Sendung":  "UFO-Theorien - Zwischen Fakt und Fiktion: Schottland"
                       },
                       {
                           "Art":  "Dokumentation",
@@ -3324,17 +3324,17 @@
                       },
                       {
                           "Art":  "Dokumentation",
+                          "Sender":  "Welt HD",
+                          "Beginn":  "2026-08-26T00:55:00",
+                          "Ende":  "2026-08-26T01:35:00",
+                          "Sendung":  "UFO-Theorien - Zwischen Fakt und Fiktion: Stephenville"
+                      },
+                      {
+                          "Art":  "Dokumentation",
                           "Sender":  "N24 Doku HD",
                           "Beginn":  "2026-08-26T01:00:00",
                           "Ende":  "2026-08-26T01:45:00",
                           "Sendung":  "UFO-Theorien - Zwischen Fakt und Fiktion: Schottland"
-                      },
-                      {
-                          "Art":  "Dokumentation",
-                          "Sender":  "Welt HD",
-                          "Beginn":  "2026-08-26T01:00:00",
-                          "Ende":  "2026-08-26T01:45:00",
-                          "Sendung":  "UFO-Theorien - Zwischen Fakt und Fiktion: Stephenville"
                       },
                       {
                           "Art":  "Krimi",
@@ -3766,7 +3766,7 @@
                       {
                           "Art":  "Dokumentation",
                           "Sender":  "Welt HD",
-                          "Beginn":  "2026-08-26T04:30:00",
+                          "Beginn":  "2026-08-26T04:35:00",
                           "Ende":  "2026-08-26T05:15:00",
                           "Sendung":  "UFO-Theorien - Zwischen Fakt und Fiktion: Schottland"
                       },
