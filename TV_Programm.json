@@ -1,5 +1,5 @@
 ﻿{
-    "Aktualisiert":  "2026-08-27T07:45:16",
+    "Aktualisiert":  "2026-08-27T10:08:25",
     "ZeitraumVon":  "2026-08-27T00:00:00",
     "ZeitraumBis":  "2026-08-29T00:00:00",
     "Anzahl":  905,
@@ -13,24 +13,17 @@
                       },
                       {
                           "Art":  "Dokumentation",
-                          "Sender":  "N24 Doku HD",
-                          "Beginn":  "2026-08-26T23:05:00",
-                          "Ende":  "2026-08-27T00:05:00",
-                          "Sendung":  "Geheimakte Tschernobyl (1)"
-                      },
-                      {
-                          "Art":  "Dokumentation",
-                          "Sender":  "Welt HD",
-                          "Beginn":  "2026-08-26T23:05:00",
-                          "Ende":  "2026-08-27T00:05:00",
-                          "Sendung":  "Geheimakte Tschernobyl"
-                      },
-                      {
-                          "Art":  "Dokumentation",
                           "Sender":  "DF1 HD",
                           "Beginn":  "2026-08-26T23:15:00",
                           "Ende":  "2026-08-27T00:15:00",
                           "Sendung":  "Servus Reportage"
+                      },
+                      {
+                          "Art":  "Dokumentation",
+                          "Sender":  "ZDFinfo HD",
+                          "Beginn":  "2026-08-26T23:15:00",
+                          "Ende":  "2026-08-27T00:45:00",
+                          "Sendung":  "Konfrontationen - Der neue Kalte Krieg"
                       },
                       {
                           "Art":  "Spielfilm",
@@ -104,10 +97,17 @@
                       },
                       {
                           "Art":  "Dokumentation",
-                          "Sender":  "ZDFinfo HD",
+                          "Sender":  "N24 Doku HD",
                           "Beginn":  "2026-08-27T00:00:00",
-                          "Ende":  "2026-08-27T00:45:00",
-                          "Sendung":  "Die Stadt unter dem Eis - Kalter Krieg auf Grönland"
+                          "Ende":  "2026-08-27T00:55:00",
+                          "Sendung":  "Geheimakte Tschernobyl (2)"
+                      },
+                      {
+                          "Art":  "Dokumentation",
+                          "Sender":  "Welt HD",
+                          "Beginn":  "2026-08-27T00:00:00",
+                          "Ende":  "2026-08-27T01:00:00",
+                          "Sendung":  "Geheimakte Atombombe - Bilder der Apokalypse"
                       },
                       {
                           "Art":  "Dokumentation",
@@ -115,20 +115,6 @@
                           "Beginn":  "2026-08-27T00:05:00",
                           "Ende":  "2026-08-27T00:20:00",
                           "Sendung":  "Die Tagesschau vor 20 Jahren"
-                      },
-                      {
-                          "Art":  "Dokumentation",
-                          "Sender":  "N24 Doku HD",
-                          "Beginn":  "2026-08-27T00:05:00",
-                          "Ende":  "2026-08-27T01:00:00",
-                          "Sendung":  "Geheimakte Tschernobyl (2)"
-                      },
-                      {
-                          "Art":  "Dokumentation",
-                          "Sender":  "Welt HD",
-                          "Beginn":  "2026-08-27T00:05:00",
-                          "Ende":  "2026-08-27T01:00:00",
-                          "Sendung":  "Geheimakte Atombombe - Bilder der Apokalypse"
                       },
                       {
                           "Art":  "Spielfilm",
@@ -188,6 +174,13 @@
                       },
                       {
                           "Art":  "Dokumentation",
+                          "Sender":  "rbb Berlin HD",
+                          "Beginn":  "2026-08-27T00:40:00",
+                          "Ende":  "2026-08-27T01:05:00",
+                          "Sendung":  "Harry - Schicksalsjahre eines Prinzen"
+                      },
+                      {
+                          "Art":  "Dokumentation",
                           "Sender":  "Anixe+",
                           "Beginn":  "2026-08-27T00:45:00",
                           "Ende":  "2026-08-27T01:45:00",
@@ -216,6 +209,13 @@
                       },
                       {
                           "Art":  "Dokumentation",
+                          "Sender":  "N24 Doku HD",
+                          "Beginn":  "2026-08-27T00:55:00",
+                          "Ende":  "2026-08-27T01:45:00",
+                          "Sendung":  "Geheimakte Atombombe - Bilder der Apokalypse"
+                      },
+                      {
+                          "Art":  "Dokumentation",
                           "Sender":  "Sport1",
                           "Beginn":  "2026-08-27T00:55:00",
                           "Ende":  "2026-08-27T01:25:00",
@@ -223,16 +223,9 @@
                       },
                       {
                           "Art":  "Dokumentation",
-                          "Sender":  "N24 Doku HD",
-                          "Beginn":  "2026-08-27T01:00:00",
-                          "Ende":  "2026-08-27T01:45:00",
-                          "Sendung":  "Geheimakte Atombombe - Bilder der Apokalypse"
-                      },
-                      {
-                          "Art":  "Dokumentation",
                           "Sender":  "Welt HD",
                           "Beginn":  "2026-08-27T01:00:00",
-                          "Ende":  "2026-08-27T01:45:00",
+                          "Ende":  "2026-08-27T01:50:00",
                           "Sendung":  "Geheimakte Atombombe - Lügen und Verrat"
                       },
                       {
@@ -244,10 +237,31 @@
                       },
                       {
                           "Art":  "Dokumentation",
+                          "Sender":  "rbb Berlin HD",
+                          "Beginn":  "2026-08-27T01:05:00",
+                          "Ende":  "2026-08-27T01:30:00",
+                          "Sendung":  "Harry - Schicksalsjahre eines Prinzen"
+                      },
+                      {
+                          "Art":  "Dokumentation",
+                          "Sender":  "ZDFinfo HD",
+                          "Beginn":  "2026-08-27T01:05:00",
+                          "Ende":  "2026-08-27T01:15:00",
+                          "Sendung":  "Die Stadt unter dem Eis - Kalter Krieg auf Grönland"
+                      },
+                      {
+                          "Art":  "Dokumentation",
                           "Sender":  "3sat HD",
                           "Beginn":  "2026-08-27T01:10:00",
                           "Ende":  "2026-08-27T01:35:00",
                           "Sendung":  "Ein Fluss verbindet - Die March zwischen der Slowakei und Niederösterreich"
+                      },
+                      {
+                          "Art":  "Dokumentation",
+                          "Sender":  "arte HD",
+                          "Beginn":  "2026-08-27T01:10:00",
+                          "Ende":  "2026-08-27T02:05:00",
+                          "Sendung":  "Mallorca - Tod im Paradies"
                       },
                       {
                           "Art":  "Spielfilm",
@@ -255,13 +269,6 @@
                           "Beginn":  "2026-08-27T01:10:00",
                           "Ende":  "2026-08-27T02:40:00",
                           "Sendung":  "Die Liebe kommt selten allein"
-                      },
-                      {
-                          "Art":  "Dokumentation",
-                          "Sender":  "arte HD",
-                          "Beginn":  "2026-08-27T01:15:00",
-                          "Ende":  "2026-08-27T02:10:00",
-                          "Sendung":  "Mallorca - Tod im Paradies"
                       },
                       {
                           "Art":  "Dokumentation",
@@ -313,18 +320,18 @@
                           "Sendung":  "Arcadia"
                       },
                       {
-                          "Art":  "Dokumentation",
-                          "Sender":  "rbb Berlin HD",
-                          "Beginn":  "2026-08-27T01:25:00",
-                          "Ende":  "2026-08-27T02:10:00",
-                          "Sendung":  "Mein Körper. Meine Energie."
-                      },
-                      {
                           "Art":  "Serie",
                           "Sender":  "Sport1",
                           "Beginn":  "2026-08-27T01:25:00",
                           "Ende":  "2026-08-27T02:20:00",
                           "Sendung":  "Die PS-Profis - Mehr Power aus dem Pott"
+                      },
+                      {
+                          "Art":  "Dokumentation",
+                          "Sender":  "rbb Berlin HD",
+                          "Beginn":  "2026-08-27T01:30:00",
+                          "Ende":  "2026-08-27T01:55:00",
+                          "Sendung":  "Harry - Schicksalsjahre eines Prinzen"
                       },
                       {
                           "Art":  "Dokumentation",
@@ -351,7 +358,7 @@
                           "Art":  "Dokumentation",
                           "Sender":  "N24 Doku HD",
                           "Beginn":  "2026-08-27T01:45:00",
-                          "Ende":  "2026-08-27T02:30:00",
+                          "Ende":  "2026-08-27T02:35:00",
                           "Sendung":  "Geheimakte Atombombe - Lügen und Verrat"
                       },
                       {
@@ -364,8 +371,8 @@
                       {
                           "Art":  "Dokumentation",
                           "Sender":  "Welt HD",
-                          "Beginn":  "2026-08-27T01:45:00",
-                          "Ende":  "2026-08-27T02:15:00",
+                          "Beginn":  "2026-08-27T01:50:00",
+                          "Ende":  "2026-08-27T02:20:00",
                           "Sendung":  "Was wirklich geschah:"
                       },
                       {
@@ -393,7 +400,7 @@
                           "Art":  "Krimi",
                           "Sender":  "ZDFinfo HD",
                           "Beginn":  "2026-08-27T02:00:00",
-                          "Ende":  "2026-08-27T02:45:00",
+                          "Ende":  "2026-08-27T02:40:00",
                           "Sendung":  "Überleben hinter Gittern"
                       },
                       {
@@ -413,8 +420,8 @@
                       {
                           "Art":  "Dokumentation",
                           "Sender":  "arte HD",
-                          "Beginn":  "2026-08-27T02:10:00",
-                          "Ende":  "2026-08-27T03:05:00",
+                          "Beginn":  "2026-08-27T02:05:00",
+                          "Ende":  "2026-08-27T03:00:00",
                           "Sendung":  "Heißzeit"
                       },
                       {
@@ -430,13 +437,6 @@
                           "Beginn":  "2026-08-27T02:15:00",
                           "Ende":  "2026-08-27T02:45:00",
                           "Sendung":  "Hofgeschichten - Unsere Lieblinge"
-                      },
-                      {
-                          "Art":  "Dokumentation",
-                          "Sender":  "Welt HD",
-                          "Beginn":  "2026-08-27T02:15:00",
-                          "Ende":  "2026-08-27T03:05:00",
-                          "Sendung":  "Was wirklich geschah:"
                       },
                       {
                           "Art":  "Spielfilm",
@@ -460,6 +460,13 @@
                           "Sendung":  "Kanadas deutsche Küste"
                       },
                       {
+                          "Art":  "Dokumentation",
+                          "Sender":  "Welt HD",
+                          "Beginn":  "2026-08-27T02:20:00",
+                          "Ende":  "2026-08-27T03:00:00",
+                          "Sendung":  "Was wirklich geschah:"
+                      },
+                      {
                           "Art":  "Serie",
                           "Sender":  "Sport1",
                           "Beginn":  "2026-08-27T02:20:00",
@@ -474,18 +481,25 @@
                           "Sendung":  "Lokalzeit aus Aachen"
                       },
                       {
-                          "Art":  "Serie",
-                          "Sender":  "N24 Doku HD",
-                          "Beginn":  "2026-08-27T02:30:00",
-                          "Ende":  "2026-08-27T03:15:00",
-                          "Sendung":  "Was wirklich geschah: Folge 11"
-                      },
-                      {
                           "Art":  "Krimi",
                           "Sender":  "zdf_neo HD",
                           "Beginn":  "2026-08-27T02:35:00",
                           "Ende":  "2026-08-27T03:25:00",
                           "Sendung":  "Deadly Tropics"
+                      },
+                      {
+                          "Art":  "Serie",
+                          "Sender":  "N24 Doku HD",
+                          "Beginn":  "2026-08-27T02:35:00",
+                          "Ende":  "2026-08-27T03:20:00",
+                          "Sendung":  "Was wirklich geschah: Folge 11"
+                      },
+                      {
+                          "Art":  "Krimi",
+                          "Sender":  "ZDFinfo HD",
+                          "Beginn":  "2026-08-27T02:40:00",
+                          "Ende":  "2026-08-27T03:25:00",
+                          "Sendung":  "Überleben hinter Gittern"
                       },
                       {
                           "Art":  "Serie",
@@ -500,13 +514,6 @@
                           "Beginn":  "2026-08-27T02:45:00",
                           "Ende":  "2026-08-27T03:30:00",
                           "Sendung":  "Die Reise der Eisbären"
-                      },
-                      {
-                          "Art":  "Krimi",
-                          "Sender":  "ZDFinfo HD",
-                          "Beginn":  "2026-08-27T02:45:00",
-                          "Ende":  "2026-08-27T03:30:00",
-                          "Sendung":  "Überleben hinter Gittern"
                       },
                       {
                           "Art":  "Serie",
@@ -532,9 +539,16 @@
                       {
                           "Art":  "Dokumentation",
                           "Sender":  "Welt HD",
-                          "Beginn":  "2026-08-27T03:05:00",
+                          "Beginn":  "2026-08-27T03:00:00",
                           "Ende":  "2026-08-27T03:50:00",
                           "Sendung":  "Geheimakte Tschernobyl"
+                      },
+                      {
+                          "Art":  "Dokumentation",
+                          "Sender":  "rbb Berlin HD",
+                          "Beginn":  "2026-08-27T03:10:00",
+                          "Ende":  "2026-08-27T03:30:00",
+                          "Sendung":  "Berlin erwacht - Sommer"
                       },
                       {
                           "Art":  "Spielfilm",
@@ -551,13 +565,6 @@
                           "Sendung":  "Das Gold"
                       },
                       {
-                          "Art":  "Serie",
-                          "Sender":  "N24 Doku HD",
-                          "Beginn":  "2026-08-27T03:15:00",
-                          "Ende":  "2026-08-27T04:00:00",
-                          "Sendung":  "Was wirklich geschah: Folge 12"
-                      },
-                      {
                           "Art":  "Dokumentation",
                           "Sender":  "ARD-alpha HD",
                           "Beginn":  "2026-08-27T03:20:00",
@@ -565,11 +572,11 @@
                           "Sendung":  "Space Night"
                       },
                       {
-                          "Art":  "Dokumentation",
-                          "Sender":  "rbb Berlin HD",
+                          "Art":  "Serie",
+                          "Sender":  "N24 Doku HD",
                           "Beginn":  "2026-08-27T03:20:00",
-                          "Ende":  "2026-08-27T03:30:00",
-                          "Sendung":  "Berlin erwacht - Sommer"
+                          "Ende":  "2026-08-27T04:00:00",
+                          "Sendung":  "Was wirklich geschah: Folge 12"
                       },
                       {
                           "Art":  "Dokumentation",
@@ -586,6 +593,13 @@
                           "Sendung":  "Deadly Tropics"
                       },
                       {
+                          "Art":  "Krimi",
+                          "Sender":  "ZDFinfo HD",
+                          "Beginn":  "2026-08-27T03:25:00",
+                          "Ende":  "2026-08-27T04:10:00",
+                          "Sendung":  "Überleben hinter Gittern"
+                      },
+                      {
                           "Art":  "Dokumentation",
                           "Sender":  "phoenix",
                           "Beginn":  "2026-08-27T03:30:00",
@@ -593,17 +607,10 @@
                           "Sendung":  "Die Löwen der Namib"
                       },
                       {
-                          "Art":  "Krimi",
-                          "Sender":  "ZDFinfo HD",
-                          "Beginn":  "2026-08-27T03:30:00",
-                          "Ende":  "2026-08-27T04:15:00",
-                          "Sendung":  "Überleben hinter Gittern"
-                      },
-                      {
                           "Art":  "Serie",
                           "Sender":  "arte HD",
-                          "Beginn":  "2026-08-27T03:35:00",
-                          "Ende":  "2026-08-27T03:40:00",
+                          "Beginn":  "2026-08-27T03:30:00",
+                          "Ende":  "2026-08-27T03:35:00",
                           "Sendung":  "Verdammte Katze!"
                       },
                       {
@@ -656,6 +663,13 @@
                           "Sendung":  "Der Kommissar und die Alpen"
                       },
                       {
+                          "Art":  "Krimi",
+                          "Sender":  "ZDFinfo HD",
+                          "Beginn":  "2026-08-27T04:10:00",
+                          "Ende":  "2026-08-27T04:50:00",
+                          "Sendung":  "Überleben hinter Gittern"
+                      },
+                      {
                           "Art":  "Dokumentation",
                           "Sender":  "phoenix",
                           "Beginn":  "2026-08-27T04:15:00",
@@ -675,13 +689,6 @@
                           "Beginn":  "2026-08-27T04:15:00",
                           "Ende":  "2026-08-27T05:45:00",
                           "Sendung":  "Miss Marple"
-                      },
-                      {
-                          "Art":  "Krimi",
-                          "Sender":  "ZDFinfo HD",
-                          "Beginn":  "2026-08-27T04:15:00",
-                          "Ende":  "2026-08-27T04:45:00",
-                          "Sendung":  "Überleben hinter Gittern"
                       },
                       {
                           "Art":  "Krimi",
@@ -712,6 +719,13 @@
                           "Sendung":  "planet e"
                       },
                       {
+                          "Art":  "Serie",
+                          "Sender":  "arte HD",
+                          "Beginn":  "2026-08-27T04:34:00",
+                          "Ende":  "2026-08-27T05:10:00",
+                          "Sendung":  "Athleticus"
+                      },
+                      {
                           "Art":  "Dokumentation",
                           "Sender":  "ARD-alpha HD",
                           "Beginn":  "2026-08-27T04:35:00",
@@ -726,13 +740,6 @@
                           "Sendung":  "Geheimakte Atombombe - Bilder der Apokalypse"
                       },
                       {
-                          "Art":  "Serie",
-                          "Sender":  "arte HD",
-                          "Beginn":  "2026-08-27T04:40:00",
-                          "Ende":  "2026-08-27T05:10:00",
-                          "Sendung":  "Athleticus"
-                      },
-                      {
                           "Art":  "Dokumentation",
                           "Sender":  "N24 Doku HD",
                           "Beginn":  "2026-08-27T04:45:00",
@@ -740,18 +747,18 @@
                           "Sendung":  "Geheimakte Tschernobyl (2)"
                       },
                       {
-                          "Art":  "Krimi",
-                          "Sender":  "ZDFinfo HD",
-                          "Beginn":  "2026-08-27T04:45:00",
-                          "Ende":  "2026-08-27T05:30:00",
-                          "Sendung":  "Überleben hinter Gittern"
-                      },
-                      {
                           "Art":  "Serie",
                           "Sender":  "DF1 HD",
                           "Beginn":  "2026-08-27T04:45:00",
                           "Ende":  "2026-08-27T05:15:00",
                           "Sendung":  "Gabis Castingcouch"
+                      },
+                      {
+                          "Art":  "Krimi",
+                          "Sender":  "ZDFinfo HD",
+                          "Beginn":  "2026-08-27T04:50:00",
+                          "Ende":  "2026-08-27T05:30:00",
+                          "Sendung":  "Überleben hinter Gittern"
                       },
                       {
                           "Art":  "Dokumentation",
@@ -4997,13 +5004,6 @@
                       },
                       {
                           "Art":  "Dokumentation",
-                          "Sender":  "ARD-alpha HD",
-                          "Beginn":  "2026-08-28T14:00:00",
-                          "Ende":  "2026-08-28T14:45:00",
-                          "Sendung":  "ARD Wissen"
-                      },
-                      {
-                          "Art":  "Dokumentation",
                           "Sender":  "NDR FS HH HD",
                           "Beginn":  "2026-08-28T14:00:00",
                           "Ende":  "2026-08-28T14:30:00",
@@ -5043,6 +5043,13 @@
                           "Beginn":  "2026-08-28T14:00:00",
                           "Ende":  "2026-08-28T14:30:00",
                           "Sendung":  "Container Wars"
+                      },
+                      {
+                          "Art":  "Dokumentation",
+                          "Sender":  "ARD-alpha HD",
+                          "Beginn":  "2026-08-28T14:05:00",
+                          "Ende":  "2026-08-28T14:50:00",
+                          "Sendung":  "ARD Wissen"
                       },
                       {
                           "Art":  "Serie",
@@ -5235,17 +5242,17 @@
                       },
                       {
                           "Art":  "Dokumentation",
-                          "Sender":  "ARD-alpha HD",
-                          "Beginn":  "2026-08-28T15:15:00",
-                          "Ende":  "2026-08-28T16:00:00",
-                          "Sendung":  "Apotheke Regenwald"
-                      },
-                      {
-                          "Art":  "Dokumentation",
                           "Sender":  "phoenix",
                           "Beginn":  "2026-08-28T15:15:00",
                           "Ende":  "2026-08-28T16:00:00",
                           "Sendung":  "Ein Moment in der Geschichte"
+                      },
+                      {
+                          "Art":  "Dokumentation",
+                          "Sender":  "ARD-alpha HD",
+                          "Beginn":  "2026-08-28T15:20:00",
+                          "Ende":  "2026-08-28T16:05:00",
+                          "Sendung":  "Apotheke Regenwald"
                       },
                       {
                           "Art":  "Dokumentation",
@@ -5398,7 +5405,7 @@
                           "Art":  "Serie",
                           "Sender":  "TLC",
                           "Beginn":  "2026-08-28T16:25:00",
-                          "Ende":  "2026-08-28T17:25:00",
+                          "Ende":  "2026-08-28T17:20:00",
                           "Sendung":  "Die Zwangsvollstrecker"
                       },
                       {
@@ -5544,7 +5551,7 @@
                       {
                           "Art":  "Serie",
                           "Sender":  "TLC",
-                          "Beginn":  "2026-08-28T17:25:00",
+                          "Beginn":  "2026-08-28T17:20:00",
                           "Ende":  "2026-08-28T18:20:00",
                           "Sendung":  "Die Zwangsvollstrecker"
                       },
@@ -5768,7 +5775,7 @@
                       {
                           "Art":  "Dokumentation",
                           "Sender":  "ARD-alpha HD",
-                          "Beginn":  "2026-08-28T19:09:00",
+                          "Beginn":  "2026-08-28T19:10:00",
                           "Ende":  "2026-08-28T19:15:00",
                           "Sendung":  "Samy Molcho in München (1966)"
                       },
@@ -5895,7 +5902,7 @@
                           "Art":  "Dokumentation",
                           "Sender":  "TLC",
                           "Beginn":  "2026-08-28T20:15:00",
-                          "Ende":  "2026-08-28T21:15:00",
+                          "Ende":  "2026-08-28T21:10:00",
                           "Sendung":  "Unheimliche Videos - Wahrheit oder Fake?"
                       },
                       {
@@ -6039,6 +6046,13 @@
                           "Sendung":  "Reisen mit Kreta.de"
                       },
                       {
+                          "Art":  "Dokumentation",
+                          "Sender":  "TLC",
+                          "Beginn":  "2026-08-28T21:10:00",
+                          "Ende":  "2026-08-28T22:10:00",
+                          "Sendung":  "Unheimliche Videos - Wahrheit oder Fake?"
+                      },
+                      {
                           "Art":  "Serie",
                           "Sender":  "N24 Doku HD",
                           "Beginn":  "2026-08-28T21:10:00",
@@ -6058,13 +6072,6 @@
                           "Beginn":  "2026-08-28T21:15:00",
                           "Ende":  "2026-08-28T21:45:00",
                           "Sendung":  "Tietjen campt"
-                      },
-                      {
-                          "Art":  "Dokumentation",
-                          "Sender":  "TLC",
-                          "Beginn":  "2026-08-28T21:15:00",
-                          "Ende":  "2026-08-28T22:10:00",
-                          "Sendung":  "Unheimliche Videos - Wahrheit oder Fake?"
                       },
                       {
                           "Art":  "Dokumentation",
@@ -6168,7 +6175,7 @@
                           "Art":  "Serie",
                           "Sender":  "TLC",
                           "Beginn":  "2026-08-28T22:10:00",
-                          "Ende":  "2026-08-28T23:10:00",
+                          "Ende":  "2026-08-28T23:15:00",
                           "Sendung":  "Ghost Hunters"
                       },
                       {
@@ -6263,13 +6270,6 @@
                           "Sendung":  "Border Patrol USA - Einsatz an Mexikos Grenze:"
                       },
                       {
-                          "Art":  "Serie",
-                          "Sender":  "TLC",
-                          "Beginn":  "2026-08-28T23:10:00",
-                          "Ende":  "2026-08-29T00:10:00",
-                          "Sendung":  "Ghost Hunters"
-                      },
-                      {
                           "Art":  "Dokumentation",
                           "Sender":  "DF1 HD",
                           "Beginn":  "2026-08-28T23:15:00",
@@ -6299,6 +6299,13 @@
                       },
                       {
                           "Art":  "Serie",
+                          "Sender":  "TLC",
+                          "Beginn":  "2026-08-28T23:15:00",
+                          "Ende":  "2026-08-29T00:15:00",
+                          "Sendung":  "Ghost Hunters"
+                      },
+                      {
+                          "Art":  "Serie",
                           "Sender":  "zdf_neo HD",
                           "Beginn":  "2026-08-28T23:20:00",
                           "Ende":  "2026-08-29T00:00:00",
@@ -6317,13 +6324,6 @@
                           "Beginn":  "2026-08-28T23:45:00",
                           "Ende":  "2026-08-29T00:15:00",
                           "Sendung":  "ANIXE auf Reisen"
-                      },
-                      {
-                          "Art":  "Krimi",
-                          "Sender":  "rbb Berlin HD",
-                          "Beginn":  "2026-08-28T23:45:00",
-                          "Ende":  "2026-08-29T00:35:00",
-                          "Sendung":  "Mord mit Aussicht"
                       },
                       {
                           "Art":  "Serie",
