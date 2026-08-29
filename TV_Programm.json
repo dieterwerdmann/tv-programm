@@ -1,8 +1,8 @@
 ﻿{
-    "Aktualisiert":  "2026-08-29T05:08:14",
+    "Aktualisiert":  "2026-08-29T05:13:16",
     "ZeitraumVon":  "2026-08-29T00:00:00",
     "ZeitraumBis":  "2026-08-31T00:00:00",
-    "Anzahl":  955,
+    "Anzahl":  999,
     "Sendungen":  [
                       {
                           "Art":  "Serie",
@@ -38,6 +38,13 @@
                           "Beginn":  "2026-08-28T23:15:00",
                           "Ende":  "2026-08-29T00:15:00",
                           "Sendung":  "Ghost Hunters"
+                      },
+                      {
+                          "Art":  "Dokumentation",
+                          "Sender":  "NTV",
+                          "Beginn":  "2026-08-28T23:30:00",
+                          "Ende":  "2026-08-29T00:20:00",
+                          "Sendung":  "Das Pantheon - Roms antiker Superbau"
                       },
                       {
                           "Art":  "Dokumentation",
@@ -136,6 +143,13 @@
                           "Beginn":  "2026-08-29T00:15:00",
                           "Ende":  "2026-08-29T02:05:00",
                           "Sendung":  "Nö"
+                      },
+                      {
+                          "Art":  "Dokumentation",
+                          "Sender":  "NTV",
+                          "Beginn":  "2026-08-29T00:20:00",
+                          "Ende":  "2026-08-29T01:10:00",
+                          "Sendung":  "Die Chinesische Mauer"
                       },
                       {
                           "Art":  "Spielfilm",
@@ -237,6 +251,13 @@
                       },
                       {
                           "Art":  "Dokumentation",
+                          "Sender":  "NTV",
+                          "Beginn":  "2026-08-29T01:10:00",
+                          "Ende":  "2026-08-29T01:55:00",
+                          "Sendung":  "Jerusalem - Geschichte der Heiligen Stadt"
+                      },
+                      {
+                          "Art":  "Dokumentation",
                           "Sender":  "TLC",
                           "Beginn":  "2026-08-29T01:15:00",
                           "Ende":  "2026-08-29T01:55:00",
@@ -332,6 +353,13 @@
                           "Beginn":  "2026-08-29T01:45:00",
                           "Ende":  "2026-08-29T02:25:00",
                           "Sendung":  "Border Patrol USA - Einsatz an Mexikos Grenze:"
+                      },
+                      {
+                          "Art":  "Dokumentation",
+                          "Sender":  "NTV",
+                          "Beginn":  "2026-08-29T01:55:00",
+                          "Ende":  "2026-08-29T02:40:00",
+                          "Sendung":  "Große Gefahren"
                       },
                       {
                           "Art":  "Dokumentation",
@@ -444,6 +472,13 @@
                           "Beginn":  "2026-08-29T02:35:00",
                           "Ende":  "2026-08-29T03:25:00",
                           "Sendung":  "Hubert ohne Staller"
+                      },
+                      {
+                          "Art":  "Dokumentation",
+                          "Sender":  "NTV",
+                          "Beginn":  "2026-08-29T02:40:00",
+                          "Ende":  "2026-08-29T03:30:00",
+                          "Sendung":  "Große Gefahren"
                       },
                       {
                           "Art":  "Dokumentation",
@@ -566,6 +601,13 @@
                       },
                       {
                           "Art":  "Dokumentation",
+                          "Sender":  "NTV",
+                          "Beginn":  "2026-08-29T03:30:00",
+                          "Ende":  "2026-08-29T04:15:00",
+                          "Sendung":  "Das Pantheon - Roms antiker Superbau"
+                      },
+                      {
+                          "Art":  "Dokumentation",
                           "Sender":  "ZDFinfo HD",
                           "Beginn":  "2026-08-29T03:30:00",
                           "Ende":  "2026-08-29T04:15:00",
@@ -654,6 +696,13 @@
                           "Beginn":  "2026-08-29T04:15:00",
                           "Ende":  "2026-08-29T05:00:00",
                           "Sendung":  "Space Night CLASSICS"
+                      },
+                      {
+                          "Art":  "Dokumentation",
+                          "Sender":  "NTV",
+                          "Beginn":  "2026-08-29T04:15:00",
+                          "Ende":  "2026-08-29T05:10:00",
+                          "Sendung":  "Die Chinesische Mauer"
                       },
                       {
                           "Art":  "Dokumentation",
@@ -766,6 +815,13 @@
                           "Beginn":  "2026-08-29T04:55:00",
                           "Ende":  "2026-08-29T05:10:00",
                           "Sendung":  "Soul Shift"
+                      },
+                      {
+                          "Art":  "Dokumentation",
+                          "Sender":  "NTV",
+                          "Beginn":  "2026-08-29T05:10:00",
+                          "Ende":  "2026-08-29T06:00:00",
+                          "Sendung":  "Große Gefahren"
                       },
                       {
                           "Art":  "Serie",
@@ -962,6 +1018,13 @@
                           "Beginn":  "2026-08-29T06:15:00",
                           "Ende":  "2026-08-29T07:05:00",
                           "Sendung":  "Lost Places"
+                      },
+                      {
+                          "Art":  "Dokumentation",
+                          "Sender":  "NTV",
+                          "Beginn":  "2026-08-29T06:15:00",
+                          "Ende":  "2026-08-29T06:40:00",
+                          "Sendung":  "Auslandsreport"
                       },
                       {
                           "Art":  "Dokumentation",
@@ -2225,6 +2288,13 @@
                       },
                       {
                           "Art":  "Dokumentation",
+                          "Sender":  "NTV",
+                          "Beginn":  "2026-08-29T14:30:00",
+                          "Ende":  "2026-08-29T15:00:00",
+                          "Sendung":  "PS - Reportage"
+                      },
+                      {
+                          "Art":  "Dokumentation",
                           "Sender":  "rbb Berlin HD",
                           "Beginn":  "2026-08-29T14:30:00",
                           "Ende":  "2026-08-29T15:15:00",
@@ -2292,6 +2362,13 @@
                           "Beginn":  "2026-08-29T15:05:00",
                           "Ende":  "2026-08-29T15:35:00",
                           "Sendung":  "Container Wars"
+                      },
+                      {
+                          "Art":  "Dokumentation",
+                          "Sender":  "NTV",
+                          "Beginn":  "2026-08-29T15:10:00",
+                          "Ende":  "2026-08-29T16:00:00",
+                          "Sendung":  "Das Pantheon - Roms antiker Superbau"
                       },
                       {
                           "Art":  "Serie",
@@ -2441,6 +2518,13 @@
                           "Sendung":  "Container Wars"
                       },
                       {
+                          "Art":  "Dokumentation",
+                          "Sender":  "NTV",
+                          "Beginn":  "2026-08-29T16:10:00",
+                          "Ende":  "2026-08-29T17:00:00",
+                          "Sendung":  "Die Chinesische Mauer"
+                      },
+                      {
                           "Art":  "Krimi",
                           "Sender":  "ZDF HD",
                           "Beginn":  "2026-08-29T16:10:00",
@@ -2586,6 +2670,13 @@
                           "Beginn":  "2026-08-29T17:00:00",
                           "Ende":  "2026-08-29T17:25:00",
                           "Sendung":  "Container Wars"
+                      },
+                      {
+                          "Art":  "Dokumentation",
+                          "Sender":  "NTV",
+                          "Beginn":  "2026-08-29T17:10:00",
+                          "Ende":  "2026-08-29T18:00:00",
+                          "Sendung":  "Jerusalem - Geschichte der Heiligen Stadt"
                       },
                       {
                           "Art":  "Dokumentation",
@@ -2820,6 +2911,13 @@
                       },
                       {
                           "Art":  "Dokumentation",
+                          "Sender":  "NTV",
+                          "Beginn":  "2026-08-29T18:30:00",
+                          "Ende":  "2026-08-29T19:00:00",
+                          "Sendung":  "Auslandsreport"
+                      },
+                      {
+                          "Art":  "Dokumentation",
                           "Sender":  "phoenix",
                           "Beginn":  "2026-08-29T18:30:00",
                           "Ende":  "2026-08-29T19:15:00",
@@ -2901,6 +2999,13 @@
                           "Beginn":  "2026-08-29T19:00:00",
                           "Ende":  "2026-08-29T19:15:00",
                           "Sendung":  "Die drei Musketiere - Eine für alle, alle für Eine"
+                      },
+                      {
+                          "Art":  "Serie",
+                          "Sender":  "NTV",
+                          "Beginn":  "2026-08-29T19:10:00",
+                          "Ende":  "2026-08-29T20:00:00",
+                          "Sendung":  "Lost Places"
                       },
                       {
                           "Art":  "Dokumentation",
@@ -3114,10 +3219,24 @@
                       },
                       {
                           "Art":  "Serie",
+                          "Sender":  "NTV",
+                          "Beginn":  "2026-08-29T20:15:00",
+                          "Ende":  "2026-08-29T20:40:00",
+                          "Sendung":  "Border Patrol Neuseeland"
+                      },
+                      {
+                          "Art":  "Serie",
                           "Sender":  "KiKa HD",
                           "Beginn":  "2026-08-29T20:35:00",
                           "Ende":  "2026-08-29T21:00:00",
                           "Sendung":  "Mystic - Das Geheimnis von Kauri Point"
+                      },
+                      {
+                          "Art":  "Serie",
+                          "Sender":  "NTV",
+                          "Beginn":  "2026-08-29T20:40:00",
+                          "Ende":  "2026-08-29T21:00:00",
+                          "Sendung":  "Border Patrol Neuseeland"
                       },
                       {
                           "Art":  "Dokumentation",
@@ -3162,6 +3281,13 @@
                           "Sendung":  "Das Waisenhaus für wilde Tiere"
                       },
                       {
+                          "Art":  "Serie",
+                          "Sender":  "NTV",
+                          "Beginn":  "2026-08-29T21:05:00",
+                          "Ende":  "2026-08-29T21:30:00",
+                          "Sendung":  "Border Patrol Neuseeland"
+                      },
+                      {
                           "Art":  "Dokumentation",
                           "Sender":  "N24 Doku HD",
                           "Beginn":  "2026-08-29T21:10:00",
@@ -3188,6 +3314,13 @@
                           "Beginn":  "2026-08-29T21:15:00",
                           "Ende":  "2026-08-29T22:15:00",
                           "Sendung":  "Paranormal Roadtrip"
+                      },
+                      {
+                          "Art":  "Serie",
+                          "Sender":  "NTV",
+                          "Beginn":  "2026-08-29T21:30:00",
+                          "Ende":  "2026-08-29T22:00:00",
+                          "Sendung":  "Border Patrol Neuseeland"
                       },
                       {
                           "Art":  "Krimi",
@@ -3286,6 +3419,13 @@
                           "Beginn":  "2026-08-29T22:05:00",
                           "Ende":  "2026-08-29T23:35:00",
                           "Sendung":  "Wolfsland"
+                      },
+                      {
+                          "Art":  "Serie",
+                          "Sender":  "NTV",
+                          "Beginn":  "2026-08-29T22:05:00",
+                          "Ende":  "2026-08-29T23:00:00",
+                          "Sendung":  "Drehkreuz des Drogenschmuggels - Flughafen Kolumbien"
                       },
                       {
                           "Art":  "Krimi",
@@ -3443,6 +3583,13 @@
                       },
                       {
                           "Art":  "Dokumentation",
+                          "Sender":  "NTV",
+                          "Beginn":  "2026-08-29T23:30:00",
+                          "Ende":  "2026-08-30T00:20:00",
+                          "Sendung":  "(Un)geklärte Phänomene - Was wirklich geschah"
+                      },
+                      {
+                          "Art":  "Dokumentation",
                           "Sender":  "Anixe+",
                           "Beginn":  "2026-08-29T23:45:00",
                           "Ende":  "2026-08-30T00:15:00",
@@ -3524,6 +3671,13 @@
                           "Beginn":  "2026-08-30T00:15:00",
                           "Ende":  "2026-08-30T02:15:00",
                           "Sendung":  "Genius"
+                      },
+                      {
+                          "Art":  "Dokumentation",
+                          "Sender":  "NTV",
+                          "Beginn":  "2026-08-30T00:20:00",
+                          "Ende":  "2026-08-30T01:10:00",
+                          "Sendung":  "(Un)geklärte Phänomene - Was wirklich geschah"
                       },
                       {
                           "Art":  "Dokumentation",
@@ -3638,6 +3792,13 @@
                           "Sendung":  "Sommerfrische - Reisen wie zu Kaisers Zeiten"
                       },
                       {
+                          "Art":  "Serie",
+                          "Sender":  "NTV",
+                          "Beginn":  "2026-08-30T01:10:00",
+                          "Ende":  "2026-08-30T01:30:00",
+                          "Sendung":  "Border Patrol Neuseeland"
+                      },
+                      {
                           "Art":  "Dokumentation",
                           "Sender":  "ARD-alpha HD",
                           "Beginn":  "2026-08-30T01:15:00",
@@ -3716,6 +3877,13 @@
                       },
                       {
                           "Art":  "Serie",
+                          "Sender":  "NTV",
+                          "Beginn":  "2026-08-30T01:30:00",
+                          "Ende":  "2026-08-30T01:55:00",
+                          "Sendung":  "Border Patrol Neuseeland"
+                      },
+                      {
+                          "Art":  "Serie",
                           "Sender":  "NDR FS HH HD",
                           "Beginn":  "2026-08-30T01:35:00",
                           "Ende":  "2026-08-30T01:55:00",
@@ -3762,6 +3930,13 @@
                           "Beginn":  "2026-08-30T01:55:00",
                           "Ende":  "2026-08-30T02:40:00",
                           "Sendung":  "Paranormal Roadtrip"
+                      },
+                      {
+                          "Art":  "Serie",
+                          "Sender":  "NTV",
+                          "Beginn":  "2026-08-30T01:55:00",
+                          "Ende":  "2026-08-30T02:15:00",
+                          "Sendung":  "Border Patrol Neuseeland"
                       },
                       {
                           "Art":  "Dokumentation",
@@ -3813,6 +3988,13 @@
                           "Sendung":  "Sexpension Hüttenzauber"
                       },
                       {
+                          "Art":  "Serie",
+                          "Sender":  "NTV",
+                          "Beginn":  "2026-08-30T02:15:00",
+                          "Ende":  "2026-08-30T02:40:00",
+                          "Sendung":  "Border Patrol Neuseeland"
+                      },
+                      {
                           "Art":  "Dokumentation",
                           "Sender":  "Welt HD",
                           "Beginn":  "2026-08-30T02:20:00",
@@ -3839,6 +4021,13 @@
                           "Beginn":  "2026-08-30T02:40:00",
                           "Ende":  "2026-08-30T03:10:00",
                           "Sendung":  "Heilige Orte in Brandenburg"
+                      },
+                      {
+                          "Art":  "Serie",
+                          "Sender":  "NTV",
+                          "Beginn":  "2026-08-30T02:40:00",
+                          "Ende":  "2026-08-30T03:25:00",
+                          "Sendung":  "Drehkreuz des Drogenschmuggels - Flughafen Kolumbien"
                       },
                       {
                           "Art":  "Serie",
@@ -3939,6 +4128,13 @@
                           "Sendung":  "Space Night"
                       },
                       {
+                          "Art":  "Dokumentation",
+                          "Sender":  "NTV",
+                          "Beginn":  "2026-08-30T03:25:00",
+                          "Ende":  "2026-08-30T04:10:00",
+                          "Sendung":  "(Un)geklärte Phänomene - Was wirklich geschah"
+                      },
+                      {
                           "Art":  "Krimi",
                           "Sender":  "hr-fernsehen HD",
                           "Beginn":  "2026-08-30T03:25:00",
@@ -3993,6 +4189,13 @@
                           "Beginn":  "2026-08-30T03:55:00",
                           "Ende":  "2026-08-30T04:40:00",
                           "Sendung":  "Sabine Heinrich - Ab durch die Mitte"
+                      },
+                      {
+                          "Art":  "Dokumentation",
+                          "Sender":  "NTV",
+                          "Beginn":  "2026-08-30T04:10:00",
+                          "Ende":  "2026-08-30T04:55:00",
+                          "Sendung":  "(Un)geklärte Phänomene - Was wirklich geschah"
                       },
                       {
                           "Art":  "Dokumentation",
@@ -4135,6 +4338,13 @@
                           "Sendung":  "Apple Hills"
                       },
                       {
+                          "Art":  "Serie",
+                          "Sender":  "NTV",
+                          "Beginn":  "2026-08-30T04:55:00",
+                          "Ende":  "2026-08-30T05:15:00",
+                          "Sendung":  "Border Patrol Neuseeland"
+                      },
+                      {
                           "Art":  "Dokumentation",
                           "Sender":  "3sat HD",
                           "Beginn":  "2026-08-30T05:00:00",
@@ -4219,6 +4429,13 @@
                           "Sendung":  "Apple Hills"
                       },
                       {
+                          "Art":  "Serie",
+                          "Sender":  "NTV",
+                          "Beginn":  "2026-08-30T05:15:00",
+                          "Ende":  "2026-08-30T05:35:00",
+                          "Sendung":  "Border Patrol Neuseeland"
+                      },
+                      {
                           "Art":  "Dokumentation",
                           "Sender":  "SWR BW HD",
                           "Beginn":  "2026-08-30T05:20:00",
@@ -4259,6 +4476,13 @@
                           "Beginn":  "2026-08-30T05:35:00",
                           "Ende":  "2026-08-30T05:40:00",
                           "Sendung":  "Apple Hills"
+                      },
+                      {
+                          "Art":  "Serie",
+                          "Sender":  "NTV",
+                          "Beginn":  "2026-08-30T05:35:00",
+                          "Ende":  "2026-08-30T06:00:00",
+                          "Sendung":  "Border Patrol Neuseeland"
                       },
                       {
                           "Art":  "Dokumentation",
@@ -4420,6 +4644,13 @@
                           "Beginn":  "2026-08-30T06:30:00",
                           "Ende":  "2026-08-30T07:00:00",
                           "Sendung":  "Campus TALKS"
+                      },
+                      {
+                          "Art":  "Dokumentation",
+                          "Sender":  "NTV",
+                          "Beginn":  "2026-08-30T06:30:00",
+                          "Ende":  "2026-08-30T07:00:00",
+                          "Sendung":  "PS - Reportage"
                       },
                       {
                           "Art":  "Serie",
@@ -5241,6 +5472,13 @@
                           "Sendung":  "Seenland Österreich - Die versteckten Kärntner Seen"
                       },
                       {
+                          "Art":  "Dokumentation",
+                          "Sender":  "NTV",
+                          "Beginn":  "2026-08-30T12:30:00",
+                          "Ende":  "2026-08-30T13:00:00",
+                          "Sendung":  "Auslandsreport"
+                      },
+                      {
                           "Art":  "Krimi",
                           "Sender":  "NDR FS HH HD",
                           "Beginn":  "2026-08-30T12:30:00",
@@ -5351,6 +5589,13 @@
                           "Beginn":  "2026-08-30T13:30:00",
                           "Ende":  "2026-08-30T14:00:00",
                           "Sendung":  "Eisenbahn-Romantik"
+                      },
+                      {
+                          "Art":  "Dokumentation",
+                          "Sender":  "NTV",
+                          "Beginn":  "2026-08-30T13:30:00",
+                          "Ende":  "2026-08-30T14:00:00",
+                          "Sendung":  "ntv reisen"
                       },
                       {
                           "Art":  "Dokumentation",
@@ -5473,6 +5718,13 @@
                       },
                       {
                           "Art":  "Dokumentation",
+                          "Sender":  "NTV",
+                          "Beginn":  "2026-08-30T14:30:00",
+                          "Ende":  "2026-08-30T15:00:00",
+                          "Sendung":  "ntv Wissen"
+                      },
+                      {
+                          "Art":  "Dokumentation",
                           "Sender":  "Anixe+",
                           "Beginn":  "2026-08-30T14:35:00",
                           "Ende":  "2026-08-30T15:20:00",
@@ -5561,6 +5813,13 @@
                           "Beginn":  "2026-08-30T15:00:00",
                           "Ende":  "2026-08-30T15:30:00",
                           "Sendung":  "Die PS-Profis - Mehr Power aus dem Pott"
+                      },
+                      {
+                          "Art":  "Dokumentation",
+                          "Sender":  "NTV",
+                          "Beginn":  "2026-08-30T15:10:00",
+                          "Ende":  "2026-08-30T16:00:00",
+                          "Sendung":  "Giganten der Geschichte"
                       },
                       {
                           "Art":  "Dokumentation",
@@ -5708,6 +5967,13 @@
                           "Beginn":  "2026-08-30T16:00:00",
                           "Ende":  "2026-08-30T16:45:00",
                           "Sendung":  "Die PS-Profis - Mehr Power aus dem Pott"
+                      },
+                      {
+                          "Art":  "Dokumentation",
+                          "Sender":  "NTV",
+                          "Beginn":  "2026-08-30T16:10:00",
+                          "Ende":  "2026-08-30T17:00:00",
+                          "Sendung":  "Giganten der Geschichte"
                       },
                       {
                           "Art":  "Serie",
@@ -5869,6 +6135,13 @@
                           "Beginn":  "2026-08-30T17:05:00",
                           "Ende":  "2026-08-30T17:50:00",
                           "Sendung":  "Seaside Hotel"
+                      },
+                      {
+                          "Art":  "Dokumentation",
+                          "Sender":  "NTV",
+                          "Beginn":  "2026-08-30T17:10:00",
+                          "Ende":  "2026-08-30T18:00:00",
+                          "Sendung":  "Giganten der Geschichte"
                       },
                       {
                           "Art":  "Dokumentation",
@@ -6152,6 +6425,13 @@
                       },
                       {
                           "Art":  "Dokumentation",
+                          "Sender":  "NTV",
+                          "Beginn":  "2026-08-30T19:10:00",
+                          "Ende":  "2026-08-30T20:00:00",
+                          "Sendung":  "ntv Wissen"
+                      },
+                      {
+                          "Art":  "Dokumentation",
                           "Sender":  "phoenix",
                           "Beginn":  "2026-08-30T19:15:00",
                           "Ende":  "2026-08-30T20:00:00",
@@ -6313,6 +6593,13 @@
                       },
                       {
                           "Art":  "Krimi",
+                          "Sender":  "NTV",
+                          "Beginn":  "2026-08-30T20:15:00",
+                          "Ende":  "2026-08-30T21:00:00",
+                          "Sendung":  "Anwälte der Toten - Im Kopf des Mörders"
+                      },
+                      {
+                          "Art":  "Krimi",
                           "Sender":  "ONE HD",
                           "Beginn":  "2026-08-30T20:15:00",
                           "Ende":  "2026-08-30T21:50:00",
@@ -6417,6 +6704,13 @@
                           "Sendung":  "Das Messegelände am Funkturm"
                       },
                       {
+                          "Art":  "Krimi",
+                          "Sender":  "NTV",
+                          "Beginn":  "2026-08-30T21:05:00",
+                          "Ende":  "2026-08-30T22:00:00",
+                          "Sendung":  "Anwälte der Toten - Die schlimmsten Serienkiller der Welt"
+                      },
+                      {
                           "Art":  "Dokumentation",
                           "Sender":  "N24 Doku HD",
                           "Beginn":  "2026-08-30T21:10:00",
@@ -6492,6 +6786,13 @@
                           "Beginn":  "2026-08-30T22:05:00",
                           "Ende":  "2026-08-30T23:00:00",
                           "Sendung":  "Hitler und Stalin"
+                      },
+                      {
+                          "Art":  "Krimi",
+                          "Sender":  "NTV",
+                          "Beginn":  "2026-08-30T22:05:00",
+                          "Ende":  "2026-08-30T23:00:00",
+                          "Sendung":  "Anwälte der Toten - Die schlimmsten Serienkiller der Welt"
                       },
                       {
                           "Art":  "Dokumentation",
@@ -6639,6 +6940,13 @@
                           "Beginn":  "2026-08-30T23:25:00",
                           "Ende":  "2026-08-31T01:05:00",
                           "Sendung":  "Luftkrieg - Die Naturgeschichte der Zerstörung"
+                      },
+                      {
+                          "Art":  "Krimi",
+                          "Sender":  "NTV",
+                          "Beginn":  "2026-08-30T23:30:00",
+                          "Ende":  "2026-08-31T00:20:00",
+                          "Sendung":  "Anwälte der Toten - Die schlimmsten Serienkiller der Welt"
                       },
                       {
                           "Art":  "Dokumentation",
