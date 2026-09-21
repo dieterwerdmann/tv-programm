@@ -1,5 +1,5 @@
 ﻿{
-    "Aktualisiert":  "2026-09-21T15:09:07",
+    "Aktualisiert":  "2026-09-21T15:39:50",
     "ZeitraumVon":  "2026-09-21T00:00:00",
     "ZeitraumBis":  "2026-09-23T00:00:00",
     "Anzahl":  937,
@@ -245,8 +245,8 @@
                       {
                           "Art":  "Dokumentation",
                           "Sender":  "ARD-alpha HD",
-                          "Beginn":  "2026-09-21T01:15:00",
-                          "Ende":  "2026-09-21T01:30:00",
+                          "Beginn":  "2026-09-21T01:10:00",
+                          "Ende":  "2026-09-21T01:25:00",
                           "Sendung":  "Die Tagesschau vor 20 Jahren"
                       },
                       {
@@ -342,6 +342,13 @@
                       },
                       {
                           "Art":  "Dokumentation",
+                          "Sender":  "ARD-alpha HD",
+                          "Beginn":  "2026-09-21T01:50:00",
+                          "Ende":  "2026-09-21T02:50:00",
+                          "Sendung":  "Space Night"
+                      },
+                      {
+                          "Art":  "Dokumentation",
                           "Sender":  "rbb Berlin HD",
                           "Beginn":  "2026-09-21T01:50:00",
                           "Ende":  "2026-09-21T02:15:00",
@@ -353,13 +360,6 @@
                           "Beginn":  "2026-09-21T01:50:00",
                           "Ende":  "2026-09-21T02:35:00",
                           "Sendung":  "Big Girls - Flucht aus dem Paradies"
-                      },
-                      {
-                          "Art":  "Dokumentation",
-                          "Sender":  "ARD-alpha HD",
-                          "Beginn":  "2026-09-21T01:55:00",
-                          "Ende":  "2026-09-21T02:55:00",
-                          "Sendung":  "Space Night"
                       },
                       {
                           "Art":  "Krimi",
@@ -525,8 +525,8 @@
                       {
                           "Art":  "Dokumentation",
                           "Sender":  "ARD-alpha HD",
-                          "Beginn":  "2026-09-21T03:10:00",
-                          "Ende":  "2026-09-21T04:10:00",
+                          "Beginn":  "2026-09-21T03:05:00",
+                          "Ende":  "2026-09-21T04:05:00",
                           "Sendung":  "Space Night CLASSICS"
                       },
                       {
@@ -693,7 +693,7 @@
                       {
                           "Art":  "Dokumentation",
                           "Sender":  "ARD-alpha HD",
-                          "Beginn":  "2026-09-21T04:25:00",
+                          "Beginn":  "2026-09-21T04:20:00",
                           "Ende":  "2026-09-21T05:15:00",
                           "Sendung":  "Space Night"
                       },
@@ -3171,7 +3171,7 @@
                       {
                           "Art":  "Dokumentation",
                           "Sender":  "Welt HD",
-                          "Beginn":  "2026-09-21T21:50:00",
+                          "Beginn":  "2026-09-21T21:55:00",
                           "Ende":  "2026-09-21T22:55:00",
                           "Sendung":  "Der Wasserzoll - Kontrolleinheit See im Einsatz"
                       },
@@ -3222,7 +3222,7 @@
                           "Sender":  "TLC",
                           "Beginn":  "2026-09-21T22:15:00",
                           "Ende":  "2026-09-21T23:10:00",
-                          "Sendung":  "Married To Evil"
+                          "Sendung":  "Married to Evil"
                       },
                       {
                           "Art":  "Serie",
@@ -3306,7 +3306,7 @@
                           "Sender":  "TLC",
                           "Beginn":  "2026-09-21T23:10:00",
                           "Ende":  "2026-09-22T00:10:00",
-                          "Sendung":  "Married To Evil"
+                          "Sendung":  "Married to Evil"
                       },
                       {
                           "Art":  "Dokumentation",
@@ -3522,7 +3522,7 @@
                           "Art":  "Dokumentation",
                           "Sender":  "Welt HD",
                           "Beginn":  "2026-09-22T01:00:00",
-                          "Ende":  "2026-09-22T01:40:00",
+                          "Ende":  "2026-09-22T01:45:00",
                           "Sendung":  "Frauen in Russlands Gefängnissen"
                       },
                       {
@@ -3597,17 +3597,17 @@
                       },
                       {
                           "Art":  "Krimi",
-                          "Sender":  "Welt HD",
-                          "Beginn":  "2026-09-22T01:40:00",
-                          "Ende":  "2026-09-22T02:25:00",
-                          "Sendung":  "Rollende Festungen - Sonderwagen der Polizei"
-                      },
-                      {
-                          "Art":  "Krimi",
                           "Sender":  "rbb Berlin HD",
                           "Beginn":  "2026-09-22T01:45:00",
                           "Ende":  "2026-09-22T02:35:00",
                           "Sendung":  "Nordisch herb"
+                      },
+                      {
+                          "Art":  "Krimi",
+                          "Sender":  "Welt HD",
+                          "Beginn":  "2026-09-22T01:45:00",
+                          "Ende":  "2026-09-22T02:25:00",
+                          "Sendung":  "Rollende Festungen - Sonderwagen der Polizei"
                       },
                       {
                           "Art":  "Serie",
@@ -5486,13 +5486,6 @@
                           "Sendung":  "MareTV"
                       },
                       {
-                          "Art":  "Dokumentation",
-                          "Sender":  "Welt HD",
-                          "Beginn":  "2026-09-22T15:25:00",
-                          "Ende":  "2026-09-22T15:55:00",
-                          "Sendung":  "WELT-Spezial"
-                      },
-                      {
                           "Art":  "Serie",
                           "Sender":  "KiKa HD",
                           "Beginn":  "2026-09-22T15:25:00",
@@ -5505,6 +5498,13 @@
                           "Beginn":  "2026-09-22T15:25:00",
                           "Ende":  "2026-09-22T15:55:00",
                           "Sendung":  "Hardcore Pawn - Das härteste Pfandhaus Detroits"
+                      },
+                      {
+                          "Art":  "Dokumentation",
+                          "Sender":  "Welt HD",
+                          "Beginn":  "2026-09-22T15:30:00",
+                          "Ende":  "2026-09-22T15:55:00",
+                          "Sendung":  "WELT-Spezial"
                       },
                       {
                           "Art":  "Serie",
@@ -6476,7 +6476,7 @@
                           "Art":  "Dokumentation",
                           "Sender":  "Welt HD",
                           "Beginn":  "2026-09-22T23:05:00",
-                          "Ende":  "2026-09-23T00:10:00",
+                          "Ende":  "2026-09-23T00:05:00",
                           "Sendung":  "Erde an Aliens"
                       },
                       {
