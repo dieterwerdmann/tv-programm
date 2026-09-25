@@ -1,8 +1,8 @@
 ﻿{
-    "Aktualisiert":  "2026-09-25T10:28:52",
+    "Aktualisiert":  "2026-09-25T17:22:00",
     "ZeitraumVon":  "2026-09-25T00:00:00",
     "ZeitraumBis":  "2026-09-27T00:00:00",
-    "Anzahl":  929,
+    "Anzahl":  992,
     "Sendungen":  [
                       {
                           "Art":  "Dokumentation",
@@ -860,6 +860,13 @@
                       },
                       {
                           "Art":  "Dokumentation",
+                          "Sender":  "NTV",
+                          "Beginn":  "2026-09-25T06:00:00",
+                          "Ende":  "2026-09-25T09:00:00",
+                          "Sendung":  "Deutschland am Morgen"
+                      },
+                      {
+                          "Art":  "Dokumentation",
                           "Sender":  "rbb Berlin HD",
                           "Beginn":  "2026-09-25T06:00:00",
                           "Ende":  "2026-09-25T08:00:00",
@@ -1231,6 +1238,13 @@
                       },
                       {
                           "Art":  "Dokumentation",
+                          "Sender":  "NTV",
+                          "Beginn":  "2026-09-25T09:00:00",
+                          "Ende":  "2026-09-25T09:15:00",
+                          "Sendung":  "Nachrichten"
+                      },
+                      {
+                          "Art":  "Dokumentation",
                           "Sender":  "Welt der Wunder",
                           "Beginn":  "2026-09-25T09:00:00",
                           "Ende":  "2026-09-25T10:00:00",
@@ -1273,6 +1287,13 @@
                       },
                       {
                           "Art":  "Dokumentation",
+                          "Sender":  "NTV",
+                          "Beginn":  "2026-09-25T09:15:00",
+                          "Ende":  "2026-09-25T09:30:00",
+                          "Sendung":  "ntv Wirtschaft"
+                      },
+                      {
+                          "Art":  "Dokumentation",
                           "Sender":  "ZDFinfo HD",
                           "Beginn":  "2026-09-25T09:15:00",
                           "Ende":  "2026-09-25T09:58:00",
@@ -1293,11 +1314,25 @@
                           "Sendung":  "Notre-Dame, die Jahrhundertbaustelle"
                       },
                       {
+                          "Art":  "Dokumentation",
+                          "Sender":  "NTV",
+                          "Beginn":  "2026-09-25T09:30:00",
+                          "Ende":  "2026-09-25T09:40:00",
+                          "Sendung":  "Nachrichten"
+                      },
+                      {
                           "Art":  "Serie",
                           "Sender":  "KiKa HD",
                           "Beginn":  "2026-09-25T09:35:00",
                           "Ende":  "2026-09-25T10:10:00",
                           "Sendung":  "Franklin \u0026 Freunde"
+                      },
+                      {
+                          "Art":  "Dokumentation",
+                          "Sender":  "NTV",
+                          "Beginn":  "2026-09-25T09:40:00",
+                          "Ende":  "2026-09-25T10:00:00",
+                          "Sendung":  "ntv Wirtschaft"
                       },
                       {
                           "Art":  "Serie",
@@ -1329,6 +1364,13 @@
                       },
                       {
                           "Art":  "Dokumentation",
+                          "Sender":  "NTV",
+                          "Beginn":  "2026-09-25T10:00:00",
+                          "Ende":  "2026-09-25T10:15:00",
+                          "Sendung":  "Nachrichten"
+                      },
+                      {
+                          "Art":  "Dokumentation",
                           "Sender":  "Welt der Wunder",
                           "Beginn":  "2026-09-25T10:00:00",
                           "Ende":  "2026-09-25T11:00:00",
@@ -1356,6 +1398,13 @@
                           "Sendung":  "Hoch hinaus II: Die Jägerin aus Leidenschaft - Eine Familientradition lebt weiter"
                       },
                       {
+                          "Art":  "Dokumentation",
+                          "Sender":  "NTV",
+                          "Beginn":  "2026-09-25T10:15:00",
+                          "Ende":  "2026-09-25T10:30:00",
+                          "Sendung":  "ntv Wirtschaft"
+                      },
+                      {
                           "Art":  "Serie",
                           "Sender":  "KiKa HD",
                           "Beginn":  "2026-09-25T10:15:00",
@@ -1375,6 +1424,13 @@
                           "Beginn":  "2026-09-25T10:20:00",
                           "Ende":  "2026-09-25T11:10:00",
                           "Sendung":  "Rote Rosen"
+                      },
+                      {
+                          "Art":  "Dokumentation",
+                          "Sender":  "NTV",
+                          "Beginn":  "2026-09-25T10:30:00",
+                          "Ende":  "2026-09-25T10:40:00",
+                          "Sendung":  "Nachrichten"
                       },
                       {
                           "Art":  "Krimi",
@@ -1413,6 +1469,13 @@
                       },
                       {
                           "Art":  "Dokumentation",
+                          "Sender":  "NTV",
+                          "Beginn":  "2026-09-25T10:40:00",
+                          "Ende":  "2026-09-25T11:00:00",
+                          "Sendung":  "ntv Wirtschaft"
+                      },
+                      {
+                          "Art":  "Dokumentation",
                           "Sender":  "ZDFinfo HD",
                           "Beginn":  "2026-09-25T10:45:00",
                           "Ende":  "2026-09-25T11:30:00",
@@ -1431,6 +1494,13 @@
                           "Beginn":  "2026-09-25T10:50:00",
                           "Ende":  "2026-09-25T11:40:00",
                           "Sendung":  "Sturm der Liebe"
+                      },
+                      {
+                          "Art":  "Dokumentation",
+                          "Sender":  "NTV",
+                          "Beginn":  "2026-09-25T11:00:00",
+                          "Ende":  "2026-09-25T11:15:00",
+                          "Sendung":  "Nachrichten"
                       },
                       {
                           "Art":  "Serie",
@@ -1469,6 +1539,13 @@
                       },
                       {
                           "Art":  "Dokumentation",
+                          "Sender":  "NTV",
+                          "Beginn":  "2026-09-25T11:15:00",
+                          "Ende":  "2026-09-25T11:30:00",
+                          "Sendung":  "ntv Wirtschaft"
+                      },
+                      {
+                          "Art":  "Dokumentation",
                           "Sender":  "rbb Berlin HD",
                           "Beginn":  "2026-09-25T11:15:00",
                           "Ende":  "2026-09-25T12:05:00",
@@ -1497,6 +1574,13 @@
                       },
                       {
                           "Art":  "Dokumentation",
+                          "Sender":  "NTV",
+                          "Beginn":  "2026-09-25T11:30:00",
+                          "Ende":  "2026-09-25T11:40:00",
+                          "Sendung":  "Nachrichten"
+                      },
+                      {
+                          "Art":  "Dokumentation",
                           "Sender":  "ZDFinfo HD",
                           "Beginn":  "2026-09-25T11:30:00",
                           "Ende":  "2026-09-25T12:15:00",
@@ -1508,6 +1592,13 @@
                           "Beginn":  "2026-09-25T11:35:00",
                           "Ende":  "2026-09-25T12:25:00",
                           "Sendung":  "Rote Rosen"
+                      },
+                      {
+                          "Art":  "Dokumentation",
+                          "Sender":  "NTV",
+                          "Beginn":  "2026-09-25T11:40:00",
+                          "Ende":  "2026-09-25T12:00:00",
+                          "Sendung":  "ntv Wirtschaft"
                       },
                       {
                           "Art":  "Dokumentation",
@@ -1543,6 +1634,13 @@
                           "Beginn":  "2026-09-25T12:00:00",
                           "Ende":  "2026-09-25T14:00:00",
                           "Sendung":  "ZDF-Mittagsmagazin"
+                      },
+                      {
+                          "Art":  "Dokumentation",
+                          "Sender":  "NTV",
+                          "Beginn":  "2026-09-25T12:00:00",
+                          "Ende":  "2026-09-25T12:15:00",
+                          "Sendung":  "Nachrichten"
                       },
                       {
                           "Art":  "Dokumentation",
@@ -1585,6 +1683,13 @@
                           "Beginn":  "2026-09-25T12:15:00",
                           "Ende":  "2026-09-25T13:10:00",
                           "Sendung":  "Lost Places"
+                      },
+                      {
+                          "Art":  "Dokumentation",
+                          "Sender":  "NTV",
+                          "Beginn":  "2026-09-25T12:15:00",
+                          "Ende":  "2026-09-25T12:30:00",
+                          "Sendung":  "ntv Wirtschaft"
                       },
                       {
                           "Art":  "Dokumentation",
@@ -1665,6 +1770,13 @@
                       },
                       {
                           "Art":  "Dokumentation",
+                          "Sender":  "NTV",
+                          "Beginn":  "2026-09-25T13:00:00",
+                          "Ende":  "2026-09-25T13:15:00",
+                          "Sendung":  "Nachrichten"
+                      },
+                      {
+                          "Art":  "Dokumentation",
                           "Sender":  "WDR Fernsehen",
                           "Beginn":  "2026-09-25T13:00:00",
                           "Ende":  "2026-09-25T13:50:00",
@@ -1725,6 +1837,13 @@
                           "Beginn":  "2026-09-25T13:10:00",
                           "Ende":  "2026-09-25T14:00:00",
                           "Sendung":  "In aller Freundschaft - Die jungen Ärzte"
+                      },
+                      {
+                          "Art":  "Dokumentation",
+                          "Sender":  "NTV",
+                          "Beginn":  "2026-09-25T13:15:00",
+                          "Ende":  "2026-09-25T13:30:00",
+                          "Sendung":  "ntv Wirtschaft"
                       },
                       {
                           "Art":  "Serie",
@@ -1798,6 +1917,13 @@
                       },
                       {
                           "Art":  "Dokumentation",
+                          "Sender":  "NTV",
+                          "Beginn":  "2026-09-25T14:00:00",
+                          "Ende":  "2026-09-25T14:15:00",
+                          "Sendung":  "Nachrichten"
+                      },
+                      {
+                          "Art":  "Dokumentation",
                           "Sender":  "phoenix",
                           "Beginn":  "2026-09-25T14:00:00",
                           "Ende":  "2026-09-25T14:45:00",
@@ -1851,6 +1977,13 @@
                           "Beginn":  "2026-09-25T14:15:00",
                           "Ende":  "2026-09-25T15:00:00",
                           "Sendung":  "Yellowstone - Leben auf dem Vulkan"
+                      },
+                      {
+                          "Art":  "Dokumentation",
+                          "Sender":  "NTV",
+                          "Beginn":  "2026-09-25T14:15:00",
+                          "Ende":  "2026-09-25T14:30:00",
+                          "Sendung":  "ntv Wirtschaft"
                       },
                       {
                           "Art":  "Krimi",
@@ -1951,6 +2084,13 @@
                           "Sendung":  "Die Küchenmacher - Von Maßarbeit bis Massenware"
                       },
                       {
+                          "Art":  "Dokumentation",
+                          "Sender":  "NTV",
+                          "Beginn":  "2026-09-25T15:00:00",
+                          "Ende":  "2026-09-25T15:30:00",
+                          "Sendung":  "Nachrichten"
+                      },
+                      {
                           "Art":  "Serie",
                           "Sender":  "KiKa HD",
                           "Beginn":  "2026-09-25T15:00:00",
@@ -2042,11 +2182,25 @@
                           "Sendung":  "Hardcore Pawn - Das härteste Pfandhaus Detroits"
                       },
                       {
+                          "Art":  "Dokumentation",
+                          "Sender":  "NTV",
+                          "Beginn":  "2026-09-25T15:30:00",
+                          "Ende":  "2026-09-25T15:40:00",
+                          "Sendung":  "ntv Wirtschaft"
+                      },
+                      {
                           "Art":  "Serie",
                           "Sender":  "Sport1",
                           "Beginn":  "2026-09-25T15:30:00",
                           "Ende":  "2026-09-25T16:00:00",
                           "Sendung":  "Hausmeister Krause - Ordnung muss sein"
+                      },
+                      {
+                          "Art":  "Dokumentation",
+                          "Sender":  "NTV",
+                          "Beginn":  "2026-09-25T15:40:00",
+                          "Ende":  "2026-09-25T16:00:00",
+                          "Sendung":  "ntv Service"
                       },
                       {
                           "Art":  "Dokumentation",
@@ -2099,6 +2253,13 @@
                       },
                       {
                           "Art":  "Dokumentation",
+                          "Sender":  "NTV",
+                          "Beginn":  "2026-09-25T16:00:00",
+                          "Ende":  "2026-09-25T16:15:00",
+                          "Sendung":  "Nachrichten"
+                      },
+                      {
+                          "Art":  "Dokumentation",
                           "Sender":  "Welt der Wunder",
                           "Beginn":  "2026-09-25T16:00:00",
                           "Ende":  "2026-09-25T17:00:00",
@@ -2131,6 +2292,13 @@
                           "Beginn":  "2026-09-25T16:10:00",
                           "Ende":  "2026-09-25T16:25:00",
                           "Sendung":  "Power Sisters"
+                      },
+                      {
+                          "Art":  "Dokumentation",
+                          "Sender":  "NTV",
+                          "Beginn":  "2026-09-25T16:15:00",
+                          "Ende":  "2026-09-25T16:30:00",
+                          "Sendung":  "ntv Wirtschaft"
                       },
                       {
                           "Art":  "Serie",
@@ -2224,6 +2392,13 @@
                           "Sendung":  "Sherlock Yack - Der Zoodetektiv"
                       },
                       {
+                          "Art":  "Dokumentation",
+                          "Sender":  "NTV",
+                          "Beginn":  "2026-09-25T17:00:00",
+                          "Ende":  "2026-09-25T17:15:00",
+                          "Sendung":  "Nachrichten"
+                      },
+                      {
                           "Art":  "Serie",
                           "Sender":  "KiKa HD",
                           "Beginn":  "2026-09-25T17:00:00",
@@ -2271,6 +2446,13 @@
                           "Beginn":  "2026-09-25T17:10:00",
                           "Ende":  "2026-09-25T18:00:00",
                           "Sendung":  "Leopard, Seebär \u0026 Co."
+                      },
+                      {
+                          "Art":  "Dokumentation",
+                          "Sender":  "NTV",
+                          "Beginn":  "2026-09-25T17:15:00",
+                          "Ende":  "2026-09-25T17:30:00",
+                          "Sendung":  "ntv Wirtschaft"
                       },
                       {
                           "Art":  "Dokumentation",
@@ -2393,6 +2575,13 @@
                       },
                       {
                           "Art":  "Dokumentation",
+                          "Sender":  "NTV",
+                          "Beginn":  "2026-09-25T18:00:00",
+                          "Ende":  "2026-09-25T18:30:00",
+                          "Sendung":  "Nachrichten"
+                      },
+                      {
+                          "Art":  "Dokumentation",
                           "Sender":  "phoenix",
                           "Beginn":  "2026-09-25T18:00:00",
                           "Ende":  "2026-09-25T18:30:00",
@@ -2449,6 +2638,13 @@
                       },
                       {
                           "Art":  "Dokumentation",
+                          "Sender":  "NTV",
+                          "Beginn":  "2026-09-25T18:30:00",
+                          "Ende":  "2026-09-25T18:40:00",
+                          "Sendung":  "ntv Wirtschaft"
+                      },
+                      {
+                          "Art":  "Dokumentation",
                           "Sender":  "phoenix",
                           "Beginn":  "2026-09-25T18:30:00",
                           "Ende":  "2026-09-25T19:15:00",
@@ -2481,6 +2677,13 @@
                           "Beginn":  "2026-09-25T18:35:00",
                           "Ende":  "2026-09-25T18:40:00",
                           "Sendung":  "Sam \u0026 Julia im Mäusehaus"
+                      },
+                      {
+                          "Art":  "Dokumentation",
+                          "Sender":  "NTV",
+                          "Beginn":  "2026-09-25T18:40:00",
+                          "Ende":  "2026-09-25T19:00:00",
+                          "Sendung":  "ntv Startup"
                       },
                       {
                           "Art":  "Serie",
@@ -2518,11 +2721,25 @@
                           "Sendung":  "Unser Sandmännchen"
                       },
                       {
+                          "Art":  "Dokumentation",
+                          "Sender":  "NTV",
+                          "Beginn":  "2026-09-25T19:00:00",
+                          "Ende":  "2026-09-25T19:15:00",
+                          "Sendung":  "Nachrichten"
+                      },
+                      {
                           "Art":  "Serie",
                           "Sender":  "KiKa HD",
                           "Beginn":  "2026-09-25T19:00:00",
                           "Ende":  "2026-09-25T19:15:00",
                           "Sendung":  "Robin Hood - Schlitzohr von Sherwood"
+                      },
+                      {
+                          "Art":  "Dokumentation",
+                          "Sender":  "NTV",
+                          "Beginn":  "2026-09-25T19:15:00",
+                          "Ende":  "2026-09-25T19:30:00",
+                          "Sendung":  "ntv Wirtschaft"
                       },
                       {
                           "Art":  "Dokumentation",
@@ -2628,6 +2845,13 @@
                           "Beginn":  "2026-09-25T19:55:00",
                           "Ende":  "2026-09-25T20:00:00",
                           "Sendung":  "Wissen vor acht - Erde"
+                      },
+                      {
+                          "Art":  "Dokumentation",
+                          "Sender":  "NTV",
+                          "Beginn":  "2026-09-25T20:00:00",
+                          "Ende":  "2026-09-25T20:15:00",
+                          "Sendung":  "Nachrichten"
                       },
                       {
                           "Art":  "Dokumentation",
@@ -2868,6 +3092,13 @@
                           "Sendung":  "Container Wars"
                       },
                       {
+                          "Art":  "Dokumentation",
+                          "Sender":  "NTV",
+                          "Beginn":  "2026-09-25T22:00:00",
+                          "Ende":  "2026-09-25T22:05:00",
+                          "Sendung":  "Nachrichten"
+                      },
+                      {
                           "Art":  "Krimi",
                           "Sender":  "zdf_neo HD",
                           "Beginn":  "2026-09-25T22:00:00",
@@ -2981,6 +3212,13 @@
                       },
                       {
                           "Art":  "Dokumentation",
+                          "Sender":  "NTV",
+                          "Beginn":  "2026-09-25T23:00:00",
+                          "Ende":  "2026-09-25T23:15:00",
+                          "Sendung":  "Nachrichten"
+                      },
+                      {
+                          "Art":  "Dokumentation",
                           "Sender":  "phoenix",
                           "Beginn":  "2026-09-25T23:00:00",
                           "Ende":  "2026-09-26T00:00:00",
@@ -3027,6 +3265,13 @@
                           "Beginn":  "2026-09-25T23:15:00",
                           "Ende":  "2026-09-26T00:15:00",
                           "Sendung":  "Bergwelten"
+                      },
+                      {
+                          "Art":  "Dokumentation",
+                          "Sender":  "NTV",
+                          "Beginn":  "2026-09-25T23:15:00",
+                          "Ende":  "2026-09-25T23:30:00",
+                          "Sendung":  "ntv Wirtschaft"
                       },
                       {
                           "Art":  "Dokumentation",
@@ -3139,6 +3384,13 @@
                           "Beginn":  "2026-09-26T00:15:00",
                           "Ende":  "2026-09-26T01:40:00",
                           "Sendung":  "Tod im Strandhaus"
+                      },
+                      {
+                          "Art":  "Dokumentation",
+                          "Sender":  "NTV",
+                          "Beginn":  "2026-09-26T00:20:00",
+                          "Ende":  "2026-09-26T01:15:00",
+                          "Sendung":  "Megafestungen - Geniale Bauwerke"
                       },
                       {
                           "Art":  "Dokumentation",
@@ -3870,6 +4122,13 @@
                       },
                       {
                           "Art":  "Dokumentation",
+                          "Sender":  "NTV",
+                          "Beginn":  "2026-09-26T06:00:00",
+                          "Ende":  "2026-09-26T06:15:00",
+                          "Sendung":  "Nachrichten"
+                      },
+                      {
+                          "Art":  "Dokumentation",
                           "Sender":  "Welt der Wunder",
                           "Beginn":  "2026-09-26T06:00:00",
                           "Ende":  "2026-09-26T07:00:00",
@@ -4023,6 +4282,13 @@
                           "Sendung":  "Nitso und das zottelige Alphabet"
                       },
                       {
+                          "Art":  "Dokumentation",
+                          "Sender":  "NTV",
+                          "Beginn":  "2026-09-26T06:40:00",
+                          "Ende":  "2026-09-26T07:00:00",
+                          "Sendung":  "ntv Service"
+                      },
+                      {
                           "Art":  "Serie",
                           "Sender":  "KiKa HD",
                           "Beginn":  "2026-09-26T06:40:00",
@@ -4077,6 +4343,13 @@
                           "Beginn":  "2026-09-26T06:55:00",
                           "Ende":  "2026-09-26T07:05:00",
                           "Sendung":  "Edgar, das Super-Karibu"
+                      },
+                      {
+                          "Art":  "Dokumentation",
+                          "Sender":  "NTV",
+                          "Beginn":  "2026-09-26T07:00:00",
+                          "Ende":  "2026-09-26T07:30:00",
+                          "Sendung":  "Nachrichten"
                       },
                       {
                           "Art":  "Dokumentation",
@@ -4185,6 +4458,13 @@
                       },
                       {
                           "Art":  "Dokumentation",
+                          "Sender":  "NTV",
+                          "Beginn":  "2026-09-26T07:30:00",
+                          "Ende":  "2026-09-26T08:00:00",
+                          "Sendung":  "Nachrichten"
+                      },
+                      {
+                          "Art":  "Dokumentation",
                           "Sender":  "zdf_neo HD",
                           "Beginn":  "2026-09-26T07:30:00",
                           "Ende":  "2026-09-26T08:15:00",
@@ -4283,6 +4563,13 @@
                       },
                       {
                           "Art":  "Dokumentation",
+                          "Sender":  "NTV",
+                          "Beginn":  "2026-09-26T08:00:00",
+                          "Ende":  "2026-09-26T08:30:00",
+                          "Sendung":  "Nachrichten"
+                      },
+                      {
+                          "Art":  "Dokumentation",
                           "Sender":  "phoenix",
                           "Beginn":  "2026-09-26T08:00:00",
                           "Ende":  "2026-09-26T08:45:00",
@@ -4359,6 +4646,13 @@
                           "Sendung":  "Tietjen campt"
                       },
                       {
+                          "Art":  "Dokumentation",
+                          "Sender":  "NTV",
+                          "Beginn":  "2026-09-26T08:30:00",
+                          "Ende":  "2026-09-26T09:00:00",
+                          "Sendung":  "Nachrichten"
+                      },
+                      {
                           "Art":  "Spielfilm",
                           "Sender":  "MDR Sachsen HD",
                           "Beginn":  "2026-09-26T08:30:00",
@@ -4427,6 +4721,13 @@
                           "Beginn":  "2026-09-26T08:55:00",
                           "Ende":  "2026-09-26T09:20:00",
                           "Sendung":  "Die Pfefferkörner"
+                      },
+                      {
+                          "Art":  "Dokumentation",
+                          "Sender":  "NTV",
+                          "Beginn":  "2026-09-26T09:00:00",
+                          "Ende":  "2026-09-26T09:30:00",
+                          "Sendung":  "Nachrichten"
                       },
                       {
                           "Art":  "Dokumentation",
@@ -4535,6 +4836,13 @@
                       },
                       {
                           "Art":  "Dokumentation",
+                          "Sender":  "NTV",
+                          "Beginn":  "2026-09-26T09:30:00",
+                          "Ende":  "2026-09-26T10:00:00",
+                          "Sendung":  "Nachrichten"
+                      },
+                      {
+                          "Art":  "Dokumentation",
                           "Sender":  "phoenix",
                           "Beginn":  "2026-09-26T09:30:00",
                           "Ende":  "2026-09-26T10:00:00",
@@ -4605,6 +4913,13 @@
                       },
                       {
                           "Art":  "Dokumentation",
+                          "Sender":  "NTV",
+                          "Beginn":  "2026-09-26T10:00:00",
+                          "Ende":  "2026-09-26T10:30:00",
+                          "Sendung":  "Nachrichten"
+                      },
+                      {
+                          "Art":  "Dokumentation",
                           "Sender":  "phoenix",
                           "Beginn":  "2026-09-26T10:00:00",
                           "Ende":  "2026-09-26T10:45:00",
@@ -4667,6 +4982,13 @@
                           "Sendung":  "Ostwind 5 - Der große Orkan"
                       },
                       {
+                          "Art":  "Dokumentation",
+                          "Sender":  "NTV",
+                          "Beginn":  "2026-09-26T10:30:00",
+                          "Ende":  "2026-09-26T11:00:00",
+                          "Sendung":  "Nachrichten"
+                      },
+                      {
                           "Art":  "Serie",
                           "Sender":  "ONE HD",
                           "Beginn":  "2026-09-26T10:30:00",
@@ -4724,6 +5046,13 @@
                       },
                       {
                           "Art":  "Dokumentation",
+                          "Sender":  "NTV",
+                          "Beginn":  "2026-09-26T11:00:00",
+                          "Ende":  "2026-09-26T11:30:00",
+                          "Sendung":  "Nachrichten"
+                      },
+                      {
+                          "Art":  "Dokumentation",
                           "Sender":  "zdf_neo HD",
                           "Beginn":  "2026-09-26T11:10:00",
                           "Ende":  "2026-09-26T11:55:00",
@@ -4770,6 +5099,13 @@
                           "Beginn":  "2026-09-26T11:25:00",
                           "Ende":  "2026-09-26T12:25:00",
                           "Sendung":  "Die Zwangsvollstrecker"
+                      },
+                      {
+                          "Art":  "Dokumentation",
+                          "Sender":  "NTV",
+                          "Beginn":  "2026-09-26T11:30:00",
+                          "Ende":  "2026-09-26T12:00:00",
+                          "Sendung":  "Nachrichten"
                       },
                       {
                           "Art":  "Dokumentation",
@@ -4826,6 +5162,13 @@
                           "Beginn":  "2026-09-26T12:00:00",
                           "Ende":  "2026-09-26T12:45:00",
                           "Sendung":  "Als die Ökos in den Norden kamen"
+                      },
+                      {
+                          "Art":  "Dokumentation",
+                          "Sender":  "NTV",
+                          "Beginn":  "2026-09-26T12:00:00",
+                          "Ende":  "2026-09-26T12:30:00",
+                          "Sendung":  "Nachrichten"
                       },
                       {
                           "Art":  "Dokumentation",
@@ -4892,6 +5235,13 @@
                       },
                       {
                           "Art":  "Dokumentation",
+                          "Sender":  "NTV",
+                          "Beginn":  "2026-09-26T12:30:00",
+                          "Ende":  "2026-09-26T12:40:00",
+                          "Sendung":  "ntv Startup"
+                      },
+                      {
+                          "Art":  "Dokumentation",
                           "Sender":  "SWR BW HD",
                           "Beginn":  "2026-09-26T12:30:00",
                           "Ende":  "2026-09-26T13:15:00",
@@ -4903,6 +5253,13 @@
                           "Beginn":  "2026-09-26T12:30:00",
                           "Ende":  "2026-09-26T13:20:00",
                           "Sendung":  "Petrocelli"
+                      },
+                      {
+                          "Art":  "Dokumentation",
+                          "Sender":  "NTV",
+                          "Beginn":  "2026-09-26T12:40:00",
+                          "Ende":  "2026-09-26T13:00:00",
+                          "Sendung":  "ntv Service"
                       },
                       {
                           "Art":  "Dokumentation",
@@ -4924,6 +5281,13 @@
                           "Beginn":  "2026-09-26T12:45:00",
                           "Ende":  "2026-09-26T14:15:00",
                           "Sendung":  "Rätsel des Kosmos - Ist die Erde einzigartig?"
+                      },
+                      {
+                          "Art":  "Dokumentation",
+                          "Sender":  "NTV",
+                          "Beginn":  "2026-09-26T13:00:00",
+                          "Ende":  "2026-09-26T13:30:00",
+                          "Sendung":  "Nachrichten"
                       },
                       {
                           "Art":  "Dokumentation",
@@ -5017,6 +5381,13 @@
                           "Sendung":  "Mythos Tahiti"
                       },
                       {
+                          "Art":  "Dokumentation",
+                          "Sender":  "NTV",
+                          "Beginn":  "2026-09-26T13:30:00",
+                          "Ende":  "2026-09-26T14:00:00",
+                          "Sendung":  "PS - Automagazin"
+                      },
+                      {
                           "Art":  "Serie",
                           "Sender":  "Sport1",
                           "Beginn":  "2026-09-26T13:30:00",
@@ -5078,6 +5449,13 @@
                           "Beginn":  "2026-09-26T14:00:00",
                           "Ende":  "2026-09-26T15:30:00",
                           "Sendung":  "Landpartie"
+                      },
+                      {
+                          "Art":  "Dokumentation",
+                          "Sender":  "NTV",
+                          "Beginn":  "2026-09-26T14:00:00",
+                          "Ende":  "2026-09-26T14:30:00",
+                          "Sendung":  "Nachrichten"
                       },
                       {
                           "Art":  "Dokumentation",
@@ -5214,6 +5592,13 @@
                       },
                       {
                           "Art":  "Dokumentation",
+                          "Sender":  "NTV",
+                          "Beginn":  "2026-09-26T15:00:00",
+                          "Ende":  "2026-09-26T15:10:00",
+                          "Sendung":  "Nachrichten"
+                      },
+                      {
+                          "Art":  "Dokumentation",
                           "Sender":  "ZDFinfo HD",
                           "Beginn":  "2026-09-26T15:00:00",
                           "Ende":  "2026-09-26T15:45:00",
@@ -5337,6 +5722,13 @@
                           "Beginn":  "2026-09-26T16:00:00",
                           "Ende":  "2026-09-26T16:30:00",
                           "Sendung":  "Auf\u0027m Trecker"
+                      },
+                      {
+                          "Art":  "Dokumentation",
+                          "Sender":  "NTV",
+                          "Beginn":  "2026-09-26T16:00:00",
+                          "Ende":  "2026-09-26T16:10:00",
+                          "Sendung":  "Nachrichten"
                       },
                       {
                           "Art":  "Dokumentation",
@@ -5535,6 +5927,13 @@
                           "Sendung":  "Neues aus dem Münchner Tierpark Hellabrunn"
                       },
                       {
+                          "Art":  "Dokumentation",
+                          "Sender":  "NTV",
+                          "Beginn":  "2026-09-26T17:00:00",
+                          "Ende":  "2026-09-26T17:10:00",
+                          "Sendung":  "Nachrichten"
+                      },
+                      {
                           "Art":  "Serie",
                           "Sender":  "Sport1",
                           "Beginn":  "2026-09-26T17:00:00",
@@ -5725,6 +6124,13 @@
                       },
                       {
                           "Art":  "Dokumentation",
+                          "Sender":  "NTV",
+                          "Beginn":  "2026-09-26T18:00:00",
+                          "Ende":  "2026-09-26T18:30:00",
+                          "Sendung":  "Nachrichten"
+                      },
+                      {
+                          "Art":  "Dokumentation",
                           "Sender":  "phoenix",
                           "Beginn":  "2026-09-26T18:00:00",
                           "Ende":  "2026-09-26T18:45:00",
@@ -5899,6 +6305,13 @@
                           "Sendung":  "Unser Sandmännchen"
                       },
                       {
+                          "Art":  "Dokumentation",
+                          "Sender":  "NTV",
+                          "Beginn":  "2026-09-26T19:00:00",
+                          "Ende":  "2026-09-26T19:10:00",
+                          "Sendung":  "Nachrichten"
+                      },
+                      {
                           "Art":  "Serie",
                           "Sender":  "KiKa HD",
                           "Beginn":  "2026-09-26T19:00:00",
@@ -6002,6 +6415,13 @@
                           "Beginn":  "2026-09-26T19:55:00",
                           "Ende":  "2026-09-26T20:00:00",
                           "Sendung":  "Wissen vor acht - Zukunft"
+                      },
+                      {
+                          "Art":  "Dokumentation",
+                          "Sender":  "NTV",
+                          "Beginn":  "2026-09-26T20:00:00",
+                          "Ende":  "2026-09-26T20:15:00",
+                          "Sendung":  "Nachrichten"
                       },
                       {
                           "Art":  "Serie",
@@ -6159,6 +6579,13 @@
                       },
                       {
                           "Art":  "Dokumentation",
+                          "Sender":  "NTV",
+                          "Beginn":  "2026-09-26T21:00:00",
+                          "Ende":  "2026-09-26T21:05:00",
+                          "Sendung":  "Nachrichten"
+                      },
+                      {
+                          "Art":  "Dokumentation",
                           "Sender":  "phoenix",
                           "Beginn":  "2026-09-26T21:00:00",
                           "Ende":  "2026-09-26T21:45:00",
@@ -6278,6 +6705,13 @@
                       },
                       {
                           "Art":  "Dokumentation",
+                          "Sender":  "NTV",
+                          "Beginn":  "2026-09-26T22:00:00",
+                          "Ende":  "2026-09-26T22:05:00",
+                          "Sendung":  "Nachrichten"
+                      },
+                      {
+                          "Art":  "Dokumentation",
                           "Sender":  "tagesschau24 HD",
                           "Beginn":  "2026-09-26T22:05:00",
                           "Ende":  "2026-09-26T23:35:00",
@@ -6373,6 +6807,13 @@
                           "Beginn":  "2026-09-26T22:50:00",
                           "Ende":  "2026-09-26T23:35:00",
                           "Sendung":  "Bedienungen auf der Wies\u0027n (1989)"
+                      },
+                      {
+                          "Art":  "Dokumentation",
+                          "Sender":  "NTV",
+                          "Beginn":  "2026-09-26T23:00:00",
+                          "Ende":  "2026-09-26T23:30:00",
+                          "Sendung":  "Nachrichten"
                       },
                       {
                           "Art":  "Dokumentation",
