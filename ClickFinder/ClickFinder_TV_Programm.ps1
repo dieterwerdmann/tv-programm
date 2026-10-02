@@ -1,4 +1,4 @@
-param(
+﻿param(
     [ValidateSet('Alle','Dokumentation','Krimi','Spielfilm','Serie')]
     [string]$Filter = 'Alle',
 
@@ -177,8 +177,43 @@ function Export-TVProgramJson([string]$DatabasePath, $IniChannels, [string]$Path
     $table = Get-ClickFinderDataRange $DatabasePath $from $to
     $mapping = Build-Mapping $IniChannels $table
 
+    # Die Privatsender werden fuer Android/JSON direkt ueber die
+    # ClickFinder-Senderkennung auf die bestaetigten Anzeigenamen abgebildet.
+    # Dadurch sind keine kuenstlichen DVBViewer-/INI-Streams erforderlich.
+    $privateSender = @{
+        'XXP'             = 'DMAX HD'
+        'EUROSPORT'       = 'Eurosport 1 HD'
+        'HGTV'            = 'HGTV HD'
+        'KABEL'           = 'Kabel Eins Deutschland HD'
+        'NICK'            = 'Nick/CC+1 HD'
+        'RTL NITRO'       = 'NITRO HD'
+        'PRO7'            = 'Pro7 Deutschland HD'
+        'PROSIEBEN MAXX'  = 'ProSieben MAXX HD'
+        'RTL'             = 'RTL Deutschland HD'
+        'RTL PLUS'        = 'RTLup HD'
+        'RTL II'          = 'RTLZWEI Deutschland HD'
+        'SAT1'            = 'Sat.1 Deutschland HD'
+        'SAT.1 GOLD'      = 'SAT.1 Gold HD'
+        'SIXX'            = 'Sixx HD'
+        'S RTL'           = 'Super RTL Deutschland HD'
+        'TELE5'           = 'TELE 5 HD'
+        'VOX'             = 'Vox Deutschland HD'
+        'VOXUP'           = 'VOXup HD'
+        'N24'             = 'WELT HD'
+    }
+
     $programs = @()
+
+    # Normale INI-/DVBViewer-Sender.
+    # Privatsender werden hier uebersprungen und danach mit ihren
+    # bestaetigten Smartphone-Anzeigenamen direkt aus ClickFinder erzeugt.
     foreach ($entry in @($mapping.Entries)) {
+        $senderKey = ([string]$entry.SenderKennung).Trim().ToUpperInvariant()
+
+        if ($privateSender.ContainsKey($senderKey)) {
+            continue
+        }
+
         $kind = Get-Category $entry.Row
         if (-not $kind) { continue }
 
@@ -188,6 +223,33 @@ function Export-TVProgramJson([string]$DatabasePath, $IniChannels, [string]$Path
             Beginn  = ([datetime]$entry.Row.Beginn).ToString('yyyy-MM-ddTHH:mm:ss')
             Ende    = ([datetime]$entry.Row.Ende).ToString('yyyy-MM-ddTHH:mm:ss')
             Sendung = [string]$entry.Row.Titel
+        }
+    }
+
+    # Privatsender direkt aus den ClickFinder-Daten.
+    $privateRows = if ($table -is [System.Data.DataTable]) {
+        @($table.Rows)
+    }
+    else {
+        @($table)
+    }
+
+    foreach ($row in $privateRows) {
+        $senderKey = ([string]$row.SenderKennung).Trim().ToUpperInvariant()
+
+        if (-not $privateSender.ContainsKey($senderKey)) {
+            continue
+        }
+
+        $kind = Get-Category $row
+        if (-not $kind) { continue }
+
+        $programs += [pscustomobject]@{
+            Art     = $kind
+            Sender  = [string]$privateSender[$senderKey]
+            Beginn  = ([datetime]$row.Beginn).ToString('yyyy-MM-ddTHH:mm:ss')
+            Ende    = ([datetime]$row.Ende).ToString('yyyy-MM-ddTHH:mm:ss')
+            Sendung = [string]$row.Titel
         }
     }
 
@@ -1213,6 +1275,7 @@ catch {
 
     exit 1
 }
+
 
 
 
