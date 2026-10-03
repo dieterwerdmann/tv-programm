@@ -1,8 +1,8 @@
 ﻿{
-    "Aktualisiert":  "2026-10-03T20:51:43",
+    "Aktualisiert":  "2026-10-03T21:18:43",
     "ZeitraumVon":  "2026-10-03T00:00:00",
     "ZeitraumBis":  "2026-10-05T00:00:00",
-    "Anzahl":  1785,
+    "Anzahl":  1775,
     "Sendungen":  [
                       {
                           "Art":  "Spielfilm",
@@ -5760,13 +5760,6 @@
                       },
                       {
                           "Art":  "Spielfilm",
-                          "Sender":  "SWR BW HD",
-                          "Beginn":  "2026-10-03T20:15:00",
-                          "Ende":  "2026-10-03T21:45:00",
-                          "Sendung":  "Selbscht ischt d\u0027r Mann"
-                      },
-                      {
-                          "Art":  "Spielfilm",
                           "Sender":  "TELE 5 HD",
                           "Beginn":  "2026-10-03T20:15:00",
                           "Ende":  "2026-10-03T22:00:00",
@@ -8574,13 +8567,6 @@
                       },
                       {
                           "Art":  "Dokumentation",
-                          "Sender":  "arte HD",
-                          "Beginn":  "2026-10-04T07:45:00",
-                          "Ende":  "2026-10-04T08:35:00",
-                          "Sendung":  "Falco - Mon Amour"
-                      },
-                      {
-                          "Art":  "Dokumentation",
                           "Sender":  "hr-fernsehen HD",
                           "Beginn":  "2026-10-04T07:45:00",
                           "Ende":  "2026-10-04T08:30:00",
@@ -8774,13 +8760,6 @@
                           "Beginn":  "2026-10-04T08:30:00",
                           "Ende":  "2026-10-04T09:15:00",
                           "Sendung":  "Das war die DDR"
-                      },
-                      {
-                          "Art":  "Dokumentation",
-                          "Sender":  "zdf_neo HD",
-                          "Beginn":  "2026-10-04T08:30:00",
-                          "Ende":  "2026-10-04T09:15:00",
-                          "Sendung":  "Die Sonnenstadt der Pharaonen"
                       },
                       {
                           "Art":  "Serie",
@@ -9134,13 +9113,6 @@
                       },
                       {
                           "Art":  "Dokumentation",
-                          "Sender":  "hr-fernsehen HD",
-                          "Beginn":  "2026-10-04T10:00:00",
-                          "Ende":  "2026-10-04T10:45:00",
-                          "Sendung":  "Purple Disco Machine - From Dresden to the world"
-                      },
-                      {
-                          "Art":  "Dokumentation",
                           "Sender":  "NTV",
                           "Beginn":  "2026-10-04T10:00:00",
                           "Ende":  "2026-10-04T10:30:00",
@@ -9152,13 +9124,6 @@
                           "Beginn":  "2026-10-04T10:00:00",
                           "Ende":  "2026-10-04T10:45:00",
                           "Sendung":  "Das war die DDR"
-                      },
-                      {
-                          "Art":  "Dokumentation",
-                          "Sender":  "zdf_neo HD",
-                          "Beginn":  "2026-10-04T10:00:00",
-                          "Ende":  "2026-10-04T10:45:00",
-                          "Sendung":  "Der letzte Tag von Pompeji"
                       },
                       {
                           "Art":  "Spielfilm",
@@ -9623,13 +9588,6 @@
                           "Sendung":  "Zeichen des Bösen - Die Runen der SS"
                       },
                       {
-                          "Art":  "Dokumentation",
-                          "Sender":  "zdf_neo HD",
-                          "Beginn":  "2026-10-04T12:10:00",
-                          "Ende":  "2026-10-04T12:55:00",
-                          "Sendung":  "Ungelöste Fälle der Archäologie"
-                      },
-                      {
                           "Art":  "Krimi",
                           "Sender":  "RTLup HD",
                           "Beginn":  "2026-10-04T12:10:00",
@@ -9782,13 +9740,6 @@
                           "Beginn":  "2026-10-04T12:50:00",
                           "Ende":  "2026-10-04T13:45:00",
                           "Sendung":  "Richter Alexander Hold"
-                      },
-                      {
-                          "Art":  "Dokumentation",
-                          "Sender":  "zdf_neo HD",
-                          "Beginn":  "2026-10-04T12:55:00",
-                          "Ende":  "2026-10-04T13:40:00",
-                          "Sendung":  "Ungelöste Fälle der Archäologie"
                       },
                       {
                           "Art":  "Serie",
@@ -10001,13 +9952,6 @@
                           "Sendung":  "ntv Service"
                       },
                       {
-                          "Art":  "Dokumentation",
-                          "Sender":  "zdf_neo HD",
-                          "Beginn":  "2026-10-04T13:40:00",
-                          "Ende":  "2026-10-04T14:25:00",
-                          "Sendung":  "Ungelöste Fälle der Archäologie"
-                      },
-                      {
                           "Art":  "Serie",
                           "Sender":  "NDR FS HH HD",
                           "Beginn":  "2026-10-04T13:40:00",
@@ -10188,13 +10132,6 @@
                           "Beginn":  "2026-10-04T14:25:00",
                           "Ende":  "2026-10-04T14:35:00",
                           "Sendung":  "Reisen mit Kreta.de"
-                      },
-                      {
-                          "Art":  "Dokumentation",
-                          "Sender":  "zdf_neo HD",
-                          "Beginn":  "2026-10-04T14:25:00",
-                          "Ende":  "2026-10-04T15:10:00",
-                          "Sendung":  "Ungelöste Fälle der Archäologie"
                       },
                       {
                           "Art":  "Serie",
@@ -10426,13 +10363,6 @@
                           "Beginn":  "2026-10-04T15:10:00",
                           "Ende":  "2026-10-04T16:00:00",
                           "Sendung":  "Mysteriöse Phänomene - Rätsel von oben"
-                      },
-                      {
-                          "Art":  "Dokumentation",
-                          "Sender":  "zdf_neo HD",
-                          "Beginn":  "2026-10-04T15:10:00",
-                          "Ende":  "2026-10-04T15:55:00",
-                          "Sendung":  "Ungelöste Fälle der Archäologie"
                       },
                       {
                           "Art":  "Krimi",
