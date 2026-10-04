@@ -802,7 +802,7 @@ public static class ZattooFenster
         $Hoehe  = [int]($Screen.Height * 0.522)
 
         if ($env:COMPUTERNAME -eq 'LAPTOP') {
-            $Links -= 100
+            $Links -= 20
         }
 
         [void][ZattooFenster]::ShowWindow(
@@ -1303,7 +1303,7 @@ public static class ZattooFenster
                 $Hoehe  = [int]($Screen.Height * 0.522)
 
                 if ($env:COMPUTERNAME -eq 'LAPTOP') {
-                    $Links -= 100
+                    $Links -= 20
                 }
 
                 [void][ZattooFenster]::ShowWindow(
@@ -1354,6 +1354,7 @@ catch {
 
     exit 1
 }
+
 
 
 
