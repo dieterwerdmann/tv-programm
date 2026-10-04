@@ -1,4 +1,4 @@
-﻿param(
+param(
     [ValidateSet('Alle','Dokumentation','Krimi','Spielfilm','Serie')]
     [string]$Filter = 'Alle',
 
@@ -801,6 +801,10 @@ public static class ZattooFenster
         $Breite = [int]($Screen.Width  * 0.269)
         $Hoehe  = [int]($Screen.Height * 0.522)
 
+        if ($env:COMPUTERNAME -eq 'LAPTOP') {
+            $Links -= 100
+        }
+
         [void][ZattooFenster]::ShowWindow(
             [IntPtr]$Fenster.Handle,
             9
@@ -1110,8 +1114,66 @@ try {
                 Write-Host 'PRIVATSENDER' -ForegroundColor Cyan
                 Write-Host '-------------'
 
+                $PrivatKennung = @{
+                    'DMAX HD'                   = 'XXP'
+                    'Eurosport 1 HD'            = 'EUROSPORT'
+                    'HGTV HD'                   = 'HGTV'
+                    'Kabel Eins Deutschland HD' = 'KABEL'
+                    'Nick/CC+1 HD'              = 'NICK'
+                    'NITRO HD'                  = 'RTL NITRO'
+                    'Pro7 Deutschland HD'       = 'PRO7'
+                    'ProSieben MAXX HD'         = 'PROSIEBEN MAXX'
+                    'RTL Deutschland HD'        = 'RTL'
+                    'RTLup HD'                  = 'RTL PLUS'
+                    'RTLZWEI Deutschland HD'    = 'RTL II'
+                    'Sat.1 Deutschland HD'      = 'SAT1'
+                    'SAT.1 Gold HD'             = 'SAT.1 GOLD'
+                    'Sixx HD'                   = 'SIXX'
+                    'Super RTL Deutschland HD'  = 'S RTL'
+                    'TELE 5 HD'                 = 'TELE5'
+                    'Vox Deutschland HD'        = 'VOX'
+                    'VOXup HD'                  = 'VOXUP'
+                    'WELT HD'                   = 'N24'
+                }
+
                 for ($p = 0; $p -lt $PrivatSender.Count; $p++) {
-                    Write-Host (" {0} {1}" -f ($p + 1), $PrivatSender[$p])
+
+                    $PrivatNameAnzeige = [string]$PrivatSender[$p]
+
+                    if (-not $PrivatKennung.ContainsKey($PrivatNameAnzeige)) {
+                        Write-Host (" {0,2} {1,-30} {2,-11} {3}" -f `
+                            ($p + 1),
+                            $PrivatNameAnzeige,
+                            '',
+                            '[keine ClickFinder-Daten]')
+                        continue
+                    }
+
+                    $Kennung = $PrivatKennung[$PrivatNameAnzeige]
+
+                    $AktuellPrivat = @(
+                        $dbTable.Rows |
+                        Where-Object {
+                            ([string]$_.SenderKennung).Trim().ToUpperInvariant() -eq $Kennung
+                        } |
+                        Sort-Object { [datetime]$_.Beginn }
+                    ) | Select-Object -First 1
+
+                    if ($AktuellPrivat) {
+                        Write-Host (" {0,2} {1,-30} {2:HH\:mm}-{3:HH\:mm}  {4}" -f `
+                            ($p + 1),
+                            $PrivatNameAnzeige,
+                            ([datetime]$AktuellPrivat.Beginn),
+                            ([datetime]$AktuellPrivat.Ende),
+                            $AktuellPrivat.Titel)
+                        continue
+                    }
+
+                    Write-Host (" {0,2} {1,-30} {2,-11} {3}" -f `
+                        ($p + 1),
+                        $PrivatNameAnzeige,
+                        '',
+                        '[keine aktuelle ClickFinder-Sendung]')
                 }
 
                 Write-Host ' 0 Zurueck'
@@ -1237,6 +1299,10 @@ public static class ZattooFenster
                 $Breite = [int]($Screen.Width  * 0.269)
                 $Hoehe  = [int]($Screen.Height * 0.522)
 
+                if ($env:COMPUTERNAME -eq 'LAPTOP') {
+                    $Links -= 100
+                }
+
                 [void][ZattooFenster]::ShowWindow(
                     [IntPtr]$Fenster.Handle,
                     9
@@ -1275,6 +1341,7 @@ catch {
 
     exit 1
 }
+
 
 
 
