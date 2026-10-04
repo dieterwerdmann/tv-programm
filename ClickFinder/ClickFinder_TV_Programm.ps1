@@ -781,7 +781,7 @@ public static class ZattooFenster
             $Text = New-Object System.Text.StringBuilder 512
             [void][ZattooFenster]::GetWindowText($hWnd, $Text, $Text.Capacity)
 
-            if ($Text.ToString() -like 'Sender*Microsoft*Edge*') {
+            if ($Text.ToString() -like 'Sender') {
                 $Treffer.Add([pscustomobject]@{ Handle = $hWnd })
             }
         }
@@ -888,7 +888,7 @@ function Start-ZattooSender([string]$SenderName) {
     $SenderFensterVorher = @(
         Get-EdgeTopLevelFenster |
             Where-Object {
-                $_.Titel -like 'Sender -*Microsoft*Edge'
+                $_.Titel -like 'Sender'
             } |
             Select-Object -ExpandProperty HWND
     )
@@ -900,8 +900,8 @@ function Start-ZattooSender([string]$SenderName) {
     Start-Process `
         -FilePath $Edge `
         -ArgumentList @(
-            '--new-window',
-            $PrivatUrl
+            ('--app=' + $PrivatUrl),
+            '--autoplay-policy=no-user-gesture-required'
         )
 
     # Nur prüfen, ob überhaupt ein neues Senderfenster entstanden ist.
@@ -914,7 +914,7 @@ function Start-ZattooSender([string]$SenderName) {
         $NeueSenderFenster = @(
             Get-EdgeTopLevelFenster |
                 Where-Object {
-                    $_.Titel -like 'Sender -*Microsoft*Edge' -and
+                    $_.Titel -like 'Sender' -and
                     $_.HWND -notin $SenderFensterVorher
                 }
         )
@@ -944,7 +944,7 @@ function Start-ZattooSender([string]$SenderName) {
     $EndgueltigeSenderFenster = @(
         Get-EdgeTopLevelFenster |
             Where-Object {
-                $_.Titel -like 'Sender -*Microsoft*Edge' -and
+                $_.Titel -like 'Sender' -and
                 $_.HWND -notin $SenderFensterVorher
             }
     )
@@ -1227,9 +1227,12 @@ try {
 
             Write-Host 'NTV wird ueber Zattoo geoeffnet ...' -ForegroundColor Green
 
+            Stop-DVBViewerFuerZattoo
+            Stop-ZattooFenster
+
             Start-Process -FilePath $Edge -ArgumentList @(
-                '--new-window'
-                $NtvUrl
+                ('--app=' + $NtvUrl),
+                '--autoplay-policy=no-user-gesture-required'
             )
 
             Start-Sleep -Seconds 5
@@ -1279,7 +1282,7 @@ public static class ZattooFenster
                     $Text = New-Object System.Text.StringBuilder 512
                     [void][ZattooFenster]::GetWindowText($hWnd, $Text, $Text.Capacity)
 
-                    if ($Text.ToString() -like 'Sender*Microsoft*Edge*') {
+                    if ($Text.ToString() -like 'Sender') {
                         $Treffer.Add([pscustomobject]@{ Handle = $hWnd })
                     }
                 }
@@ -1319,6 +1322,16 @@ public static class ZattooFenster
                     $Hoehe,
                     0x0040
                 )
+
+                $script:ZattooWindowHandle = [int64]$Fenster.Handle
+
+                Write-Host (
+                    "Zattoo-Fenster endgueltig gespeichert: HWND {0} | NTV" -f
+                    $script:ZattooWindowHandle
+                ) -ForegroundColor DarkGreen
+            }
+            else {
+                throw "Nach dem NTV-Start wurde kein Zattoo-App-Fenster gefunden."
             }
         }
         else {
