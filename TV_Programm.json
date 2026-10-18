@@ -1,5 +1,5 @@
 ﻿{
-    "Aktualisiert":  "2026-10-18T07:04:46",
+    "Aktualisiert":  "2026-10-18T19:26:02",
     "ZeitraumVon":  "2026-10-18T00:00:00",
     "ZeitraumBis":  "2026-10-20T00:00:00",
     "Anzahl":  1854,
@@ -14,8 +14,8 @@
                       {
                           "Art":  "Spielfilm",
                           "Sender":  "RTLZWEI Deutschland HD",
-                          "Beginn":  "2026-10-17T22:26:00",
-                          "Ende":  "2026-10-18T00:18:00",
+                          "Beginn":  "2026-10-17T22:25:00",
+                          "Ende":  "2026-10-18T00:20:00",
                           "Sendung":  "Supercell - Sturmjäger"
                       },
                       {
@@ -1685,7 +1685,7 @@
                           "Sendung":  "Milo"
                       },
                       {
-                          "Art":  "Spielfilm",
+                          "Art":  "Dokumentation",
                           "Sender":  "ONE HD",
                           "Beginn":  "2026-10-18T05:35:00",
                           "Ende":  "2026-10-18T07:20:00",
