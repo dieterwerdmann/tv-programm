@@ -1,8 +1,8 @@
 ﻿{
-    "Aktualisiert":  "2026-11-06T20:37:24",
+    "Aktualisiert":  "2026-11-06T20:50:46",
     "ZeitraumVon":  "2026-11-06T00:00:00",
     "ZeitraumBis":  "2026-11-08T00:00:00",
-    "Anzahl":  1895,
+    "Anzahl":  1892,
     "Sendungen":  [
                       {
                           "Art":  "Spielfilm",
@@ -153,13 +153,6 @@
                       },
                       {
                           "Art":  "Dokumentation",
-                          "Sender":  "3sat HD",
-                          "Beginn":  "2026-11-06T00:00:00",
-                          "Ende":  "2026-11-06T00:30:00",
-                          "Sendung":  "SRFglobal"
-                      },
-                      {
-                          "Art":  "Dokumentation",
                           "Sender":  "ARD-alpha HD",
                           "Beginn":  "2026-11-06T00:00:00",
                           "Ende":  "2026-11-06T00:15:00",
@@ -259,7 +252,7 @@
                       {
                           "Art":  "Krimi",
                           "Sender":  "RTLZWEI Deutschland HD",
-                          "Beginn":  "2026-11-06T00:25:00",
+                          "Beginn":  "2026-11-06T00:24:00",
                           "Ende":  "2026-11-06T01:20:00",
                           "Sendung":  "Autopsie - Mysteriöse Todesfälle"
                       },
@@ -338,7 +331,7 @@
                           "Sender":  "phoenix",
                           "Beginn":  "2026-11-06T00:45:00",
                           "Ende":  "2026-11-06T01:30:00",
-                          "Sendung":  "Letzte Ausfahrt Midterms"
+                          "Sendung":  "Die Trump-Connection - Das Geschäft mit der Macht"
                       },
                       {
                           "Art":  "Krimi",
@@ -442,7 +435,7 @@
                           "Art":  "Krimi",
                           "Sender":  "RTLZWEI Deutschland HD",
                           "Beginn":  "2026-11-06T01:20:00",
-                          "Ende":  "2026-11-06T02:10:00",
+                          "Ende":  "2026-11-06T02:08:00",
                           "Sendung":  "Autopsie - Mysteriöse Todesfälle"
                       },
                       {
@@ -528,6 +521,13 @@
                           "Beginn":  "2026-11-06T01:30:00",
                           "Ende":  "2026-11-06T02:15:00",
                           "Sendung":  "Lost Places"
+                      },
+                      {
+                          "Art":  "Dokumentation",
+                          "Sender":  "phoenix",
+                          "Beginn":  "2026-11-06T01:30:00",
+                          "Ende":  "2026-11-06T02:15:00",
+                          "Sendung":  "Putin und Trump - Ziemliche beste Feinde?"
                       },
                       {
                           "Art":  "Krimi",
@@ -677,25 +677,18 @@
                           "Sendung":  "Ab in die Ruine!"
                       },
                       {
+                          "Art":  "Krimi",
+                          "Sender":  "RTLZWEI Deutschland HD",
+                          "Beginn":  "2026-11-06T02:08:00",
+                          "Ende":  "2026-11-06T03:00:00",
+                          "Sendung":  "Autopsie - Mysteriöse Todesfälle"
+                      },
+                      {
                           "Art":  "Dokumentation",
                           "Sender":  "ProSieben MAXX HD",
                           "Beginn":  "2026-11-06T02:10:00",
                           "Ende":  "2026-11-06T03:30:00",
                           "Sendung":  "WWE Legends"
-                      },
-                      {
-                          "Art":  "Krimi",
-                          "Sender":  "3sat HD",
-                          "Beginn":  "2026-11-06T02:10:00",
-                          "Ende":  "2026-11-06T02:40:00",
-                          "Sendung":  "Kiezpolizei Davidwache"
-                      },
-                      {
-                          "Art":  "Krimi",
-                          "Sender":  "RTLZWEI Deutschland HD",
-                          "Beginn":  "2026-11-06T02:10:00",
-                          "Ende":  "2026-11-06T03:00:00",
-                          "Sendung":  "Autopsie - Mysteriöse Todesfälle"
                       },
                       {
                           "Art":  "Serie",
@@ -710,6 +703,13 @@
                           "Beginn":  "2026-11-06T02:10:00",
                           "Ende":  "2026-11-06T02:35:00",
                           "Sendung":  "Victorious"
+                      },
+                      {
+                          "Art":  "Krimi",
+                          "Sender":  "3sat HD",
+                          "Beginn":  "2026-11-06T02:12:00",
+                          "Ende":  "2026-11-06T02:41:00",
+                          "Sendung":  "Kiezpolizei Davidwache"
                       },
                       {
                           "Art":  "Dokumentation",
@@ -796,13 +796,6 @@
                           "Sendung":  "Victorious"
                       },
                       {
-                          "Art":  "Dokumentation",
-                          "Sender":  "3sat HD",
-                          "Beginn":  "2026-11-06T02:40:00",
-                          "Ende":  "2026-11-06T03:25:00",
-                          "Sendung":  "Leben an der Nordsee: Schottland und die Orkneys"
-                      },
-                      {
                           "Art":  "Krimi",
                           "Sender":  "Vox Deutschland HD",
                           "Beginn":  "2026-11-06T02:40:00",
@@ -815,6 +808,13 @@
                           "Beginn":  "2026-11-06T02:40:00",
                           "Ende":  "2026-11-06T04:20:00",
                           "Sendung":  "Air America"
+                      },
+                      {
+                          "Art":  "Dokumentation",
+                          "Sender":  "3sat HD",
+                          "Beginn":  "2026-11-06T02:41:00",
+                          "Ende":  "2026-11-06T03:25:00",
+                          "Sendung":  "Leben an der Nordsee: Schottland und die Orkneys"
                       },
                       {
                           "Art":  "Spielfilm",
@@ -855,7 +855,7 @@
                           "Art":  "Krimi",
                           "Sender":  "RTLZWEI Deutschland HD",
                           "Beginn":  "2026-11-06T03:00:00",
-                          "Ende":  "2026-11-06T03:50:00",
+                          "Ende":  "2026-11-06T03:51:00",
                           "Sendung":  "Autopsie - Mysteriöse Todesfälle"
                       },
                       {
@@ -967,7 +967,7 @@
                           "Art":  "Dokumentation",
                           "Sender":  "3sat HD",
                           "Beginn":  "2026-11-06T03:25:00",
-                          "Ende":  "2026-11-06T04:10:00",
+                          "Ende":  "2026-11-06T04:09:00",
                           "Sendung":  "Leben an der Nordsee: Englands Ostküste"
                       },
                       {
@@ -1083,18 +1083,18 @@
                           "Sendung":  "Twisted Metal"
                       },
                       {
-                          "Art":  "Krimi",
-                          "Sender":  "RTLZWEI Deutschland HD",
-                          "Beginn":  "2026-11-06T03:50:00",
-                          "Ende":  "2026-11-06T05:10:00",
-                          "Sendung":  "Autopsie - Mysteriöse Todesfälle"
-                      },
-                      {
                           "Art":  "Serie",
                           "Sender":  "Nick/CC+1 HD",
                           "Beginn":  "2026-11-06T03:50:00",
                           "Ende":  "2026-11-06T04:15:00",
                           "Sendung":  "Victorious"
+                      },
+                      {
+                          "Art":  "Krimi",
+                          "Sender":  "RTLZWEI Deutschland HD",
+                          "Beginn":  "2026-11-06T03:51:00",
+                          "Ende":  "2026-11-06T05:16:00",
+                          "Sendung":  "Autopsie - Mysteriöse Todesfälle"
                       },
                       {
                           "Art":  "Dokumentation",
@@ -1141,8 +1141,8 @@
                       {
                           "Art":  "Dokumentation",
                           "Sender":  "3sat HD",
-                          "Beginn":  "2026-11-06T04:10:00",
-                          "Ende":  "2026-11-06T04:50:00",
+                          "Beginn":  "2026-11-06T04:09:00",
+                          "Ende":  "2026-11-06T04:52:00",
                           "Sendung":  "Leben an der Nordsee: Belgien und die Niederlande"
                       },
                       {
@@ -1343,13 +1343,6 @@
                       },
                       {
                           "Art":  "Dokumentation",
-                          "Sender":  "3sat HD",
-                          "Beginn":  "2026-11-06T04:50:00",
-                          "Ende":  "2026-11-06T05:35:00",
-                          "Sendung":  "Leben an der Nordsee: Deutschlands wilde Küste"
-                      },
-                      {
-                          "Art":  "Dokumentation",
                           "Sender":  "N24 Doku HD",
                           "Beginn":  "2026-11-06T04:50:00",
                           "Ende":  "2026-11-06T05:35:00",
@@ -1368,6 +1361,13 @@
                           "Beginn":  "2026-11-06T04:50:00",
                           "Ende":  "2026-11-06T05:35:00",
                           "Sendung":  "Im Namen des Glaubens"
+                      },
+                      {
+                          "Art":  "Dokumentation",
+                          "Sender":  "3sat HD",
+                          "Beginn":  "2026-11-06T04:52:00",
+                          "Ende":  "2026-11-06T05:35:00",
+                          "Sendung":  "Leben an der Nordsee: Deutschlands wilde Küste"
                       },
                       {
                           "Art":  "Serie",
@@ -1455,13 +1455,6 @@
                       },
                       {
                           "Art":  "Serie",
-                          "Sender":  "RTLZWEI Deutschland HD",
-                          "Beginn":  "2026-11-06T05:10:00",
-                          "Ende":  "2026-11-06T06:00:00",
-                          "Sendung":  "Der Trödeltrupp - Das Geld liegt im Keller"
-                      },
-                      {
-                          "Art":  "Serie",
                           "Sender":  "VOXup HD",
                           "Beginn":  "2026-11-06T05:10:00",
                           "Ende":  "2026-11-06T05:30:00",
@@ -1479,7 +1472,7 @@
                           "Sender":  "phoenix",
                           "Beginn":  "2026-11-06T05:15:00",
                           "Ende":  "2026-11-06T05:30:00",
-                          "Sendung":  "Indigene gegen Greenwashing"
+                          "Sendung":  "Green Warriors - Indigene gegen Greenwashing"
                       },
                       {
                           "Art":  "Dokumentation",
@@ -1494,6 +1487,13 @@
                           "Beginn":  "2026-11-06T05:15:00",
                           "Ende":  "2026-11-06T06:00:00",
                           "Sendung":  "Das Familiengericht"
+                      },
+                      {
+                          "Art":  "Serie",
+                          "Sender":  "RTLZWEI Deutschland HD",
+                          "Beginn":  "2026-11-06T05:16:00",
+                          "Ende":  "2026-11-06T06:04:00",
+                          "Sendung":  "Der Trödeltrupp - Das Geld liegt im Keller"
                       },
                       {
                           "Art":  "Serie",
@@ -1750,8 +1750,8 @@
                       {
                           "Art":  "Serie",
                           "Sender":  "RTLZWEI Deutschland HD",
-                          "Beginn":  "2026-11-06T06:00:00",
-                          "Ende":  "2026-11-06T07:00:00",
+                          "Beginn":  "2026-11-06T06:04:00",
+                          "Ende":  "2026-11-06T07:06:00",
                           "Sendung":  "Der Trödeltrupp - Das Geld liegt im Keller"
                       },
                       {
@@ -1812,6 +1812,13 @@
                       },
                       {
                           "Art":  "Dokumentation",
+                          "Sender":  "N24 Doku HD",
+                          "Beginn":  "2026-11-06T06:15:00",
+                          "Ende":  "2026-11-06T07:05:00",
+                          "Sendung":  "Lost Places"
+                      },
+                      {
+                          "Art":  "Dokumentation",
                           "Sender":  "ProSieben MAXX HD",
                           "Beginn":  "2026-11-06T06:15:00",
                           "Ende":  "2026-11-06T07:05:00",
@@ -1828,7 +1835,7 @@
                           "Art":  "Krimi",
                           "Sender":  "Vox Deutschland HD",
                           "Beginn":  "2026-11-06T06:15:00",
-                          "Ende":  "2026-11-06T07:05:00",
+                          "Ende":  "2026-11-06T07:00:00",
                           "Sendung":  "CSI: New York"
                       },
                       {
@@ -1837,13 +1844,6 @@
                           "Beginn":  "2026-11-06T06:15:00",
                           "Ende":  "2026-11-06T06:30:00",
                           "Sendung":  "House Hunters"
-                      },
-                      {
-                          "Art":  "Serie",
-                          "Sender":  "N24 Doku HD",
-                          "Beginn":  "2026-11-06T06:15:00",
-                          "Ende":  "2026-11-06T06:55:00",
-                          "Sendung":  "Lost Places Folge 100"
                       },
                       {
                           "Art":  "Serie",
@@ -2008,13 +2008,6 @@
                       },
                       {
                           "Art":  "Serie",
-                          "Sender":  "N24 Doku HD",
-                          "Beginn":  "2026-11-06T06:55:00",
-                          "Ende":  "2026-11-06T07:25:00",
-                          "Sendung":  "Border Patrol Neuseeland"
-                      },
-                      {
-                          "Art":  "Serie",
                           "Sender":  "ONE HD",
                           "Beginn":  "2026-11-06T06:55:00",
                           "Ende":  "2026-11-06T07:40:00",
@@ -2049,18 +2042,18 @@
                           "Sendung":  "Leschs Kosmos"
                       },
                       {
+                          "Art":  "Krimi",
+                          "Sender":  "Vox Deutschland HD",
+                          "Beginn":  "2026-11-06T07:00:00",
+                          "Ende":  "2026-11-06T07:55:00",
+                          "Sendung":  "CSI: New York"
+                      },
+                      {
                           "Art":  "Serie",
                           "Sender":  "Nick/CC+1 HD",
                           "Beginn":  "2026-11-06T07:00:00",
                           "Ende":  "2026-11-06T07:30:00",
                           "Sendung":  "SpongeBob Schwammkopf"
-                      },
-                      {
-                          "Art":  "Serie",
-                          "Sender":  "RTLZWEI Deutschland HD",
-                          "Beginn":  "2026-11-06T07:00:00",
-                          "Ende":  "2026-11-06T08:00:00",
-                          "Sendung":  "Der Trödeltrupp - Das Geld liegt im Keller"
                       },
                       {
                           "Art":  "Serie",
@@ -2077,11 +2070,18 @@
                           "Sendung":  "Schmugglern auf der Spur"
                       },
                       {
-                          "Art":  "Krimi",
-                          "Sender":  "Vox Deutschland HD",
+                          "Art":  "Serie",
+                          "Sender":  "N24 Doku HD",
                           "Beginn":  "2026-11-06T07:05:00",
-                          "Ende":  "2026-11-06T08:00:00",
-                          "Sendung":  "CSI: New York"
+                          "Ende":  "2026-11-06T07:30:00",
+                          "Sendung":  "Border Patrol Neuseeland"
+                      },
+                      {
+                          "Art":  "Serie",
+                          "Sender":  "RTLZWEI Deutschland HD",
+                          "Beginn":  "2026-11-06T07:06:00",
+                          "Ende":  "2026-11-06T08:09:00",
+                          "Sendung":  "Der Trödeltrupp - Das Geld liegt im Keller"
                       },
                       {
                           "Art":  "Serie",
@@ -2155,13 +2155,6 @@
                       },
                       {
                           "Art":  "Serie",
-                          "Sender":  "N24 Doku HD",
-                          "Beginn":  "2026-11-06T07:25:00",
-                          "Ende":  "2026-11-06T07:50:00",
-                          "Sendung":  "Border Patrol Neuseeland"
-                      },
-                      {
-                          "Art":  "Serie",
                           "Sender":  "Super RTL Deutschland HD",
                           "Beginn":  "2026-11-06T07:25:00",
                           "Ende":  "2026-11-06T07:40:00",
@@ -2187,6 +2180,13 @@
                           "Beginn":  "2026-11-06T07:30:00",
                           "Ende":  "2026-11-06T07:50:00",
                           "Sendung":  "House Hunters"
+                      },
+                      {
+                          "Art":  "Serie",
+                          "Sender":  "N24 Doku HD",
+                          "Beginn":  "2026-11-06T07:30:00",
+                          "Ende":  "2026-11-06T07:55:00",
+                          "Sendung":  "Border Patrol Neuseeland"
                       },
                       {
                           "Art":  "Serie",
@@ -2246,13 +2246,6 @@
                       },
                       {
                           "Art":  "Serie",
-                          "Sender":  "N24 Doku HD",
-                          "Beginn":  "2026-11-06T07:50:00",
-                          "Ende":  "2026-11-06T08:20:00",
-                          "Sendung":  "Border Patrol Neuseeland"
-                      },
-                      {
-                          "Art":  "Serie",
                           "Sender":  "Super RTL Deutschland HD",
                           "Beginn":  "2026-11-06T07:50:00",
                           "Ende":  "2026-11-06T07:55:00",
@@ -2266,11 +2259,25 @@
                           "Sendung":  "Schmugglern auf der Spur"
                       },
                       {
+                          "Art":  "Krimi",
+                          "Sender":  "Vox Deutschland HD",
+                          "Beginn":  "2026-11-06T07:55:00",
+                          "Ende":  "2026-11-06T08:45:00",
+                          "Sendung":  "CSI"
+                      },
+                      {
                           "Art":  "Serie",
                           "Sender":  "ARD-alpha HD",
                           "Beginn":  "2026-11-06T07:55:00",
                           "Ende":  "2026-11-06T08:00:00",
                           "Sendung":  "Shaun das Schaf"
+                      },
+                      {
+                          "Art":  "Serie",
+                          "Sender":  "N24 Doku HD",
+                          "Beginn":  "2026-11-06T07:55:00",
+                          "Ende":  "2026-11-06T08:20:00",
+                          "Sendung":  "Border Patrol Neuseeland"
                       },
                       {
                           "Art":  "Serie",
@@ -2301,25 +2308,11 @@
                           "Sendung":  "Welt der Wunder Classics"
                       },
                       {
-                          "Art":  "Krimi",
-                          "Sender":  "Vox Deutschland HD",
-                          "Beginn":  "2026-11-06T08:00:00",
-                          "Ende":  "2026-11-06T08:45:00",
-                          "Sendung":  "CSI"
-                      },
-                      {
                           "Art":  "Spielfilm",
                           "Sender":  "DF1 HD",
                           "Beginn":  "2026-11-06T08:00:00",
                           "Ende":  "2026-11-06T09:00:00",
                           "Sendung":  "Genius"
-                      },
-                      {
-                          "Art":  "Serie",
-                          "Sender":  "RTLZWEI Deutschland HD",
-                          "Beginn":  "2026-11-06T08:00:00",
-                          "Ende":  "2026-11-06T09:00:00",
-                          "Sendung":  "Der Trödeltrupp - Das Geld liegt im Keller"
                       },
                       {
                           "Art":  "Serie",
@@ -2334,6 +2327,13 @@
                           "Beginn":  "2026-11-06T08:05:00",
                           "Ende":  "2026-11-06T09:00:00",
                           "Sendung":  "Richter Alexander Hold"
+                      },
+                      {
+                          "Art":  "Serie",
+                          "Sender":  "RTLZWEI Deutschland HD",
+                          "Beginn":  "2026-11-06T08:09:00",
+                          "Ende":  "2026-11-06T09:10:00",
+                          "Sendung":  "Der Trödeltrupp - Das Geld liegt im Keller"
                       },
                       {
                           "Art":  "Serie",
@@ -2413,13 +2413,6 @@
                           "Sendung":  "Willkommen bei den Louds"
                       },
                       {
-                          "Art":  "Dokumentation",
-                          "Sender":  "ZDFinfo HD",
-                          "Beginn":  "2026-11-06T08:30:00",
-                          "Ende":  "2026-11-06T09:15:00",
-                          "Sendung":  "auslandsjournal spezial"
-                      },
-                      {
                           "Art":  "Serie",
                           "Sender":  "ONE HD",
                           "Beginn":  "2026-11-06T08:30:00",
@@ -2439,6 +2432,13 @@
                           "Beginn":  "2026-11-06T08:30:00",
                           "Ende":  "2026-11-06T08:55:00",
                           "Sendung":  "DORA"
+                      },
+                      {
+                          "Art":  "Dokumentation",
+                          "Sender":  "ZDFinfo HD",
+                          "Beginn":  "2026-11-06T08:35:00",
+                          "Ende":  "2026-11-06T09:15:00",
+                          "Sendung":  "auslandsjournal spezial"
                       },
                       {
                           "Art":  "Serie",
@@ -2479,7 +2479,7 @@
                           "Art":  "Krimi",
                           "Sender":  "Vox Deutschland HD",
                           "Beginn":  "2026-11-06T08:45:00",
-                          "Ende":  "2026-11-06T09:35:00",
+                          "Ende":  "2026-11-06T09:30:00",
                           "Sendung":  "CSI"
                       },
                       {
@@ -2568,13 +2568,6 @@
                       },
                       {
                           "Art":  "Serie",
-                          "Sender":  "RTLZWEI Deutschland HD",
-                          "Beginn":  "2026-11-06T09:00:00",
-                          "Ende":  "2026-11-06T10:00:00",
-                          "Sendung":  "Der Trödeltrupp - Das Geld liegt im Keller"
-                      },
-                      {
-                          "Art":  "Serie",
                           "Sender":  "SAT.1 Gold HD",
                           "Beginn":  "2026-11-06T09:00:00",
                           "Ende":  "2026-11-06T10:00:00",
@@ -2621,6 +2614,13 @@
                           "Beginn":  "2026-11-06T09:10:00",
                           "Ende":  "2026-11-06T09:35:00",
                           "Sendung":  "The Middle"
+                      },
+                      {
+                          "Art":  "Serie",
+                          "Sender":  "RTLZWEI Deutschland HD",
+                          "Beginn":  "2026-11-06T09:10:00",
+                          "Ende":  "2026-11-06T10:10:00",
+                          "Sendung":  "Der Trödeltrupp - Das Geld liegt im Keller"
                       },
                       {
                           "Art":  "Dokumentation",
@@ -2686,6 +2686,13 @@
                           "Sendung":  "Verklag mich doch!"
                       },
                       {
+                          "Art":  "Krimi",
+                          "Sender":  "Vox Deutschland HD",
+                          "Beginn":  "2026-11-06T09:35:00",
+                          "Ende":  "2026-11-06T10:30:00",
+                          "Sendung":  "CSI"
+                      },
+                      {
                           "Art":  "Serie",
                           "Sender":  "KiKa HD",
                           "Beginn":  "2026-11-06T09:35:00",
@@ -2726,13 +2733,6 @@
                           "Beginn":  "2026-11-06T09:40:00",
                           "Ende":  "2026-11-06T10:00:00",
                           "Sendung":  "ntv Wirtschaft"
-                      },
-                      {
-                          "Art":  "Krimi",
-                          "Sender":  "Vox Deutschland HD",
-                          "Beginn":  "2026-11-06T09:40:00",
-                          "Ende":  "2026-11-06T10:35:00",
-                          "Sendung":  "CSI"
                       },
                       {
                           "Art":  "Dokumentation",
@@ -2813,13 +2813,6 @@
                       },
                       {
                           "Art":  "Serie",
-                          "Sender":  "RTLZWEI Deutschland HD",
-                          "Beginn":  "2026-11-06T10:00:00",
-                          "Ende":  "2026-11-06T11:00:00",
-                          "Sendung":  "Der Trödeltrupp - Das Geld liegt im Keller"
-                      },
-                      {
-                          "Art":  "Serie",
                           "Sender":  "Sat.1 Deutschland HD",
                           "Beginn":  "2026-11-06T10:00:00",
                           "Ende":  "2026-11-06T11:00:00",
@@ -2859,6 +2852,13 @@
                           "Beginn":  "2026-11-06T10:10:00",
                           "Ende":  "2026-11-06T10:40:00",
                           "Sendung":  "Die Patrick Star Show"
+                      },
+                      {
+                          "Art":  "Serie",
+                          "Sender":  "RTLZWEI Deutschland HD",
+                          "Beginn":  "2026-11-06T10:10:00",
+                          "Ende":  "2026-11-06T11:09:00",
+                          "Sendung":  "Der Trödeltrupp - Das Geld liegt im Keller"
                       },
                       {
                           "Art":  "Dokumentation",
@@ -2910,6 +2910,13 @@
                           "Sendung":  "Paw Patrol"
                       },
                       {
+                          "Art":  "Dokumentation",
+                          "Sender":  "N24 Doku HD",
+                          "Beginn":  "2026-11-06T10:25:00",
+                          "Ende":  "2026-11-06T11:15:00",
+                          "Sendung":  "Lost Places"
+                      },
+                      {
                           "Art":  "Serie",
                           "Sender":  "hr-fernsehen HD",
                           "Beginn":  "2026-11-06T10:25:00",
@@ -2929,6 +2936,13 @@
                           "Beginn":  "2026-11-06T10:30:00",
                           "Ende":  "2026-11-06T11:15:00",
                           "Sendung":  "Make me beautiful"
+                      },
+                      {
+                          "Art":  "Krimi",
+                          "Sender":  "Vox Deutschland HD",
+                          "Beginn":  "2026-11-06T10:30:00",
+                          "Ende":  "2026-11-06T11:25:00",
+                          "Sendung":  "CSI"
                       },
                       {
                           "Art":  "Krimi",
@@ -2971,20 +2985,6 @@
                           "Beginn":  "2026-11-06T10:35:00",
                           "Ende":  "2026-11-06T10:58:00",
                           "Sendung":  "Elefant, Tiger \u0026 Co."
-                      },
-                      {
-                          "Art":  "Dokumentation",
-                          "Sender":  "N24 Doku HD",
-                          "Beginn":  "2026-11-06T10:35:00",
-                          "Ende":  "2026-11-06T11:15:00",
-                          "Sendung":  "Lost Places"
-                      },
-                      {
-                          "Art":  "Krimi",
-                          "Sender":  "Vox Deutschland HD",
-                          "Beginn":  "2026-11-06T10:35:00",
-                          "Ende":  "2026-11-06T11:25:00",
-                          "Sendung":  "CSI"
                       },
                       {
                           "Art":  "Serie",
@@ -3086,13 +3086,6 @@
                       },
                       {
                           "Art":  "Serie",
-                          "Sender":  "RTLZWEI Deutschland HD",
-                          "Beginn":  "2026-11-06T11:00:00",
-                          "Ende":  "2026-11-06T11:55:00",
-                          "Sendung":  "Der Trödeltrupp - Das Geld liegt im Keller"
-                      },
-                      {
-                          "Art":  "Serie",
                           "Sender":  "Sat.1 Deutschland HD",
                           "Beginn":  "2026-11-06T11:00:00",
                           "Ende":  "2026-11-06T12:00:00",
@@ -3118,6 +3111,13 @@
                           "Beginn":  "2026-11-06T11:05:00",
                           "Ende":  "2026-11-06T11:55:00",
                           "Sendung":  "Salvage Kings - Demolieren und kassieren"
+                      },
+                      {
+                          "Art":  "Serie",
+                          "Sender":  "RTLZWEI Deutschland HD",
+                          "Beginn":  "2026-11-06T11:09:00",
+                          "Ende":  "2026-11-06T12:08:00",
+                          "Sendung":  "Der Trödeltrupp - Das Geld liegt im Keller"
                       },
                       {
                           "Art":  "Dokumentation",
@@ -3151,7 +3151,7 @@
                           "Art":  "Dokumentation",
                           "Sender":  "N24 Doku HD",
                           "Beginn":  "2026-11-06T11:15:00",
-                          "Ende":  "2026-11-06T12:10:00",
+                          "Ende":  "2026-11-06T12:05:00",
                           "Sendung":  "Lost Places"
                       },
                       {
@@ -3221,7 +3221,7 @@
                           "Art":  "Krimi",
                           "Sender":  "Vox Deutschland HD",
                           "Beginn":  "2026-11-06T11:25:00",
-                          "Ende":  "2026-11-06T12:20:00",
+                          "Ende":  "2026-11-06T12:25:00",
                           "Sendung":  "CSI"
                       },
                       {
@@ -3344,13 +3344,6 @@
                           "Sendung":  "Achtung, Zoll! Willkommen in Australien"
                       },
                       {
-                          "Art":  "Serie",
-                          "Sender":  "RTLZWEI Deutschland HD",
-                          "Beginn":  "2026-11-06T11:55:00",
-                          "Ende":  "2026-11-06T12:55:00",
-                          "Sendung":  "Der Trödeltrupp - Das Geld liegt im Keller"
-                      },
-                      {
                           "Art":  "Dokumentation",
                           "Sender":  "Das Erste HD",
                           "Beginn":  "2026-11-06T12:00:00",
@@ -3400,6 +3393,13 @@
                           "Sendung":  "Richter Alexander Hold"
                       },
                       {
+                          "Art":  "Dokumentation",
+                          "Sender":  "N24 Doku HD",
+                          "Beginn":  "2026-11-06T12:05:00",
+                          "Ende":  "2026-11-06T13:05:00",
+                          "Sendung":  "Lost Places"
+                      },
+                      {
                           "Art":  "Krimi",
                           "Sender":  "rbb Berlin HD",
                           "Beginn":  "2026-11-06T12:05:00",
@@ -3421,18 +3421,18 @@
                           "Sendung":  "Gilmore Girls"
                       },
                       {
+                          "Art":  "Serie",
+                          "Sender":  "RTLZWEI Deutschland HD",
+                          "Beginn":  "2026-11-06T12:08:00",
+                          "Ende":  "2026-11-06T13:08:00",
+                          "Sendung":  "Der Trödeltrupp - Das Geld liegt im Keller"
+                      },
+                      {
                           "Art":  "Dokumentation",
                           "Sender":  "3sat HD",
                           "Beginn":  "2026-11-06T12:10:00",
                           "Ende":  "2026-11-06T12:50:00",
                           "Sendung":  "Die Kirche bin ich - Wie der Papst unfehlbar wurde"
-                      },
-                      {
-                          "Art":  "Dokumentation",
-                          "Sender":  "N24 Doku HD",
-                          "Beginn":  "2026-11-06T12:10:00",
-                          "Ende":  "2026-11-06T13:05:00",
-                          "Sendung":  "Lost Places"
                       },
                       {
                           "Art":  "Serie",
@@ -3484,18 +3484,18 @@
                           "Sendung":  "Achtung, Zoll! Willkommen in Australien"
                       },
                       {
-                          "Art":  "Krimi",
-                          "Sender":  "Vox Deutschland HD",
-                          "Beginn":  "2026-11-06T12:20:00",
-                          "Ende":  "2026-11-06T13:10:00",
-                          "Sendung":  "CSI: Miami"
-                      },
-                      {
                           "Art":  "Serie",
                           "Sender":  "Pro7 Deutschland HD",
                           "Beginn":  "2026-11-06T12:20:00",
                           "Ende":  "2026-11-06T12:45:00",
                           "Sendung":  "The Big Bang Theory"
+                      },
+                      {
+                          "Art":  "Krimi",
+                          "Sender":  "Vox Deutschland HD",
+                          "Beginn":  "2026-11-06T12:25:00",
+                          "Ende":  "2026-11-06T13:10:00",
+                          "Sendung":  "CSI: Miami"
                       },
                       {
                           "Art":  "Serie",
@@ -3617,13 +3617,6 @@
                           "Sendung":  "Auf Achse"
                       },
                       {
-                          "Art":  "Serie",
-                          "Sender":  "RTLZWEI Deutschland HD",
-                          "Beginn":  "2026-11-06T12:55:00",
-                          "Ende":  "2026-11-06T13:55:00",
-                          "Sendung":  "Der Trödeltrupp - Das Geld liegt im Keller"
-                      },
-                      {
                           "Art":  "Dokumentation",
                           "Sender":  "NTV",
                           "Beginn":  "2026-11-06T13:00:00",
@@ -3694,6 +3687,13 @@
                           "Sendung":  "Repair Shop - Kaputt gibt´s nicht"
                       },
                       {
+                          "Art":  "Dokumentation",
+                          "Sender":  "N24 Doku HD",
+                          "Beginn":  "2026-11-06T13:05:00",
+                          "Ende":  "2026-11-06T13:55:00",
+                          "Sendung":  "Lost Places"
+                      },
+                      {
                           "Art":  "Krimi",
                           "Sender":  "zdf_neo HD",
                           "Beginn":  "2026-11-06T13:05:00",
@@ -3702,17 +3702,17 @@
                       },
                       {
                           "Art":  "Serie",
-                          "Sender":  "N24 Doku HD",
-                          "Beginn":  "2026-11-06T13:05:00",
-                          "Ende":  "2026-11-06T14:00:00",
-                          "Sendung":  "Lost Places Folge 100"
-                      },
-                      {
-                          "Art":  "Serie",
                           "Sender":  "ProSieben MAXX HD",
                           "Beginn":  "2026-11-06T13:05:00",
                           "Ende":  "2026-11-06T13:25:00",
                           "Sendung":  "Achtung, Zoll! Willkommen in Australien"
+                      },
+                      {
+                          "Art":  "Serie",
+                          "Sender":  "RTLZWEI Deutschland HD",
+                          "Beginn":  "2026-11-06T13:08:00",
+                          "Ende":  "2026-11-06T14:10:00",
+                          "Sendung":  "Der Trödeltrupp - Das Geld liegt im Keller"
                       },
                       {
                           "Art":  "Krimi",
@@ -3904,6 +3904,13 @@
                           "Sendung":  "Verklag mich doch!"
                       },
                       {
+                          "Art":  "Dokumentation",
+                          "Sender":  "N24 Doku HD",
+                          "Beginn":  "2026-11-06T13:55:00",
+                          "Ende":  "2026-11-06T14:50:00",
+                          "Sendung":  "Gewichtheber auf Rädern - Mobilkran der Superlative"
+                      },
+                      {
                           "Art":  "Krimi",
                           "Sender":  "Kabel Eins Deutschland HD",
                           "Beginn":  "2026-11-06T13:55:00",
@@ -3930,20 +3937,6 @@
                           "Beginn":  "2026-11-06T13:55:00",
                           "Ende":  "2026-11-06T14:20:00",
                           "Sendung":  "Achtung, Zoll! Willkommen in Australien"
-                      },
-                      {
-                          "Art":  "Serie",
-                          "Sender":  "RTLZWEI Deutschland HD",
-                          "Beginn":  "2026-11-06T13:55:00",
-                          "Ende":  "2026-11-06T15:00:00",
-                          "Sendung":  "SOS - Retter im Einsatz"
-                      },
-                      {
-                          "Art":  "Dokumentation",
-                          "Sender":  "N24 Doku HD",
-                          "Beginn":  "2026-11-06T14:00:00",
-                          "Ende":  "2026-11-06T14:55:00",
-                          "Sendung":  "Gewichtheber auf Rädern - Mobilkran der Superlative"
                       },
                       {
                           "Art":  "Dokumentation",
@@ -4042,6 +4035,13 @@
                           "Beginn":  "2026-11-06T14:10:00",
                           "Ende":  "2026-11-06T15:00:00",
                           "Sendung":  "Das Familiengericht"
+                      },
+                      {
+                          "Art":  "Serie",
+                          "Sender":  "RTLZWEI Deutschland HD",
+                          "Beginn":  "2026-11-06T14:10:00",
+                          "Ende":  "2026-11-06T15:09:00",
+                          "Sendung":  "SOS - Retter im Einsatz"
                       },
                       {
                           "Art":  "Dokumentation",
@@ -4198,6 +4198,13 @@
                           "Sendung":  "Auction Hunters - Zwei Asse machen Kasse"
                       },
                       {
+                          "Art":  "Dokumentation",
+                          "Sender":  "N24 Doku HD",
+                          "Beginn":  "2026-11-06T14:50:00",
+                          "Ende":  "2026-11-06T15:50:00",
+                          "Sendung":  "Der XXL-Mähdrescher - Erntefabrik auf Rädern"
+                      },
+                      {
                           "Art":  "Krimi",
                           "Sender":  "Kabel Eins Deutschland HD",
                           "Beginn":  "2026-11-06T14:50:00",
@@ -4238,13 +4245,6 @@
                           "Beginn":  "2026-11-06T14:50:00",
                           "Ende":  "2026-11-06T15:20:00",
                           "Sendung":  "Unicorn Academy"
-                      },
-                      {
-                          "Art":  "Dokumentation",
-                          "Sender":  "N24 Doku HD",
-                          "Beginn":  "2026-11-06T14:55:00",
-                          "Ende":  "2026-11-06T15:50:00",
-                          "Sendung":  "Der XXL-Mähdrescher - Erntefabrik auf Rädern"
                       },
                       {
                           "Art":  "Serie",
@@ -4297,13 +4297,6 @@
                       },
                       {
                           "Art":  "Serie",
-                          "Sender":  "RTLZWEI Deutschland HD",
-                          "Beginn":  "2026-11-06T15:00:00",
-                          "Ende":  "2026-11-06T16:00:00",
-                          "Sendung":  "SOS - Retter im Einsatz"
-                      },
-                      {
-                          "Art":  "Serie",
                           "Sender":  "Sat.1 Deutschland HD",
                           "Beginn":  "2026-11-06T15:00:00",
                           "Ende":  "2026-11-06T16:00:00",
@@ -4350,6 +4343,13 @@
                           "Beginn":  "2026-11-06T15:05:00",
                           "Ende":  "2026-11-06T16:05:00",
                           "Sendung":  "Stargate"
+                      },
+                      {
+                          "Art":  "Serie",
+                          "Sender":  "RTLZWEI Deutschland HD",
+                          "Beginn":  "2026-11-06T15:09:00",
+                          "Ende":  "2026-11-06T16:04:00",
+                          "Sendung":  "SOS - Retter im Einsatz"
                       },
                       {
                           "Art":  "Krimi",
@@ -4551,7 +4551,7 @@
                           "Art":  "Dokumentation",
                           "Sender":  "N24 Doku HD",
                           "Beginn":  "2026-11-06T15:50:00",
-                          "Ende":  "2026-11-06T16:40:00",
+                          "Ende":  "2026-11-06T16:45:00",
                           "Sendung":  "Der Nord-Ostsee-Kanal - Nadelöhr für Riesenschiffe"
                       },
                       {
@@ -4672,13 +4672,6 @@
                           "Beginn":  "2026-11-06T16:05:00",
                           "Ende":  "2026-11-06T16:30:00",
                           "Sendung":  "The Big Bang Theory"
-                      },
-                      {
-                          "Art":  "Serie",
-                          "Sender":  "RTLZWEI Deutschland HD",
-                          "Beginn":  "2026-11-06T16:05:00",
-                          "Ende":  "2026-11-06T17:05:00",
-                          "Sendung":  "Hartz und herzlich"
                       },
                       {
                           "Art":  "Dokumentation",
@@ -4842,13 +4835,6 @@
                           "Sendung":  "Unsere Erde im Wandel"
                       },
                       {
-                          "Art":  "Dokumentation",
-                          "Sender":  "N24 Doku HD",
-                          "Beginn":  "2026-11-06T16:40:00",
-                          "Ende":  "2026-11-06T17:35:00",
-                          "Sendung":  "Marvellous Machines: Kolosse aus Stahl"
-                      },
-                      {
                           "Art":  "Spielfilm",
                           "Sender":  "Sixx HD",
                           "Beginn":  "2026-11-06T16:40:00",
@@ -4882,6 +4868,13 @@
                           "Beginn":  "2026-11-06T16:45:00",
                           "Ende":  "2026-11-06T17:40:00",
                           "Sendung":  "Wildkatzen und Wildhunde"
+                      },
+                      {
+                          "Art":  "Dokumentation",
+                          "Sender":  "N24 Doku HD",
+                          "Beginn":  "2026-11-06T16:45:00",
+                          "Ende":  "2026-11-06T17:40:00",
+                          "Sendung":  "Marvellous Machines: Kolosse aus Stahl"
                       },
                       {
                           "Art":  "Serie",
@@ -4976,13 +4969,6 @@
                       },
                       {
                           "Art":  "Dokumentation",
-                          "Sender":  "phoenix",
-                          "Beginn":  "2026-11-06T17:05:00",
-                          "Ende":  "2026-11-06T17:15:00",
-                          "Sendung":  "Aktuelle Reportage"
-                      },
-                      {
-                          "Art":  "Dokumentation",
                           "Sender":  "rbb Berlin HD",
                           "Beginn":  "2026-11-06T17:05:00",
                           "Ende":  "2026-11-06T17:53:00",
@@ -5017,18 +5003,18 @@
                           "Sendung":  "Dragonball"
                       },
                       {
-                          "Art":  "Serie",
-                          "Sender":  "RTLZWEI Deutschland HD",
-                          "Beginn":  "2026-11-06T17:05:00",
-                          "Ende":  "2026-11-06T18:05:00",
-                          "Sendung":  "Hartz Rot Gold"
-                      },
-                      {
                           "Art":  "Dokumentation",
                           "Sender":  "NDR FS HH HD",
                           "Beginn":  "2026-11-06T17:10:00",
                           "Ende":  "2026-11-06T18:00:00",
                           "Sendung":  "Leopard, Seebär \u0026 Co."
+                      },
+                      {
+                          "Art":  "Dokumentation",
+                          "Sender":  "WELT HD",
+                          "Beginn":  "2026-11-06T17:10:00",
+                          "Ende":  "2026-11-06T17:45:00",
+                          "Sendung":  "WELT-Spezial"
                       },
                       {
                           "Art":  "Krimi",
@@ -5045,25 +5031,18 @@
                           "Sendung":  "Stargate Atlantis"
                       },
                       {
+                          "Art":  "Serie",
+                          "Sender":  "RTLZWEI Deutschland HD",
+                          "Beginn":  "2026-11-06T17:14:00",
+                          "Ende":  "2026-11-06T18:12:00",
+                          "Sendung":  "Hartz Rot Gold"
+                      },
+                      {
                           "Art":  "Dokumentation",
                           "Sender":  "NTV",
                           "Beginn":  "2026-11-06T17:15:00",
                           "Ende":  "2026-11-06T17:30:00",
                           "Sendung":  "ntv Wirtschaft"
-                      },
-                      {
-                          "Art":  "Dokumentation",
-                          "Sender":  "phoenix",
-                          "Beginn":  "2026-11-06T17:15:00",
-                          "Ende":  "2026-11-06T18:00:00",
-                          "Sendung":  "Hauptstadt-Hipster und Grasland-Hirten - Roadtrip durch die Mongolei"
-                      },
-                      {
-                          "Art":  "Dokumentation",
-                          "Sender":  "WELT HD",
-                          "Beginn":  "2026-11-06T17:15:00",
-                          "Ende":  "2026-11-06T17:45:00",
-                          "Sendung":  "WELT-Spezial"
                       },
                       {
                           "Art":  "Dokumentation",
@@ -5171,13 +5150,6 @@
                           "Sendung":  "Unter uns"
                       },
                       {
-                          "Art":  "Dokumentation",
-                          "Sender":  "N24 Doku HD",
-                          "Beginn":  "2026-11-06T17:35:00",
-                          "Ende":  "2026-11-06T18:25:00",
-                          "Sendung":  "Geboren für den Highway - Ein Truck entsteht"
-                      },
-                      {
                           "Art":  "Spielfilm",
                           "Sender":  "Sixx HD",
                           "Beginn":  "2026-11-06T17:35:00",
@@ -5190,6 +5162,13 @@
                           "Beginn":  "2026-11-06T17:40:00",
                           "Ende":  "2026-11-06T18:35:00",
                           "Sendung":  "Wildkatzen und Wildhunde"
+                      },
+                      {
+                          "Art":  "Dokumentation",
+                          "Sender":  "N24 Doku HD",
+                          "Beginn":  "2026-11-06T17:40:00",
+                          "Ende":  "2026-11-06T18:25:00",
+                          "Sendung":  "Geboren für den Highway - Ein Truck entsteht"
                       },
                       {
                           "Art":  "Serie",
@@ -5218,6 +5197,13 @@
                           "Beginn":  "2026-11-06T17:40:00",
                           "Ende":  "2026-11-06T17:50:00",
                           "Sendung":  "Voll zu spät!"
+                      },
+                      {
+                          "Art":  "Dokumentation",
+                          "Sender":  "phoenix",
+                          "Beginn":  "2026-11-06T17:50:00",
+                          "Ende":  "2026-11-06T18:30:00",
+                          "Sendung":  "Aktuelle Reportage"
                       },
                       {
                           "Art":  "Krimi",
@@ -5284,13 +5270,6 @@
                       },
                       {
                           "Art":  "Dokumentation",
-                          "Sender":  "phoenix",
-                          "Beginn":  "2026-11-06T18:00:00",
-                          "Ende":  "2026-11-06T18:30:00",
-                          "Sendung":  "Aktuelle Reportage"
-                      },
-                      {
-                          "Art":  "Dokumentation",
                           "Sender":  "ZDFinfo HD",
                           "Beginn":  "2026-11-06T18:00:00",
                           "Ende":  "2026-11-06T18:45:00",
@@ -5323,13 +5302,6 @@
                           "Beginn":  "2026-11-06T18:00:00",
                           "Ende":  "2026-11-06T18:30:00",
                           "Sendung":  "Pastewka"
-                      },
-                      {
-                          "Art":  "Serie",
-                          "Sender":  "RTLZWEI Deutschland HD",
-                          "Beginn":  "2026-11-06T18:05:00",
-                          "Ende":  "2026-11-06T19:05:00",
-                          "Sendung":  "Hartz und herzlich"
                       },
                       {
                           "Art":  "Krimi",
@@ -5367,11 +5339,18 @@
                           "Sendung":  "Stargate"
                       },
                       {
+                          "Art":  "Serie",
+                          "Sender":  "RTLZWEI Deutschland HD",
+                          "Beginn":  "2026-11-06T18:12:00",
+                          "Ende":  "2026-11-06T19:10:00",
+                          "Sendung":  "Hartz und herzlich"
+                      },
+                      {
                           "Art":  "Dokumentation",
                           "Sender":  "3sat HD",
                           "Beginn":  "2026-11-06T18:15:00",
                           "Ende":  "2026-11-06T19:00:00",
-                          "Sendung":  "NANO: Mein Körper. Meine Augen"
+                          "Sendung":  "NANO: Mein Mann lebt als KI weiter"
                       },
                       {
                           "Art":  "Dokumentation",
@@ -5426,7 +5405,7 @@
                           "Art":  "Serie",
                           "Sender":  "N24 Doku HD",
                           "Beginn":  "2026-11-06T18:25:00",
-                          "Ende":  "2026-11-06T19:10:00",
+                          "Ende":  "2026-11-06T19:15:00",
                           "Sendung":  "Border Patrol USA - Einsatz an Mexikos Grenze: Folge 13"
                       },
                       {
@@ -5441,7 +5420,7 @@
                           "Sender":  "phoenix",
                           "Beginn":  "2026-11-06T18:30:00",
                           "Ende":  "2026-11-06T19:15:00",
-                          "Sendung":  "Letzte Ausfahrt Midterms"
+                          "Sendung":  "Die Trump-Connection - Das Geschäft mit der Macht"
                       },
                       {
                           "Art":  "Spielfilm",
@@ -5599,24 +5578,17 @@
                       },
                       {
                           "Art":  "Serie",
-                          "Sender":  "RTLZWEI Deutschland HD",
-                          "Beginn":  "2026-11-06T19:05:00",
-                          "Ende":  "2026-11-06T20:15:00",
-                          "Sendung":  "Berlin - Tag \u0026 Nacht"
-                      },
-                      {
-                          "Art":  "Serie",
-                          "Sender":  "N24 Doku HD",
-                          "Beginn":  "2026-11-06T19:10:00",
-                          "Ende":  "2026-11-06T20:15:00",
-                          "Sendung":  "Border Patrol USA - Einsatz an Mexikos Grenze: Folge 14"
-                      },
-                      {
-                          "Art":  "Serie",
                           "Sender":  "Nick/CC+1 HD",
                           "Beginn":  "2026-11-06T19:10:00",
                           "Ende":  "2026-11-06T19:40:00",
                           "Sendung":  "SpongeBob Schwammkopf"
+                      },
+                      {
+                          "Art":  "Serie",
+                          "Sender":  "RTLZWEI Deutschland HD",
+                          "Beginn":  "2026-11-06T19:10:00",
+                          "Ende":  "2026-11-06T20:14:00",
+                          "Sendung":  "Berlin - Tag \u0026 Nacht"
                       },
                       {
                           "Art":  "Serie",
@@ -5631,6 +5603,13 @@
                           "Beginn":  "2026-11-06T19:15:00",
                           "Ende":  "2026-11-06T19:30:00",
                           "Sendung":  "ntv Wirtschaft"
+                      },
+                      {
+                          "Art":  "Dokumentation",
+                          "Sender":  "phoenix",
+                          "Beginn":  "2026-11-06T19:15:00",
+                          "Ende":  "2026-11-06T20:00:00",
+                          "Sendung":  "Putin und Trump - Ziemliche beste Feinde?"
                       },
                       {
                           "Art":  "Krimi",
@@ -5652,6 +5631,13 @@
                           "Beginn":  "2026-11-06T19:15:00",
                           "Ende":  "2026-11-06T19:25:00",
                           "Sendung":  "Robin Hood - Schlitzohr von Sherwood"
+                      },
+                      {
+                          "Art":  "Serie",
+                          "Sender":  "N24 Doku HD",
+                          "Beginn":  "2026-11-06T19:15:00",
+                          "Ende":  "2026-11-06T20:15:00",
+                          "Sendung":  "Border Patrol USA - Einsatz an Mexikos Grenze: Folge 14"
                       },
                       {
                           "Art":  "Serie",
@@ -5829,6 +5815,13 @@
                           "Sendung":  "Family Guy"
                       },
                       {
+                          "Art":  "Krimi",
+                          "Sender":  "RTLZWEI Deutschland HD",
+                          "Beginn":  "2026-11-06T20:14:00",
+                          "Ende":  "2026-11-06T22:47:00",
+                          "Sendung":  "Glass"
+                      },
+                      {
                           "Art":  "Dokumentation",
                           "Sender":  "ARD-alpha HD",
                           "Beginn":  "2026-11-06T20:15:00",
@@ -5895,7 +5888,7 @@
                           "Art":  "Dokumentation",
                           "Sender":  "ZDFinfo HD",
                           "Beginn":  "2026-11-06T20:15:00",
-                          "Ende":  "2026-11-06T20:55:00",
+                          "Ende":  "2026-11-06T21:00:00",
                           "Sendung":  "DDR unglaublich"
                       },
                       {
@@ -5911,13 +5904,6 @@
                           "Beginn":  "2026-11-06T20:15:00",
                           "Ende":  "2026-11-06T22:15:00",
                           "Sendung":  "Deutschlands spektakulärste Kriminalfälle"
-                      },
-                      {
-                          "Art":  "Krimi",
-                          "Sender":  "RTLZWEI Deutschland HD",
-                          "Beginn":  "2026-11-06T20:15:00",
-                          "Ende":  "2026-11-06T22:50:00",
-                          "Sendung":  "Glass"
                       },
                       {
                           "Art":  "Krimi",
@@ -6007,7 +5993,7 @@
                           "Art":  "Serie",
                           "Sender":  "N24 Doku HD",
                           "Beginn":  "2026-11-06T20:15:00",
-                          "Ende":  "2026-11-06T21:10:00",
+                          "Ende":  "2026-11-06T21:05:00",
                           "Sendung":  "Border Patrol USA - Einsatz an Mexikos Grenze: Folge 15"
                       },
                       {
@@ -6028,8 +6014,8 @@
                           "Art":  "Serie",
                           "Sender":  "Sixx HD",
                           "Beginn":  "2026-11-06T20:15:00",
-                          "Ende":  "2026-11-06T21:15:00",
-                          "Sendung":  "Forsthaus Rampensau Germany"
+                          "Ende":  "2026-11-06T21:10:00",
+                          "Sendung":  "Verpfuscht - Ein Fall für die Beauty Docs"
                       },
                       {
                           "Art":  "Serie",
@@ -6042,7 +6028,7 @@
                           "Art":  "Serie",
                           "Sender":  "WELT HD",
                           "Beginn":  "2026-11-06T20:15:00",
-                          "Ende":  "2026-11-06T21:10:00",
+                          "Ende":  "2026-11-06T21:05:00",
                           "Sendung":  "Border Patrol USA - Einsatz an Mexikos Grenze:"
                       },
                       {
@@ -6061,13 +6047,6 @@
                       },
                       {
                           "Art":  "Dokumentation",
-                          "Sender":  "ZDFinfo HD",
-                          "Beginn":  "2026-11-06T20:55:00",
-                          "Ende":  "2026-11-06T21:40:00",
-                          "Sendung":  "DDR unglaublich"
-                      },
-                      {
-                          "Art":  "Dokumentation",
                           "Sender":  "ARD-alpha HD",
                           "Beginn":  "2026-11-06T21:00:00",
                           "Ende":  "2026-11-06T21:45:00",
@@ -6079,6 +6058,20 @@
                           "Beginn":  "2026-11-06T21:00:00",
                           "Ende":  "2026-11-06T21:45:00",
                           "Sendung":  "Ein Tag in der DDR"
+                      },
+                      {
+                          "Art":  "Dokumentation",
+                          "Sender":  "ZDFinfo HD",
+                          "Beginn":  "2026-11-06T21:00:00",
+                          "Ende":  "2026-11-06T21:45:00",
+                          "Sendung":  "DDR unglaublich"
+                      },
+                      {
+                          "Art":  "Dokumentation",
+                          "Sender":  "tagesschau24 HD",
+                          "Beginn":  "2026-11-06T21:02:00",
+                          "Ende":  "2026-11-06T21:45:00",
+                          "Sendung":  "Verschollen im Zweiten Weltkrieg"
                       },
                       {
                           "Art":  "Dokumentation",
@@ -6103,10 +6096,24 @@
                       },
                       {
                           "Art":  "Serie",
+                          "Sender":  "N24 Doku HD",
+                          "Beginn":  "2026-11-06T21:05:00",
+                          "Ende":  "2026-11-06T22:00:00",
+                          "Sendung":  "Border Patrol USA - Einsatz an Mexikos Grenze: Folge 19"
+                      },
+                      {
+                          "Art":  "Serie",
                           "Sender":  "RTLup HD",
                           "Beginn":  "2026-11-06T21:05:00",
                           "Ende":  "2026-11-06T22:00:00",
                           "Sendung":  "Der Lehrer"
+                      },
+                      {
+                          "Art":  "Serie",
+                          "Sender":  "WELT HD",
+                          "Beginn":  "2026-11-06T21:05:00",
+                          "Ende":  "2026-11-06T22:00:00",
+                          "Sendung":  "Border Patrol USA - Einsatz an Mexikos Grenze:"
                       },
                       {
                           "Art":  "Dokumentation",
@@ -6126,22 +6133,15 @@
                           "Art":  "Dokumentation",
                           "Sender":  "Vox Deutschland HD",
                           "Beginn":  "2026-11-06T21:10:00",
-                          "Ende":  "2026-11-06T22:15:00",
+                          "Ende":  "2026-11-06T22:10:00",
                           "Sendung":  "Daniela Katzenberger"
                       },
                       {
                           "Art":  "Serie",
-                          "Sender":  "N24 Doku HD",
+                          "Sender":  "Sixx HD",
                           "Beginn":  "2026-11-06T21:10:00",
                           "Ende":  "2026-11-06T22:05:00",
-                          "Sendung":  "Border Patrol USA - Einsatz an Mexikos Grenze: Folge 19"
-                      },
-                      {
-                          "Art":  "Serie",
-                          "Sender":  "WELT HD",
-                          "Beginn":  "2026-11-06T21:10:00",
-                          "Ende":  "2026-11-06T22:05:00",
-                          "Sendung":  "Border Patrol USA - Einsatz an Mexikos Grenze:"
+                          "Sendung":  "Verpfuscht - Ein Fall für die Beauty Docs"
                       },
                       {
                           "Art":  "Dokumentation",
@@ -6173,24 +6173,10 @@
                       },
                       {
                           "Art":  "Serie",
-                          "Sender":  "Sixx HD",
-                          "Beginn":  "2026-11-06T21:15:00",
-                          "Ende":  "2026-11-06T22:15:00",
-                          "Sendung":  "Forsthaus Rampensau Germany"
-                      },
-                      {
-                          "Art":  "Serie",
                           "Sender":  "Sport1",
                           "Beginn":  "2026-11-06T21:15:00",
                           "Ende":  "2026-11-06T21:45:00",
                           "Sendung":  "Container Wars"
-                      },
-                      {
-                          "Art":  "Dokumentation",
-                          "Sender":  "ZDFinfo HD",
-                          "Beginn":  "2026-11-06T21:40:00",
-                          "Ende":  "2026-11-06T22:25:00",
-                          "Sendung":  "Die schwersten Unglücke der DDR"
                       },
                       {
                           "Art":  "Serie",
@@ -6219,6 +6205,13 @@
                           "Beginn":  "2026-11-06T21:45:00",
                           "Ende":  "2026-11-06T22:30:00",
                           "Sendung":  "Ein Tag in der DDR"
+                      },
+                      {
+                          "Art":  "Dokumentation",
+                          "Sender":  "ZDFinfo HD",
+                          "Beginn":  "2026-11-06T21:45:00",
+                          "Ende":  "2026-11-06T22:30:00",
+                          "Sendung":  "Die schwersten Unglücke der DDR"
                       },
                       {
                           "Art":  "Serie",
@@ -6264,10 +6257,24 @@
                       },
                       {
                           "Art":  "Serie",
+                          "Sender":  "N24 Doku HD",
+                          "Beginn":  "2026-11-06T22:00:00",
+                          "Ende":  "2026-11-06T22:55:00",
+                          "Sendung":  "Border Patrol USA - Einsatz an Mexikos Grenze: Folge 20"
+                      },
+                      {
+                          "Art":  "Serie",
                           "Sender":  "RTLup HD",
                           "Beginn":  "2026-11-06T22:00:00",
                           "Ende":  "2026-11-06T22:30:00",
                           "Sendung":  "Ritas Welt"
+                      },
+                      {
+                          "Art":  "Serie",
+                          "Sender":  "WELT HD",
+                          "Beginn":  "2026-11-06T22:00:00",
+                          "Ende":  "2026-11-06T22:55:00",
+                          "Sendung":  "Border Patrol USA - Einsatz an Mexikos Grenze:"
                       },
                       {
                           "Art":  "Dokumentation",
@@ -6292,17 +6299,17 @@
                       },
                       {
                           "Art":  "Serie",
-                          "Sender":  "N24 Doku HD",
+                          "Sender":  "Sixx HD",
                           "Beginn":  "2026-11-06T22:05:00",
-                          "Ende":  "2026-11-06T23:05:00",
-                          "Sendung":  "Border Patrol USA - Einsatz an Mexikos Grenze: Folge 20"
+                          "Ende":  "2026-11-06T22:55:00",
+                          "Sendung":  "Verpfuscht - Ein Fall für die Beauty Docs"
                       },
                       {
-                          "Art":  "Serie",
-                          "Sender":  "WELT HD",
-                          "Beginn":  "2026-11-06T22:05:00",
-                          "Ende":  "2026-11-06T23:05:00",
-                          "Sendung":  "Border Patrol USA - Einsatz an Mexikos Grenze:"
+                          "Art":  "Spielfilm",
+                          "Sender":  "Vox Deutschland HD",
+                          "Beginn":  "2026-11-06T22:10:00",
+                          "Ende":  "2026-11-06T23:55:00",
+                          "Sendung":  "Dracula Untold"
                       },
                       {
                           "Art":  "Serie",
@@ -6333,20 +6340,6 @@
                           "Sendung":  "Ghostbusters: Legacy"
                       },
                       {
-                          "Art":  "Spielfilm",
-                          "Sender":  "Vox Deutschland HD",
-                          "Beginn":  "2026-11-06T22:15:00",
-                          "Ende":  "2026-11-07T00:00:00",
-                          "Sendung":  "Dracula Untold"
-                      },
-                      {
-                          "Art":  "Serie",
-                          "Sender":  "Sixx HD",
-                          "Beginn":  "2026-11-06T22:15:00",
-                          "Ende":  "2026-11-06T23:05:00",
-                          "Sendung":  "Verpfuscht - Ein Fall für die Beauty Docs"
-                      },
-                      {
                           "Art":  "Serie",
                           "Sender":  "Sport1",
                           "Beginn":  "2026-11-06T22:15:00",
@@ -6368,13 +6361,6 @@
                           "Sendung":  "Terra Mater"
                       },
                       {
-                          "Art":  "Dokumentation",
-                          "Sender":  "ZDFinfo HD",
-                          "Beginn":  "2026-11-06T22:25:00",
-                          "Ende":  "2026-11-06T23:10:00",
-                          "Sendung":  "Die schwersten Unglücke der DDR"
-                      },
-                      {
                           "Art":  "Spielfilm",
                           "Sender":  "TELE 5 HD",
                           "Beginn":  "2026-11-06T22:25:00",
@@ -6394,6 +6380,13 @@
                           "Beginn":  "2026-11-06T22:30:00",
                           "Ende":  "2026-11-06T23:00:00",
                           "Sendung":  "Meine Nacht des Mauerfalls"
+                      },
+                      {
+                          "Art":  "Dokumentation",
+                          "Sender":  "ZDFinfo HD",
+                          "Beginn":  "2026-11-06T22:30:00",
+                          "Ende":  "2026-11-06T23:15:00",
+                          "Sendung":  "Die schwersten Unglücke der DDR"
                       },
                       {
                           "Art":  "Serie",
@@ -6433,8 +6426,8 @@
                       {
                           "Art":  "Spielfilm",
                           "Sender":  "RTLZWEI Deutschland HD",
-                          "Beginn":  "2026-11-06T22:50:00",
-                          "Ende":  "2026-11-07T01:00:00",
+                          "Beginn":  "2026-11-06T22:47:00",
+                          "Ende":  "2026-11-07T00:59:00",
                           "Sendung":  "Bank Job"
                       },
                       {
@@ -6453,10 +6446,31 @@
                       },
                       {
                           "Art":  "Serie",
+                          "Sender":  "N24 Doku HD",
+                          "Beginn":  "2026-11-06T22:55:00",
+                          "Ende":  "2026-11-06T23:50:00",
+                          "Sendung":  "Border Patrol USA - Einsatz an Mexikos Grenze: Folge 1"
+                      },
+                      {
+                          "Art":  "Serie",
                           "Sender":  "RTLup HD",
                           "Beginn":  "2026-11-06T22:55:00",
                           "Ende":  "2026-11-06T23:25:00",
                           "Sendung":  "Ritas Welt"
+                      },
+                      {
+                          "Art":  "Serie",
+                          "Sender":  "Sixx HD",
+                          "Beginn":  "2026-11-06T22:55:00",
+                          "Ende":  "2026-11-06T23:50:00",
+                          "Sendung":  "Verpfuscht - Ein Fall für die Beauty Docs"
+                      },
+                      {
+                          "Art":  "Serie",
+                          "Sender":  "WELT HD",
+                          "Beginn":  "2026-11-06T22:55:00",
+                          "Ende":  "2026-11-06T23:50:00",
+                          "Sendung":  "Border Patrol USA - Einsatz an Mexikos Grenze:"
                       },
                       {
                           "Art":  "Dokumentation",
@@ -6467,45 +6481,10 @@
                       },
                       {
                           "Art":  "Dokumentation",
-                          "Sender":  "phoenix",
-                          "Beginn":  "2026-11-06T23:00:00",
-                          "Ende":  "2026-11-06T23:55:00",
-                          "Sendung":  "Dokumentation"
-                      },
-                      {
-                          "Art":  "Dokumentation",
                           "Sender":  "HGTV HD",
                           "Beginn":  "2026-11-06T23:05:00",
                           "Ende":  "2026-11-06T23:55:00",
                           "Sendung":  "Die Blockhaus-Profis"
-                      },
-                      {
-                          "Art":  "Serie",
-                          "Sender":  "N24 Doku HD",
-                          "Beginn":  "2026-11-06T23:05:00",
-                          "Ende":  "2026-11-07T00:05:00",
-                          "Sendung":  "Border Patrol USA - Einsatz an Mexikos Grenze: Folge 1"
-                      },
-                      {
-                          "Art":  "Serie",
-                          "Sender":  "Sixx HD",
-                          "Beginn":  "2026-11-06T23:05:00",
-                          "Ende":  "2026-11-07T00:00:00",
-                          "Sendung":  "Verpfuscht - Ein Fall für die Beauty Docs"
-                      },
-                      {
-                          "Art":  "Serie",
-                          "Sender":  "WELT HD",
-                          "Beginn":  "2026-11-06T23:05:00",
-                          "Ende":  "2026-11-07T00:05:00",
-                          "Sendung":  "Border Patrol USA - Einsatz an Mexikos Grenze:"
-                      },
-                      {
-                          "Art":  "Dokumentation",
-                          "Sender":  "ZDFinfo HD",
-                          "Beginn":  "2026-11-06T23:10:00",
-                          "Ende":  "2026-11-06T23:55:00",
-                          "Sendung":  "Geheime DDR - Verbotene Orte der Macht"
                       },
                       {
                           "Art":  "Serie",
@@ -6527,6 +6506,13 @@
                           "Beginn":  "2026-11-06T23:15:00",
                           "Ende":  "2026-11-07T00:15:00",
                           "Sendung":  "Faszination Flimmerkiste"
+                      },
+                      {
+                          "Art":  "Dokumentation",
+                          "Sender":  "ZDFinfo HD",
+                          "Beginn":  "2026-11-06T23:15:00",
+                          "Ende":  "2026-11-07T00:00:00",
+                          "Sendung":  "Geheime DDR - Verbotene Orte der Macht"
                       },
                       {
                           "Art":  "Serie",
@@ -6593,10 +6579,24 @@
                       },
                       {
                           "Art":  "Serie",
+                          "Sender":  "N24 Doku HD",
+                          "Beginn":  "2026-11-06T23:50:00",
+                          "Ende":  "2026-11-07T00:45:00",
+                          "Sendung":  "Border Patrol USA - Einsatz an Mexikos Grenze: Folge 2"
+                      },
+                      {
+                          "Art":  "Serie",
                           "Sender":  "ProSieben MAXX HD",
                           "Beginn":  "2026-11-06T23:50:00",
                           "Ende":  "2026-11-07T00:15:00",
                           "Sendung":  "Frieren - Nach dem Ende der Reise"
+                      },
+                      {
+                          "Art":  "Serie",
+                          "Sender":  "Sixx HD",
+                          "Beginn":  "2026-11-06T23:50:00",
+                          "Ende":  "2026-11-07T00:50:00",
+                          "Sendung":  "Price of Perfection - Olivia Attwood deckt auf"
                       },
                       {
                           "Art":  "Dokumentation",
@@ -6611,13 +6611,6 @@
                           "Beginn":  "2026-11-06T23:55:00",
                           "Ende":  "2026-11-07T00:25:00",
                           "Sendung":  "Kurzstrecke mit Pierre M. Krause"
-                      },
-                      {
-                          "Art":  "Dokumentation",
-                          "Sender":  "ZDFinfo HD",
-                          "Beginn":  "2026-11-06T23:55:00",
-                          "Ende":  "2026-11-07T00:40:00",
-                          "Sendung":  "Wilde Zeiten. Das letzte Jahr der DDR"
                       },
                       {
                           "Art":  "Krimi",
@@ -6648,6 +6641,13 @@
                           "Sendung":  "Nikola"
                       },
                       {
+                          "Art":  "Dokumentation",
+                          "Sender":  "ZDFinfo HD",
+                          "Beginn":  "2026-11-07T00:00:00",
+                          "Ende":  "2026-11-07T00:45:00",
+                          "Sendung":  "Wilde Zeiten. Das letzte Jahr der DDR"
+                      },
+                      {
                           "Art":  "Krimi",
                           "Sender":  "hr-fernsehen HD",
                           "Beginn":  "2026-11-07T00:00:00",
@@ -6670,24 +6670,10 @@
                       },
                       {
                           "Art":  "Serie",
-                          "Sender":  "Sixx HD",
-                          "Beginn":  "2026-11-07T00:00:00",
-                          "Ende":  "2026-11-07T00:55:00",
-                          "Sendung":  "Price of Perfection - Olivia Attwood deckt auf"
-                      },
-                      {
-                          "Art":  "Serie",
                           "Sender":  "WDR Fernsehen",
                           "Beginn":  "2026-11-07T00:00:00",
                           "Ende":  "2026-11-07T00:35:00",
                           "Sendung":  "Motsi \u0026 Oti - Meet the Mabuses"
-                      },
-                      {
-                          "Art":  "Serie",
-                          "Sender":  "N24 Doku HD",
-                          "Beginn":  "2026-11-07T00:05:00",
-                          "Ende":  "2026-11-07T01:00:00",
-                          "Sendung":  "Border Patrol USA - Einsatz an Mexikos Grenze: Folge 2"
                       },
                       {
                           "Art":  "Serie",
@@ -6716,6 +6702,13 @@
                           "Beginn":  "2026-11-07T00:15:00",
                           "Ende":  "2026-11-07T01:00:00",
                           "Sendung":  "Anaon - Hüter der Nacht"
+                      },
+                      {
+                          "Art":  "Krimi",
+                          "Sender":  "Vox Deutschland HD",
+                          "Beginn":  "2026-11-07T00:15:00",
+                          "Ende":  "2026-11-07T01:15:00",
+                          "Sendung":  "Medical Detectives - Geheimnisse der Gerichtsmedizin"
                       },
                       {
                           "Art":  "Spielfilm",
@@ -6758,13 +6751,6 @@
                           "Beginn":  "2026-11-07T00:20:00",
                           "Ende":  "2026-11-07T00:35:00",
                           "Sendung":  "Tagesschau vor 20 Jahren"
-                      },
-                      {
-                          "Art":  "Krimi",
-                          "Sender":  "Vox Deutschland HD",
-                          "Beginn":  "2026-11-07T00:20:00",
-                          "Ende":  "2026-11-07T01:20:00",
-                          "Sendung":  "Medical Detectives - Geheimnisse der Gerichtsmedizin"
                       },
                       {
                           "Art":  "Krimi",
@@ -6852,17 +6838,17 @@
                       },
                       {
                           "Art":  "Krimi",
-                          "Sender":  "RTL Deutschland HD",
-                          "Beginn":  "2026-11-07T00:45:00",
-                          "Ende":  "2026-11-07T01:35:00",
-                          "Sendung":  "CSI: Miami"
-                      },
-                      {
-                          "Art":  "Krimi",
                           "Sender":  "VOXup HD",
                           "Beginn":  "2026-11-07T00:45:00",
                           "Ende":  "2026-11-07T01:30:00",
                           "Sendung":  "Law \u0026 Order: Organized Crime"
+                      },
+                      {
+                          "Art":  "Serie",
+                          "Sender":  "N24 Doku HD",
+                          "Beginn":  "2026-11-07T00:45:00",
+                          "Ende":  "2026-11-07T01:25:00",
+                          "Sendung":  "Border Patrol USA - Einsatz an Mexikos Grenze: Folge 3"
                       },
                       {
                           "Art":  "Serie",
@@ -6879,6 +6865,20 @@
                           "Sendung":  "Scary Living - Amerikas gruseligste Häuser"
                       },
                       {
+                          "Art":  "Krimi",
+                          "Sender":  "RTL Deutschland HD",
+                          "Beginn":  "2026-11-07T00:50:00",
+                          "Ende":  "2026-11-07T01:40:00",
+                          "Sendung":  "CSI: Miami"
+                      },
+                      {
+                          "Art":  "Serie",
+                          "Sender":  "Sixx HD",
+                          "Beginn":  "2026-11-07T00:50:00",
+                          "Ende":  "2026-11-07T01:35:00",
+                          "Sendung":  "Price of Perfection - Olivia Attwood deckt auf"
+                      },
+                      {
                           "Art":  "Serie",
                           "Sender":  "zdf_neo HD",
                           "Beginn":  "2026-11-07T00:50:00",
@@ -6886,11 +6886,11 @@
                           "Sendung":  "the other gAIrl"
                       },
                       {
-                          "Art":  "Serie",
-                          "Sender":  "Sixx HD",
-                          "Beginn":  "2026-11-07T00:55:00",
-                          "Ende":  "2026-11-07T01:40:00",
-                          "Sendung":  "Price of Perfection - Olivia Attwood deckt auf"
+                          "Art":  "Spielfilm",
+                          "Sender":  "RTLZWEI Deutschland HD",
+                          "Beginn":  "2026-11-07T00:59:00",
+                          "Ende":  "2026-11-07T02:35:00",
+                          "Sendung":  "The Enforcer"
                       },
                       {
                           "Art":  "Krimi",
@@ -6912,13 +6912,6 @@
                           "Beginn":  "2026-11-07T01:00:00",
                           "Ende":  "2026-11-07T02:35:00",
                           "Sendung":  "Hör auf zu lügen"
-                      },
-                      {
-                          "Art":  "Spielfilm",
-                          "Sender":  "RTLZWEI Deutschland HD",
-                          "Beginn":  "2026-11-07T01:00:00",
-                          "Ende":  "2026-11-07T02:40:00",
-                          "Sendung":  "The Enforcer"
                       },
                       {
                           "Art":  "Serie",
@@ -7007,8 +7000,8 @@
                       {
                           "Art":  "Krimi",
                           "Sender":  "Vox Deutschland HD",
-                          "Beginn":  "2026-11-07T01:20:00",
-                          "Ende":  "2026-11-07T02:10:00",
+                          "Beginn":  "2026-11-07T01:15:00",
+                          "Ende":  "2026-11-07T02:00:00",
                           "Sendung":  "Medical Detectives - Geheimnisse der Gerichtsmedizin"
                       },
                       {
@@ -7038,6 +7031,13 @@
                           "Beginn":  "2026-11-07T01:25:00",
                           "Ende":  "2026-11-07T03:00:00",
                           "Sendung":  "Neues vom Wixxer"
+                      },
+                      {
+                          "Art":  "Serie",
+                          "Sender":  "WELT HD",
+                          "Beginn":  "2026-11-07T01:25:00",
+                          "Ende":  "2026-11-07T02:10:00",
+                          "Sendung":  "Border Patrol USA - Einsatz an Mexikos Grenze:"
                       },
                       {
                           "Art":  "Dokumentation",
@@ -7082,11 +7082,11 @@
                           "Sendung":  "Erlebnisreisen"
                       },
                       {
-                          "Art":  "Krimi",
-                          "Sender":  "RTL Deutschland HD",
+                          "Art":  "Serie",
+                          "Sender":  "Sixx HD",
                           "Beginn":  "2026-11-07T01:35:00",
                           "Ende":  "2026-11-07T02:20:00",
-                          "Sendung":  "CSI: Miami"
+                          "Sendung":  "Price of Perfection - Olivia Attwood deckt auf"
                       },
                       {
                           "Art":  "Serie",
@@ -7096,18 +7096,11 @@
                           "Sendung":  "the other gAIrl"
                       },
                       {
-                          "Art":  "Serie",
-                          "Sender":  "Sixx HD",
+                          "Art":  "Krimi",
+                          "Sender":  "RTL Deutschland HD",
                           "Beginn":  "2026-11-07T01:40:00",
-                          "Ende":  "2026-11-07T02:25:00",
-                          "Sendung":  "Price of Perfection - Olivia Attwood deckt auf"
-                      },
-                      {
-                          "Art":  "Serie",
-                          "Sender":  "WELT HD",
-                          "Beginn":  "2026-11-07T01:40:00",
-                          "Ende":  "2026-11-07T02:20:00",
-                          "Sendung":  "Border Patrol USA - Einsatz an Mexikos Grenze:"
+                          "Ende":  "2026-11-07T02:30:00",
+                          "Sendung":  "CSI: Miami"
                       },
                       {
                           "Art":  "Dokumentation",
@@ -7194,6 +7187,13 @@
                           "Sendung":  "One Piece"
                       },
                       {
+                          "Art":  "Krimi",
+                          "Sender":  "Vox Deutschland HD",
+                          "Beginn":  "2026-11-07T02:00:00",
+                          "Ende":  "2026-11-07T02:50:00",
+                          "Sendung":  "Medical Detectives - Geheimnisse der Gerichtsmedizin"
+                      },
+                      {
                           "Art":  "Spielfilm",
                           "Sender":  "MDR Sachsen HD",
                           "Beginn":  "2026-11-07T02:00:00",
@@ -7220,13 +7220,6 @@
                           "Beginn":  "2026-11-07T02:10:00",
                           "Ende":  "2026-11-07T02:55:00",
                           "Sendung":  "Unexpected Killer - Die Mörder von nebenan"
-                      },
-                      {
-                          "Art":  "Krimi",
-                          "Sender":  "Vox Deutschland HD",
-                          "Beginn":  "2026-11-07T02:10:00",
-                          "Ende":  "2026-11-07T02:55:00",
-                          "Sendung":  "Medical Detectives - Geheimnisse der Gerichtsmedizin"
                       },
                       {
                           "Art":  "Spielfilm",
@@ -7257,6 +7250,13 @@
                           "Sendung":  "mieten, kaufen, wohnen"
                       },
                       {
+                          "Art":  "Serie",
+                          "Sender":  "WELT HD",
+                          "Beginn":  "2026-11-07T02:10:00",
+                          "Ende":  "2026-11-07T02:55:00",
+                          "Sendung":  "Border Patrol USA - Einsatz an Mexikos Grenze:"
+                      },
+                      {
                           "Art":  "Dokumentation",
                           "Sender":  "ZDF HD",
                           "Beginn":  "2026-11-07T02:15:00",
@@ -7278,13 +7278,6 @@
                           "Sendung":  "Sexpension Hüttenzauber"
                       },
                       {
-                          "Art":  "Krimi",
-                          "Sender":  "RTL Deutschland HD",
-                          "Beginn":  "2026-11-07T02:20:00",
-                          "Ende":  "2026-11-07T03:15:00",
-                          "Sendung":  "CSI: Miami"
-                      },
-                      {
                           "Art":  "Spielfilm",
                           "Sender":  "MDR Sachsen HD",
                           "Beginn":  "2026-11-07T02:20:00",
@@ -7300,16 +7293,9 @@
                       },
                       {
                           "Art":  "Serie",
-                          "Sender":  "WELT HD",
-                          "Beginn":  "2026-11-07T02:20:00",
-                          "Ende":  "2026-11-07T03:10:00",
-                          "Sendung":  "Border Patrol USA - Einsatz an Mexikos Grenze:"
-                      },
-                      {
-                          "Art":  "Serie",
                           "Sender":  "Sixx HD",
-                          "Beginn":  "2026-11-07T02:25:00",
-                          "Ende":  "2026-11-07T03:05:00",
+                          "Beginn":  "2026-11-07T02:20:00",
+                          "Ende":  "2026-11-07T02:59:00",
                           "Sendung":  "Verpfuscht - Ein Fall für die Beauty Docs"
                       },
                       {
@@ -7327,11 +7313,11 @@
                           "Sendung":  "Lokalzeit aus Aachen"
                       },
                       {
-                          "Art":  "Serie",
-                          "Sender":  "N24 Doku HD",
+                          "Art":  "Krimi",
+                          "Sender":  "RTL Deutschland HD",
                           "Beginn":  "2026-11-07T02:30:00",
-                          "Ende":  "2026-11-07T03:10:00",
-                          "Sendung":  "Border Patrol USA - Einsatz an Mexikos Grenze: Folge 19"
+                          "Ende":  "2026-11-07T03:20:00",
+                          "Sendung":  "CSI: Miami"
                       },
                       {
                           "Art":  "Dokumentation",
@@ -7346,6 +7332,13 @@
                           "Beginn":  "2026-11-07T02:35:00",
                           "Ende":  "2026-11-07T03:25:00",
                           "Sendung":  "Mord mit Aussicht"
+                      },
+                      {
+                          "Art":  "Krimi",
+                          "Sender":  "RTLZWEI Deutschland HD",
+                          "Beginn":  "2026-11-07T02:35:00",
+                          "Ende":  "2026-11-07T03:24:00",
+                          "Sendung":  "Autopsie - Mysteriöse Todesfälle"
                       },
                       {
                           "Art":  "Spielfilm",
@@ -7372,15 +7365,8 @@
                           "Art":  "Dokumentation",
                           "Sender":  "ZDFinfo HD",
                           "Beginn":  "2026-11-07T02:40:00",
-                          "Ende":  "2026-11-07T03:20:00",
+                          "Ende":  "2026-11-07T03:25:00",
                           "Sendung":  "Knast in Deutschland"
-                      },
-                      {
-                          "Art":  "Krimi",
-                          "Sender":  "RTLZWEI Deutschland HD",
-                          "Beginn":  "2026-11-07T02:40:00",
-                          "Ende":  "2026-11-07T03:30:00",
-                          "Sendung":  "Autopsie - Mysteriöse Todesfälle"
                       },
                       {
                           "Art":  "Dokumentation",
@@ -7418,11 +7404,25 @@
                           "Sendung":  "Wasserpioniere"
                       },
                       {
+                          "Art":  "Krimi",
+                          "Sender":  "Vox Deutschland HD",
+                          "Beginn":  "2026-11-07T02:50:00",
+                          "Ende":  "2026-11-07T03:15:00",
+                          "Sendung":  "Medical Detectives - Geheimnisse der Gerichtsmedizin"
+                      },
+                      {
                           "Art":  "Spielfilm",
                           "Sender":  "Pro7 Deutschland HD",
                           "Beginn":  "2026-11-07T02:50:00",
                           "Ende":  "2026-11-07T04:15:00",
                           "Sendung":  "Halloween H20 - 20 Jahre später"
+                      },
+                      {
+                          "Art":  "Serie",
+                          "Sender":  "N24 Doku HD",
+                          "Beginn":  "2026-11-07T02:50:00",
+                          "Ende":  "2026-11-07T03:35:00",
+                          "Sendung":  "Border Patrol USA - Einsatz an Mexikos Grenze: Folge 19"
                       },
                       {
                           "Art":  "Serie",
@@ -7439,13 +7439,6 @@
                           "Sendung":  "Unexpected Killer - Die Mörder von nebenan"
                       },
                       {
-                          "Art":  "Krimi",
-                          "Sender":  "Vox Deutschland HD",
-                          "Beginn":  "2026-11-07T02:55:00",
-                          "Ende":  "2026-11-07T03:25:00",
-                          "Sendung":  "Medical Detectives - Geheimnisse der Gerichtsmedizin"
-                      },
-                      {
                           "Art":  "Spielfilm",
                           "Sender":  "TELE 5 HD",
                           "Beginn":  "2026-11-07T02:55:00",
@@ -7458,6 +7451,13 @@
                           "Beginn":  "2026-11-07T02:55:00",
                           "Ende":  "2026-11-07T03:40:00",
                           "Sendung":  "Auf Streife"
+                      },
+                      {
+                          "Art":  "Serie",
+                          "Sender":  "WELT HD",
+                          "Beginn":  "2026-11-07T02:55:00",
+                          "Ende":  "2026-11-07T03:40:00",
+                          "Sendung":  "Border Patrol USA - Einsatz an Mexikos Grenze:"
                       },
                       {
                           "Art":  "Dokumentation",
@@ -7510,31 +7510,17 @@
                       },
                       {
                           "Art":  "Serie",
-                          "Sender":  "N24 Doku HD",
-                          "Beginn":  "2026-11-07T03:10:00",
-                          "Ende":  "2026-11-07T03:55:00",
-                          "Sendung":  "Border Patrol USA - Einsatz an Mexikos Grenze: Folge 20"
-                      },
-                      {
-                          "Art":  "Serie",
                           "Sender":  "ProSieben MAXX HD",
                           "Beginn":  "2026-11-07T03:10:00",
                           "Ende":  "2026-11-07T03:35:00",
                           "Sendung":  "One Piece"
                       },
                       {
-                          "Art":  "Serie",
-                          "Sender":  "WELT HD",
-                          "Beginn":  "2026-11-07T03:10:00",
-                          "Ende":  "2026-11-07T03:55:00",
-                          "Sendung":  "Border Patrol USA - Einsatz an Mexikos Grenze:"
-                      },
-                      {
                           "Art":  "Krimi",
-                          "Sender":  "RTL Deutschland HD",
+                          "Sender":  "Vox Deutschland HD",
                           "Beginn":  "2026-11-07T03:15:00",
                           "Ende":  "2026-11-07T04:00:00",
-                          "Sendung":  "CSI"
+                          "Sendung":  "Medical Detectives - Geheimnisse der Gerichtsmedizin"
                       },
                       {
                           "Art":  "Spielfilm",
@@ -7544,11 +7530,11 @@
                           "Sendung":  "Genius"
                       },
                       {
-                          "Art":  "Dokumentation",
-                          "Sender":  "ZDFinfo HD",
+                          "Art":  "Krimi",
+                          "Sender":  "RTL Deutschland HD",
                           "Beginn":  "2026-11-07T03:20:00",
-                          "Ende":  "2026-11-07T04:05:00",
-                          "Sendung":  "Knast in Deutschland"
+                          "Ende":  "2026-11-07T04:10:00",
+                          "Sendung":  "CSI"
                       },
                       {
                           "Art":  "Spielfilm",
@@ -7566,17 +7552,24 @@
                       },
                       {
                           "Art":  "Krimi",
+                          "Sender":  "RTLZWEI Deutschland HD",
+                          "Beginn":  "2026-11-07T03:24:00",
+                          "Ende":  "2026-11-07T04:14:00",
+                          "Sendung":  "Autopsie - Mysteriöse Todesfälle"
+                      },
+                      {
+                          "Art":  "Dokumentation",
+                          "Sender":  "ZDFinfo HD",
+                          "Beginn":  "2026-11-07T03:25:00",
+                          "Ende":  "2026-11-07T04:10:00",
+                          "Sendung":  "Knast in Deutschland"
+                      },
+                      {
+                          "Art":  "Krimi",
                           "Sender":  "rbb Berlin HD",
                           "Beginn":  "2026-11-07T03:25:00",
                           "Ende":  "2026-11-07T04:15:00",
                           "Sendung":  "Mord mit Aussicht"
-                      },
-                      {
-                          "Art":  "Krimi",
-                          "Sender":  "Vox Deutschland HD",
-                          "Beginn":  "2026-11-07T03:25:00",
-                          "Ende":  "2026-11-07T04:10:00",
-                          "Sendung":  "Medical Detectives - Geheimnisse der Gerichtsmedizin"
                       },
                       {
                           "Art":  "Serie",
@@ -7584,13 +7577,6 @@
                           "Beginn":  "2026-11-07T03:25:00",
                           "Ende":  "2026-11-07T03:50:00",
                           "Sendung":  "SpongeBob Schwammkopf"
-                      },
-                      {
-                          "Art":  "Krimi",
-                          "Sender":  "RTLZWEI Deutschland HD",
-                          "Beginn":  "2026-11-07T03:30:00",
-                          "Ende":  "2026-11-07T04:20:00",
-                          "Sendung":  "Autopsie - Mysteriöse Todesfälle"
                       },
                       {
                           "Art":  "Serie",
@@ -7605,6 +7591,13 @@
                           "Beginn":  "2026-11-07T03:35:00",
                           "Ende":  "2026-11-07T04:00:00",
                           "Sendung":  "Almania"
+                      },
+                      {
+                          "Art":  "Serie",
+                          "Sender":  "N24 Doku HD",
+                          "Beginn":  "2026-11-07T03:35:00",
+                          "Ende":  "2026-11-07T04:15:00",
+                          "Sendung":  "Border Patrol USA - Einsatz an Mexikos Grenze: Folge 20"
                       },
                       {
                           "Art":  "Serie",
@@ -7640,6 +7633,13 @@
                           "Beginn":  "2026-11-07T03:40:00",
                           "Ende":  "2026-11-07T04:25:00",
                           "Sendung":  "Auf Streife"
+                      },
+                      {
+                          "Art":  "Serie",
+                          "Sender":  "WELT HD",
+                          "Beginn":  "2026-11-07T03:40:00",
+                          "Ende":  "2026-11-07T04:20:00",
+                          "Sendung":  "Border Patrol USA - Einsatz an Mexikos Grenze:"
                       },
                       {
                           "Art":  "Spielfilm",
@@ -7685,24 +7685,10 @@
                       },
                       {
                           "Art":  "Serie",
-                          "Sender":  "N24 Doku HD",
-                          "Beginn":  "2026-11-07T03:55:00",
-                          "Ende":  "2026-11-07T04:40:00",
-                          "Sendung":  "Border Patrol USA - Einsatz an Mexikos Grenze: Folge 1"
-                      },
-                      {
-                          "Art":  "Serie",
                           "Sender":  "ProSieben MAXX HD",
                           "Beginn":  "2026-11-07T03:55:00",
                           "Ende":  "2026-11-07T04:20:00",
                           "Sendung":  "Solo Leveling"
-                      },
-                      {
-                          "Art":  "Serie",
-                          "Sender":  "WELT HD",
-                          "Beginn":  "2026-11-07T03:55:00",
-                          "Ende":  "2026-11-07T04:45:00",
-                          "Sendung":  "Border Patrol USA - Einsatz an Mexikos Grenze:"
                       },
                       {
                           "Art":  "Serie",
@@ -7713,10 +7699,10 @@
                       },
                       {
                           "Art":  "Krimi",
-                          "Sender":  "RTL Deutschland HD",
+                          "Sender":  "Vox Deutschland HD",
                           "Beginn":  "2026-11-07T04:00:00",
-                          "Ende":  "2026-11-07T04:45:00",
-                          "Sendung":  "CSI"
+                          "Ende":  "2026-11-07T04:50:00",
+                          "Sendung":  "Medical Detectives - Geheimnisse der Gerichtsmedizin"
                       },
                       {
                           "Art":  "Serie",
@@ -7731,13 +7717,6 @@
                           "Beginn":  "2026-11-07T04:00:00",
                           "Ende":  "2026-11-07T04:05:00",
                           "Sendung":  "Verdachtsfälle"
-                      },
-                      {
-                          "Art":  "Dokumentation",
-                          "Sender":  "ZDFinfo HD",
-                          "Beginn":  "2026-11-07T04:05:00",
-                          "Ende":  "2026-11-07T04:55:00",
-                          "Sendung":  "Knast in Deutschland"
                       },
                       {
                           "Art":  "Spielfilm",
@@ -7761,11 +7740,18 @@
                           "Sendung":  "Haunted - Seelen ohne Frieden"
                       },
                       {
-                          "Art":  "Krimi",
-                          "Sender":  "Vox Deutschland HD",
+                          "Art":  "Dokumentation",
+                          "Sender":  "ZDFinfo HD",
                           "Beginn":  "2026-11-07T04:10:00",
                           "Ende":  "2026-11-07T04:55:00",
-                          "Sendung":  "Medical Detectives - Geheimnisse der Gerichtsmedizin"
+                          "Sendung":  "Knast in Deutschland"
+                      },
+                      {
+                          "Art":  "Krimi",
+                          "Sender":  "RTL Deutschland HD",
+                          "Beginn":  "2026-11-07T04:10:00",
+                          "Ende":  "2026-11-07T04:55:00",
+                          "Sendung":  "CSI"
                       },
                       {
                           "Art":  "Serie",
@@ -7773,6 +7759,13 @@
                           "Beginn":  "2026-11-07T04:10:00",
                           "Ende":  "2026-11-07T04:30:00",
                           "Sendung":  "Tiny House - Klein, aber oho"
+                      },
+                      {
+                          "Art":  "Krimi",
+                          "Sender":  "RTLZWEI Deutschland HD",
+                          "Beginn":  "2026-11-07T04:14:00",
+                          "Ende":  "2026-11-07T05:25:00",
+                          "Sendung":  "Autopsie - Mysteriöse Todesfälle"
                       },
                       {
                           "Art":  "Dokumentation",
@@ -7787,6 +7780,13 @@
                           "Beginn":  "2026-11-07T04:15:00",
                           "Ende":  "2026-11-07T04:30:00",
                           "Sendung":  "Sexgeschichten aus den Bergen"
+                      },
+                      {
+                          "Art":  "Serie",
+                          "Sender":  "N24 Doku HD",
+                          "Beginn":  "2026-11-07T04:15:00",
+                          "Ende":  "2026-11-07T05:00:00",
+                          "Sendung":  "Border Patrol USA - Einsatz an Mexikos Grenze: Folge 1"
                       },
                       {
                           "Art":  "Serie",
@@ -7810,13 +7810,6 @@
                           "Sendung":  "Killer Couples: Mörderische Paare"
                       },
                       {
-                          "Art":  "Krimi",
-                          "Sender":  "RTLZWEI Deutschland HD",
-                          "Beginn":  "2026-11-07T04:20:00",
-                          "Ende":  "2026-11-07T05:25:00",
-                          "Sendung":  "Autopsie - Mysteriöse Todesfälle"
-                      },
-                      {
                           "Art":  "Serie",
                           "Sender":  "3sat HD",
                           "Beginn":  "2026-11-07T04:20:00",
@@ -7829,6 +7822,13 @@
                           "Beginn":  "2026-11-07T04:20:00",
                           "Ende":  "2026-11-07T04:45:00",
                           "Sendung":  "Frieren - Nach dem Ende der Reise"
+                      },
+                      {
+                          "Art":  "Serie",
+                          "Sender":  "WELT HD",
+                          "Beginn":  "2026-11-07T04:20:00",
+                          "Ende":  "2026-11-07T05:05:00",
+                          "Sendung":  "Border Patrol USA - Einsatz an Mexikos Grenze:"
                       },
                       {
                           "Art":  "Dokumentation",
@@ -7894,25 +7894,11 @@
                           "Sendung":  "Bilder aus Hessen"
                       },
                       {
-                          "Art":  "Serie",
-                          "Sender":  "N24 Doku HD",
-                          "Beginn":  "2026-11-07T04:40:00",
-                          "Ende":  "2026-11-07T05:30:00",
-                          "Sendung":  "Border Patrol USA - Einsatz an Mexikos Grenze: Folge 2"
-                      },
-                      {
                           "Art":  "Krimi",
                           "Sender":  "Das Erste HD",
                           "Beginn":  "2026-11-07T04:45:00",
                           "Ende":  "2026-11-07T05:30:00",
                           "Sendung":  "Morden im Norden"
-                      },
-                      {
-                          "Art":  "Krimi",
-                          "Sender":  "RTL Deutschland HD",
-                          "Beginn":  "2026-11-07T04:45:00",
-                          "Ende":  "2026-11-07T05:15:00",
-                          "Sendung":  "CSI"
                       },
                       {
                           "Art":  "Krimi",
@@ -7950,6 +7936,13 @@
                           "Sendung":  "Ghost Hunters"
                       },
                       {
+                          "Art":  "Krimi",
+                          "Sender":  "Vox Deutschland HD",
+                          "Beginn":  "2026-11-07T04:50:00",
+                          "Ende":  "2026-11-07T05:35:00",
+                          "Sendung":  "Medical Detectives - Geheimnisse der Gerichtsmedizin"
+                      },
+                      {
                           "Art":  "Serie",
                           "Sender":  "DF1 HD",
                           "Beginn":  "2026-11-07T04:50:00",
@@ -7979,10 +7972,10 @@
                       },
                       {
                           "Art":  "Krimi",
-                          "Sender":  "Vox Deutschland HD",
+                          "Sender":  "RTL Deutschland HD",
                           "Beginn":  "2026-11-07T04:55:00",
-                          "Ende":  "2026-11-07T05:40:00",
-                          "Sendung":  "Medical Detectives - Geheimnisse der Gerichtsmedizin"
+                          "Ende":  "2026-11-07T05:35:00",
+                          "Sendung":  "CSI"
                       },
                       {
                           "Art":  "Serie",
@@ -8018,6 +8011,13 @@
                           "Beginn":  "2026-11-07T05:00:00",
                           "Ende":  "2026-11-07T05:45:00",
                           "Sendung":  "Im Kopf des Verbrechers"
+                      },
+                      {
+                          "Art":  "Serie",
+                          "Sender":  "N24 Doku HD",
+                          "Beginn":  "2026-11-07T05:00:00",
+                          "Ende":  "2026-11-07T05:45:00",
+                          "Sendung":  "Border Patrol USA - Einsatz an Mexikos Grenze: Folge 2"
                       },
                       {
                           "Art":  "Serie",
@@ -8079,15 +8079,8 @@
                           "Art":  "Dokumentation",
                           "Sender":  "SAT.1 Gold HD",
                           "Beginn":  "2026-11-07T05:15:00",
-                          "Ende":  "2026-11-07T05:40:00",
+                          "Ende":  "2026-11-07T05:45:00",
                           "Sendung":  "Challenge"
-                      },
-                      {
-                          "Art":  "Dokumentation",
-                          "Sender":  "WELT HD",
-                          "Beginn":  "2026-11-07T05:15:00",
-                          "Ende":  "2026-11-07T06:00:00",
-                          "Sendung":  "Lost Places"
                       },
                       {
                           "Art":  "Spielfilm",
@@ -8102,13 +8095,6 @@
                           "Beginn":  "2026-11-07T05:15:00",
                           "Ende":  "2026-11-07T06:00:00",
                           "Sendung":  "Hanau - Eine Nacht und ihre Folgen"
-                      },
-                      {
-                          "Art":  "Serie",
-                          "Sender":  "RTL Deutschland HD",
-                          "Beginn":  "2026-11-07T05:15:00",
-                          "Ende":  "2026-11-07T05:55:00",
-                          "Sendung":  "Der Blaulicht Report"
                       },
                       {
                           "Art":  "Serie",
@@ -8142,7 +8128,7 @@
                           "Art":  "Serie",
                           "Sender":  "ProSieben MAXX HD",
                           "Beginn":  "2026-11-07T05:25:00",
-                          "Ende":  "2026-11-07T05:50:00",
+                          "Ende":  "2026-11-07T05:45:00",
                           "Sendung":  "Eyeshield 21"
                       },
                       {
@@ -8158,13 +8144,6 @@
                           "Beginn":  "2026-11-07T05:30:00",
                           "Ende":  "2026-11-07T06:20:00",
                           "Sendung":  "Kurzstrecke mit Pierre M. Krause"
-                      },
-                      {
-                          "Art":  "Dokumentation",
-                          "Sender":  "N24 Doku HD",
-                          "Beginn":  "2026-11-07T05:30:00",
-                          "Ende":  "2026-11-07T06:15:00",
-                          "Sendung":  "Lost Places"
                       },
                       {
                           "Art":  "Serie",
@@ -8195,6 +8174,20 @@
                           "Sendung":  "Lady Grace Mysteries"
                       },
                       {
+                          "Art":  "Dokumentation",
+                          "Sender":  "WELT HD",
+                          "Beginn":  "2026-11-07T05:35:00",
+                          "Ende":  "2026-11-07T06:05:00",
+                          "Sendung":  "Lost Places"
+                      },
+                      {
+                          "Art":  "Krimi",
+                          "Sender":  "Vox Deutschland HD",
+                          "Beginn":  "2026-11-07T05:35:00",
+                          "Ende":  "2026-11-07T06:15:00",
+                          "Sendung":  "CSI: New York"
+                      },
+                      {
                           "Art":  "Serie",
                           "Sender":  "DMAX HD",
                           "Beginn":  "2026-11-07T05:35:00",
@@ -8216,6 +8209,13 @@
                           "Sendung":  "Airwolf"
                       },
                       {
+                          "Art":  "Serie",
+                          "Sender":  "RTL Deutschland HD",
+                          "Beginn":  "2026-11-07T05:35:00",
+                          "Ende":  "2026-11-07T05:51:00",
+                          "Sendung":  "Der Blaulicht Report"
+                      },
+                      {
                           "Art":  "Dokumentation",
                           "Sender":  "rbb Berlin HD",
                           "Beginn":  "2026-11-07T05:40:00",
@@ -8228,13 +8228,6 @@
                           "Beginn":  "2026-11-07T05:40:00",
                           "Ende":  "2026-11-07T06:25:00",
                           "Sendung":  "Deutsche im Knast"
-                      },
-                      {
-                          "Art":  "Krimi",
-                          "Sender":  "Vox Deutschland HD",
-                          "Beginn":  "2026-11-07T05:40:00",
-                          "Ende":  "2026-11-07T06:05:00",
-                          "Sendung":  "CSI: New York"
                       },
                       {
                           "Art":  "Serie",
@@ -8259,17 +8252,17 @@
                       },
                       {
                           "Art":  "Serie",
-                          "Sender":  "SAT.1 Gold HD",
-                          "Beginn":  "2026-11-07T05:40:00",
-                          "Ende":  "2026-11-07T06:35:00",
-                          "Sendung":  "Richterin Barbara Salesch"
-                      },
-                      {
-                          "Art":  "Serie",
                           "Sender":  "Super RTL Deutschland HD",
                           "Beginn":  "2026-11-07T05:40:00",
                           "Ende":  "2026-11-07T05:50:00",
                           "Sendung":  "Milo"
+                      },
+                      {
+                          "Art":  "Dokumentation",
+                          "Sender":  "N24 Doku HD",
+                          "Beginn":  "2026-11-07T05:45:00",
+                          "Ende":  "2026-11-07T06:15:00",
+                          "Sendung":  "Lost Places"
                       },
                       {
                           "Art":  "Spielfilm",
@@ -8287,17 +8280,24 @@
                       },
                       {
                           "Art":  "Serie",
+                          "Sender":  "ProSieben MAXX HD",
+                          "Beginn":  "2026-11-07T05:45:00",
+                          "Ende":  "2026-11-07T06:10:00",
+                          "Sendung":  "Eyeshield 21"
+                      },
+                      {
+                          "Art":  "Serie",
+                          "Sender":  "SAT.1 Gold HD",
+                          "Beginn":  "2026-11-07T05:45:00",
+                          "Ende":  "2026-11-07T06:35:00",
+                          "Sendung":  "Richterin Barbara Salesch"
+                      },
+                      {
+                          "Art":  "Serie",
                           "Sender":  "VOXup HD",
                           "Beginn":  "2026-11-07T05:45:00",
                           "Ende":  "2026-11-07T06:45:00",
                           "Sendung":  "Verklag mich doch!"
-                      },
-                      {
-                          "Art":  "Serie",
-                          "Sender":  "ProSieben MAXX HD",
-                          "Beginn":  "2026-11-07T05:50:00",
-                          "Ende":  "2026-11-07T06:10:00",
-                          "Sendung":  "Eyeshield 21"
                       },
                       {
                           "Art":  "Serie",
@@ -8321,18 +8321,18 @@
                           "Sendung":  "Milo"
                       },
                       {
+                          "Art":  "Spielfilm",
+                          "Sender":  "RTL Deutschland HD",
+                          "Beginn":  "2026-11-07T05:51:00",
+                          "Ende":  "2026-11-07T07:35:00",
+                          "Sendung":  "Weihnachts-Einsatz in 4 Wänden"
+                      },
+                      {
                           "Art":  "Dokumentation",
                           "Sender":  "arte HD",
                           "Beginn":  "2026-11-07T05:55:00",
                           "Ende":  "2026-11-07T06:50:00",
                           "Sendung":  "Thorin - Der letzte Neandertaler"
-                      },
-                      {
-                          "Art":  "Spielfilm",
-                          "Sender":  "RTL Deutschland HD",
-                          "Beginn":  "2026-11-07T05:55:00",
-                          "Ende":  "2026-11-07T07:35:00",
-                          "Sendung":  "Weihnachts-Einsatz in 4 Wänden"
                       },
                       {
                           "Art":  "Spielfilm",
@@ -8399,13 +8399,6 @@
                       },
                       {
                           "Art":  "Dokumentation",
-                          "Sender":  "WELT HD",
-                          "Beginn":  "2026-11-07T06:00:00",
-                          "Ende":  "2026-11-07T07:00:00",
-                          "Sendung":  "Lost Places"
-                      },
-                      {
-                          "Art":  "Dokumentation",
                           "Sender":  "zdf_neo HD",
                           "Beginn":  "2026-11-07T06:00:00",
                           "Ende":  "2026-11-07T06:05:00",
@@ -8426,11 +8419,18 @@
                           "Sendung":  "Married at First Sight - Down Under"
                       },
                       {
-                          "Art":  "Krimi",
-                          "Sender":  "Vox Deutschland HD",
+                          "Art":  "Dokumentation",
+                          "Sender":  "WELT HD",
                           "Beginn":  "2026-11-07T06:05:00",
-                          "Ende":  "2026-11-07T06:55:00",
-                          "Sendung":  "CSI: New York"
+                          "Ende":  "2026-11-07T07:00:00",
+                          "Sendung":  "Lost Places"
+                      },
+                      {
+                          "Art":  "Serie",
+                          "Sender":  "Pro7 Deutschland HD",
+                          "Beginn":  "2026-11-07T06:05:00",
+                          "Ende":  "2026-11-07T06:35:00",
+                          "Sendung":  "Die Simpsons"
                       },
                       {
                           "Art":  "Serie",
@@ -8459,13 +8459,6 @@
                           "Beginn":  "2026-11-07T06:10:00",
                           "Ende":  "2026-11-07T06:15:00",
                           "Sendung":  "TOM und das Erdbeer\u0026shy;marmeladebrot mit Honig"
-                      },
-                      {
-                          "Art":  "Serie",
-                          "Sender":  "Pro7 Deutschland HD",
-                          "Beginn":  "2026-11-07T06:10:00",
-                          "Ende":  "2026-11-07T06:35:00",
-                          "Sendung":  "Die Simpsons"
                       },
                       {
                           "Art":  "Serie",
@@ -8501,6 +8494,13 @@
                           "Beginn":  "2026-11-07T06:15:00",
                           "Ende":  "2026-11-07T06:40:00",
                           "Sendung":  "Auslandsreport"
+                      },
+                      {
+                          "Art":  "Krimi",
+                          "Sender":  "Vox Deutschland HD",
+                          "Beginn":  "2026-11-07T06:15:00",
+                          "Ende":  "2026-11-07T07:00:00",
+                          "Sendung":  "CSI: New York"
                       },
                       {
                           "Art":  "Serie",
@@ -8667,7 +8667,7 @@
                           "Art":  "Serie",
                           "Sender":  "Pro7 Deutschland HD",
                           "Beginn":  "2026-11-07T06:35:00",
-                          "Ende":  "2026-11-07T07:05:00",
+                          "Ende":  "2026-11-07T07:00:00",
                           "Sendung":  "Die Simpsons"
                       },
                       {
@@ -8762,13 +8762,6 @@
                           "Sendung":  "Die Werkel-Ferkel"
                       },
                       {
-                          "Art":  "Krimi",
-                          "Sender":  "Vox Deutschland HD",
-                          "Beginn":  "2026-11-07T06:55:00",
-                          "Ende":  "2026-11-07T07:35:00",
-                          "Sendung":  "Criminal Intent - Verbrechen im Visier"
-                      },
-                      {
                           "Art":  "Serie",
                           "Sender":  "HGTV HD",
                           "Beginn":  "2026-11-07T06:55:00",
@@ -8807,21 +8800,35 @@
                           "Art":  "Krimi",
                           "Sender":  "Kabel Eins Deutschland HD",
                           "Beginn":  "2026-11-07T07:00:00",
-                          "Ende":  "2026-11-07T07:50:00",
+                          "Ende":  "2026-11-07T07:45:00",
                           "Sendung":  "Castle"
+                      },
+                      {
+                          "Art":  "Krimi",
+                          "Sender":  "Vox Deutschland HD",
+                          "Beginn":  "2026-11-07T07:00:00",
+                          "Ende":  "2026-11-07T07:40:00",
+                          "Sendung":  "Criminal Intent - Verbrechen im Visier"
                       },
                       {
                           "Art":  "Spielfilm",
                           "Sender":  "ProSieben MAXX HD",
                           "Beginn":  "2026-11-07T07:00:00",
-                          "Ende":  "2026-11-07T07:30:00",
+                          "Ende":  "2026-11-07T07:25:00",
                           "Sendung":  "Ghostbusters"
+                      },
+                      {
+                          "Art":  "Serie",
+                          "Sender":  "Pro7 Deutschland HD",
+                          "Beginn":  "2026-11-07T07:00:00",
+                          "Ende":  "2026-11-07T07:30:00",
+                          "Sendung":  "Die Simpsons"
                       },
                       {
                           "Art":  "Dokumentation",
                           "Sender":  "N24 Doku HD",
                           "Beginn":  "2026-11-07T07:05:00",
-                          "Ende":  "2026-11-07T08:00:00",
+                          "Ende":  "2026-11-07T07:55:00",
                           "Sendung":  "Lost Places"
                       },
                       {
@@ -8872,13 +8879,6 @@
                           "Beginn":  "2026-11-07T07:05:00",
                           "Ende":  "2026-11-07T08:00:00",
                           "Sendung":  "Airwolf"
-                      },
-                      {
-                          "Art":  "Serie",
-                          "Sender":  "Pro7 Deutschland HD",
-                          "Beginn":  "2026-11-07T07:05:00",
-                          "Ende":  "2026-11-07T07:30:00",
-                          "Sendung":  "Die Simpsons"
                       },
                       {
                           "Art":  "Serie",
@@ -8980,6 +8980,13 @@
                       },
                       {
                           "Art":  "Serie",
+                          "Sender":  "ProSieben MAXX HD",
+                          "Beginn":  "2026-11-07T07:25:00",
+                          "Ende":  "2026-11-07T07:55:00",
+                          "Sendung":  "Zurück in die Zukunft"
+                      },
+                      {
+                          "Art":  "Serie",
                           "Sender":  "RTLup HD",
                           "Beginn":  "2026-11-07T07:25:00",
                           "Ende":  "2026-11-07T08:20:00",
@@ -9036,13 +9043,6 @@
                       },
                       {
                           "Art":  "Serie",
-                          "Sender":  "ProSieben MAXX HD",
-                          "Beginn":  "2026-11-07T07:30:00",
-                          "Ende":  "2026-11-07T07:55:00",
-                          "Sendung":  "Zurück in die Zukunft"
-                      },
-                      {
-                          "Art":  "Serie",
                           "Sender":  "ZDF HD",
                           "Beginn":  "2026-11-07T07:30:00",
                           "Ende":  "2026-11-07T07:55:00",
@@ -9054,13 +9054,6 @@
                           "Beginn":  "2026-11-07T07:35:00",
                           "Ende":  "2026-11-07T08:00:00",
                           "Sendung":  "Mystery Diners - Undercover im Lokal"
-                      },
-                      {
-                          "Art":  "Krimi",
-                          "Sender":  "Vox Deutschland HD",
-                          "Beginn":  "2026-11-07T07:35:00",
-                          "Ende":  "2026-11-07T08:30:00",
-                          "Sendung":  "Criminal Intent - Verbrechen im Visier"
                       },
                       {
                           "Art":  "Spielfilm",
@@ -9091,6 +9084,13 @@
                           "Sendung":  "Anna und die Haustiere"
                       },
                       {
+                          "Art":  "Krimi",
+                          "Sender":  "Vox Deutschland HD",
+                          "Beginn":  "2026-11-07T07:40:00",
+                          "Ende":  "2026-11-07T08:35:00",
+                          "Sendung":  "Criminal Intent - Verbrechen im Visier"
+                      },
+                      {
                           "Art":  "Serie",
                           "Sender":  "KiKa HD",
                           "Beginn":  "2026-11-07T07:40:00",
@@ -9105,18 +9105,18 @@
                           "Sendung":  "Meister Eder und sein Pumuckl"
                       },
                       {
+                          "Art":  "Krimi",
+                          "Sender":  "Kabel Eins Deutschland HD",
+                          "Beginn":  "2026-11-07T07:45:00",
+                          "Ende":  "2026-11-07T08:40:00",
+                          "Sendung":  "The Mentalist"
+                      },
+                      {
                           "Art":  "Serie",
                           "Sender":  "KiKa HD",
                           "Beginn":  "2026-11-07T07:45:00",
                           "Ende":  "2026-11-07T08:00:00",
                           "Sendung":  "Ein Fall für die Erdmännchen"
-                      },
-                      {
-                          "Art":  "Krimi",
-                          "Sender":  "Kabel Eins Deutschland HD",
-                          "Beginn":  "2026-11-07T07:50:00",
-                          "Ende":  "2026-11-07T08:45:00",
-                          "Sendung":  "The Mentalist"
                       },
                       {
                           "Art":  "Krimi",
@@ -9143,7 +9143,7 @@
                           "Art":  "Serie",
                           "Sender":  "ProSieben MAXX HD",
                           "Beginn":  "2026-11-07T07:55:00",
-                          "Ende":  "2026-11-07T08:20:00",
+                          "Ende":  "2026-11-07T08:15:00",
                           "Sendung":  "Das Geheimnis der Mumie"
                       },
                       {
@@ -9232,6 +9232,13 @@
                       },
                       {
                           "Art":  "Serie",
+                          "Sender":  "ProSieben MAXX HD",
+                          "Beginn":  "2026-11-07T08:15:00",
+                          "Ende":  "2026-11-07T08:40:00",
+                          "Sendung":  "She-Ra"
+                      },
+                      {
+                          "Art":  "Serie",
                           "Sender":  "Sat.1 Deutschland HD",
                           "Beginn":  "2026-11-07T08:15:00",
                           "Ende":  "2026-11-07T09:00:00",
@@ -9250,13 +9257,6 @@
                           "Beginn":  "2026-11-07T08:20:00",
                           "Ende":  "2026-11-07T08:50:00",
                           "Sendung":  "Kamp Koral: SpongeBobs Kinderjahre"
-                      },
-                      {
-                          "Art":  "Serie",
-                          "Sender":  "ProSieben MAXX HD",
-                          "Beginn":  "2026-11-07T08:20:00",
-                          "Ende":  "2026-11-07T08:40:00",
-                          "Sendung":  "She-Ra"
                       },
                       {
                           "Art":  "Serie",
@@ -9315,18 +9315,18 @@
                           "Sendung":  "Nachrichten"
                       },
                       {
-                          "Art":  "Krimi",
-                          "Sender":  "Vox Deutschland HD",
-                          "Beginn":  "2026-11-07T08:30:00",
-                          "Ende":  "2026-11-07T09:25:00",
-                          "Sendung":  "Criminal Intent - Verbrechen im Visier"
-                      },
-                      {
                           "Art":  "Spielfilm",
                           "Sender":  "MDR Sachsen HD",
                           "Beginn":  "2026-11-07T08:30:00",
                           "Ende":  "2026-11-07T09:50:00",
                           "Sendung":  "Marys magische Reise"
+                      },
+                      {
+                          "Art":  "Krimi",
+                          "Sender":  "Vox Deutschland HD",
+                          "Beginn":  "2026-11-07T08:35:00",
+                          "Ende":  "2026-11-07T09:30:00",
+                          "Sendung":  "Criminal Intent - Verbrechen im Visier"
                       },
                       {
                           "Art":  "Serie",
@@ -9358,6 +9358,13 @@
                       },
                       {
                           "Art":  "Krimi",
+                          "Sender":  "Kabel Eins Deutschland HD",
+                          "Beginn":  "2026-11-07T08:40:00",
+                          "Ende":  "2026-11-07T09:40:00",
+                          "Sendung":  "The Mentalist"
+                      },
+                      {
+                          "Art":  "Krimi",
                           "Sender":  "ONE HD",
                           "Beginn":  "2026-11-07T08:40:00",
                           "Ende":  "2026-11-07T09:30:00",
@@ -9383,13 +9390,6 @@
                           "Beginn":  "2026-11-07T08:45:00",
                           "Ende":  "2026-11-07T09:30:00",
                           "Sendung":  "Ein Tag in der DDR"
-                      },
-                      {
-                          "Art":  "Krimi",
-                          "Sender":  "Kabel Eins Deutschland HD",
-                          "Beginn":  "2026-11-07T08:45:00",
-                          "Ende":  "2026-11-07T09:40:00",
-                          "Sendung":  "The Mentalist"
                       },
                       {
                           "Art":  "Serie",
@@ -9581,13 +9581,6 @@
                           "Sendung":  "Welten-Saga II"
                       },
                       {
-                          "Art":  "Krimi",
-                          "Sender":  "Vox Deutschland HD",
-                          "Beginn":  "2026-11-07T09:25:00",
-                          "Ende":  "2026-11-07T10:20:00",
-                          "Sendung":  "Criminal Intent - Verbrechen im Visier"
-                      },
-                      {
                           "Art":  "Dokumentation",
                           "Sender":  "Anixe+",
                           "Beginn":  "2026-11-07T09:30:00",
@@ -9623,6 +9616,13 @@
                           "Sendung":  "Alles Klara"
                       },
                       {
+                          "Art":  "Krimi",
+                          "Sender":  "Vox Deutschland HD",
+                          "Beginn":  "2026-11-07T09:30:00",
+                          "Ende":  "2026-11-07T10:25:00",
+                          "Sendung":  "Criminal Intent - Verbrechen im Visier"
+                      },
+                      {
                           "Art":  "Serie",
                           "Sender":  "KiKa HD",
                           "Beginn":  "2026-11-07T09:30:00",
@@ -9647,7 +9647,7 @@
                           "Art":  "Serie",
                           "Sender":  "SAT.1 Gold HD",
                           "Beginn":  "2026-11-07T09:30:00",
-                          "Ende":  "2026-11-07T10:20:00",
+                          "Ende":  "2026-11-07T10:25:00",
                           "Sendung":  "Richterin Barbara Salesch"
                       },
                       {
@@ -9668,7 +9668,7 @@
                           "Art":  "Krimi",
                           "Sender":  "Kabel Eins Deutschland HD",
                           "Beginn":  "2026-11-07T09:40:00",
-                          "Ende":  "2026-11-07T10:40:00",
+                          "Ende":  "2026-11-07T10:35:00",
                           "Sendung":  "The Mentalist"
                       },
                       {
@@ -9714,6 +9714,13 @@
                           "Sendung":  "Panda, Gorilla \u0026 Co."
                       },
                       {
+                          "Art":  "Spielfilm",
+                          "Sender":  "DF1 HD",
+                          "Beginn":  "2026-11-07T09:55:00",
+                          "Ende":  "2026-11-07T11:55:00",
+                          "Sendung":  "Genius"
+                      },
+                      {
                           "Art":  "Serie",
                           "Sender":  "ProSieben MAXX HD",
                           "Beginn":  "2026-11-07T09:55:00",
@@ -9740,13 +9747,6 @@
                           "Beginn":  "2026-11-07T10:00:00",
                           "Ende":  "2026-11-07T10:45:00",
                           "Sendung":  "Wunderwerke der Weltgeschichte"
-                      },
-                      {
-                          "Art":  "Spielfilm",
-                          "Sender":  "DF1 HD",
-                          "Beginn":  "2026-11-07T10:00:00",
-                          "Ende":  "2026-11-07T12:00:00",
-                          "Sendung":  "Genius"
                       },
                       {
                           "Art":  "Serie",
@@ -9833,13 +9833,6 @@
                           "Sendung":  "Alles Klara"
                       },
                       {
-                          "Art":  "Krimi",
-                          "Sender":  "Vox Deutschland HD",
-                          "Beginn":  "2026-11-07T10:20:00",
-                          "Ende":  "2026-11-07T11:00:00",
-                          "Sendung":  "Criminal Intent - Verbrechen im Visier"
-                      },
-                      {
                           "Art":  "Serie",
                           "Sender":  "RTLup HD",
                           "Beginn":  "2026-11-07T10:20:00",
@@ -9847,11 +9840,11 @@
                           "Sendung":  "Das Jugendgericht"
                       },
                       {
-                          "Art":  "Serie",
-                          "Sender":  "SAT.1 Gold HD",
-                          "Beginn":  "2026-11-07T10:20:00",
-                          "Ende":  "2026-11-07T11:15:00",
-                          "Sendung":  "Richterin Barbara Salesch"
+                          "Art":  "Krimi",
+                          "Sender":  "Vox Deutschland HD",
+                          "Beginn":  "2026-11-07T10:25:00",
+                          "Ende":  "2026-11-07T11:05:00",
+                          "Sendung":  "Criminal Intent - Verbrechen im Visier"
                       },
                       {
                           "Art":  "Krimi",
@@ -9866,6 +9859,13 @@
                           "Beginn":  "2026-11-07T10:25:00",
                           "Ende":  "2026-11-07T10:55:00",
                           "Sendung":  "The Neighborhood"
+                      },
+                      {
+                          "Art":  "Serie",
+                          "Sender":  "SAT.1 Gold HD",
+                          "Beginn":  "2026-11-07T10:25:00",
+                          "Ende":  "2026-11-07T11:20:00",
+                          "Sendung":  "Richterin Barbara Salesch"
                       },
                       {
                           "Art":  "Dokumentation",
@@ -9896,6 +9896,13 @@
                           "Sendung":  "Die Zwangsvollstrecker"
                       },
                       {
+                          "Art":  "Krimi",
+                          "Sender":  "Kabel Eins Deutschland HD",
+                          "Beginn":  "2026-11-07T10:35:00",
+                          "Ende":  "2026-11-07T11:35:00",
+                          "Sendung":  "The Mentalist"
+                      },
+                      {
                           "Art":  "Serie",
                           "Sender":  "Super RTL Deutschland HD",
                           "Beginn":  "2026-11-07T10:35:00",
@@ -9908,13 +9915,6 @@
                           "Beginn":  "2026-11-07T10:40:00",
                           "Ende":  "2026-11-07T11:30:00",
                           "Sendung":  "Panda, Gorilla \u0026 Co."
-                      },
-                      {
-                          "Art":  "Krimi",
-                          "Sender":  "Kabel Eins Deutschland HD",
-                          "Beginn":  "2026-11-07T10:40:00",
-                          "Ende":  "2026-11-07T11:35:00",
-                          "Sendung":  "The Mentalist"
                       },
                       {
                           "Art":  "Serie",
@@ -9962,7 +9962,7 @@
                           "Art":  "Serie",
                           "Sender":  "Pro7 Deutschland HD",
                           "Beginn":  "2026-11-07T10:55:00",
-                          "Ende":  "2026-11-07T11:21:00",
+                          "Ende":  "2026-11-07T11:23:00",
                           "Sendung":  "The Neighborhood"
                       },
                       {
@@ -9971,13 +9971,6 @@
                           "Beginn":  "2026-11-07T11:00:00",
                           "Ende":  "2026-11-07T11:30:00",
                           "Sendung":  "Nachrichten"
-                      },
-                      {
-                          "Art":  "Krimi",
-                          "Sender":  "Vox Deutschland HD",
-                          "Beginn":  "2026-11-07T11:00:00",
-                          "Ende":  "2026-11-07T11:50:00",
-                          "Sendung":  "Criminal Intent - Verbrechen im Visier"
                       },
                       {
                           "Art":  "Serie",
@@ -9992,6 +9985,13 @@
                           "Beginn":  "2026-11-07T11:05:00",
                           "Ende":  "2026-11-07T11:55:00",
                           "Sendung":  "Alles Klara"
+                      },
+                      {
+                          "Art":  "Krimi",
+                          "Sender":  "Vox Deutschland HD",
+                          "Beginn":  "2026-11-07T11:05:00",
+                          "Ende":  "2026-11-07T11:55:00",
+                          "Sendung":  "Criminal Intent - Verbrechen im Visier"
                       },
                       {
                           "Art":  "Spielfilm",
@@ -10050,13 +10050,6 @@
                           "Sendung":  "Raus aufs Land"
                       },
                       {
-                          "Art":  "Krimi",
-                          "Sender":  "SAT.1 Gold HD",
-                          "Beginn":  "2026-11-07T11:15:00",
-                          "Ende":  "2026-11-07T12:10:00",
-                          "Sendung":  "Diagnose: Mord"
-                      },
-                      {
                           "Art":  "Serie",
                           "Sender":  "MDR Sachsen HD",
                           "Beginn":  "2026-11-07T11:15:00",
@@ -10069,6 +10062,13 @@
                           "Beginn":  "2026-11-07T11:20:00",
                           "Ende":  "2026-11-07T12:15:00",
                           "Sendung":  "Bullerbü in Deutschland - Ein Schwedenhaus entsteht"
+                      },
+                      {
+                          "Art":  "Krimi",
+                          "Sender":  "SAT.1 Gold HD",
+                          "Beginn":  "2026-11-07T11:20:00",
+                          "Ende":  "2026-11-07T12:15:00",
+                          "Sendung":  "Diagnose: Mord"
                       },
                       {
                           "Art":  "Serie",
@@ -10123,14 +10123,14 @@
                           "Art":  "Serie",
                           "Sender":  "ProSieben MAXX HD",
                           "Beginn":  "2026-11-07T11:30:00",
-                          "Ende":  "2026-11-07T11:55:00",
+                          "Ende":  "2026-11-07T12:00:00",
                           "Sendung":  "Voltron: Legendärer Verteidiger"
                       },
                       {
                           "Art":  "Krimi",
                           "Sender":  "Kabel Eins Deutschland HD",
                           "Beginn":  "2026-11-07T11:35:00",
-                          "Ende":  "2026-11-07T12:35:00",
+                          "Ende":  "2026-11-07T12:30:00",
                           "Sendung":  "The Mentalist"
                       },
                       {
@@ -10183,13 +10183,6 @@
                           "Sendung":  "The Neighborhood"
                       },
                       {
-                          "Art":  "Serie",
-                          "Sender":  "Vox Deutschland HD",
-                          "Beginn":  "2026-11-07T11:50:00",
-                          "Ende":  "2026-11-07T12:50:00",
-                          "Sendung":  "Shopping Queen"
-                      },
-                      {
                           "Art":  "Krimi",
                           "Sender":  "ONE HD",
                           "Beginn":  "2026-11-07T11:55:00",
@@ -10198,10 +10191,10 @@
                       },
                       {
                           "Art":  "Serie",
-                          "Sender":  "ProSieben MAXX HD",
+                          "Sender":  "Vox Deutschland HD",
                           "Beginn":  "2026-11-07T11:55:00",
-                          "Ende":  "2026-11-07T12:20:00",
-                          "Sendung":  "She-Ra und die Rebellen-Prinzessinnen"
+                          "Ende":  "2026-11-07T12:55:00",
+                          "Sendung":  "Shopping Queen"
                       },
                       {
                           "Art":  "Dokumentation",
@@ -10240,17 +10233,17 @@
                       },
                       {
                           "Art":  "Serie",
-                          "Sender":  "Sat.1 Deutschland HD",
+                          "Sender":  "ProSieben MAXX HD",
                           "Beginn":  "2026-11-07T12:00:00",
-                          "Ende":  "2026-11-07T12:55:00",
-                          "Sendung":  "Richter Alexander Hold - Seine neuen Fälle"
+                          "Ende":  "2026-11-07T12:20:00",
+                          "Sendung":  "She-Ra und die Rebellen-Prinzessinnen"
                       },
                       {
-                          "Art":  "Krimi",
-                          "Sender":  "SAT.1 Gold HD",
-                          "Beginn":  "2026-11-07T12:10:00",
-                          "Ende":  "2026-11-07T13:05:00",
-                          "Sendung":  "Diagnose: Mord"
+                          "Art":  "Serie",
+                          "Sender":  "Sat.1 Deutschland HD",
+                          "Beginn":  "2026-11-07T12:00:00",
+                          "Ende":  "2026-11-07T13:00:00",
+                          "Sendung":  "Richter Alexander Hold - Seine neuen Fälle"
                       },
                       {
                           "Art":  "Serie",
@@ -10277,7 +10270,7 @@
                           "Art":  "Dokumentation",
                           "Sender":  "N24 Doku HD",
                           "Beginn":  "2026-11-07T12:15:00",
-                          "Ende":  "2026-11-07T13:10:00",
+                          "Ende":  "2026-11-07T13:05:00",
                           "Sendung":  "Der Modellbauer - Perfektion aus Leidenschaft"
                       },
                       {
@@ -10286,6 +10279,13 @@
                           "Beginn":  "2026-11-07T12:15:00",
                           "Ende":  "2026-11-07T13:00:00",
                           "Sendung":  "Wunderwerke der Weltgeschichte"
+                      },
+                      {
+                          "Art":  "Krimi",
+                          "Sender":  "SAT.1 Gold HD",
+                          "Beginn":  "2026-11-07T12:15:00",
+                          "Ende":  "2026-11-07T13:10:00",
+                          "Sendung":  "Diagnose: Mord"
                       },
                       {
                           "Art":  "Spielfilm",
@@ -10312,7 +10312,7 @@
                           "Art":  "Serie",
                           "Sender":  "Pro7 Deutschland HD",
                           "Beginn":  "2026-11-07T12:20:00",
-                          "Ende":  "2026-11-07T12:45:00",
+                          "Ende":  "2026-11-07T12:50:00",
                           "Sendung":  "The Neighborhood"
                       },
                       {
@@ -10359,6 +10359,13 @@
                       },
                       {
                           "Art":  "Krimi",
+                          "Sender":  "Kabel Eins Deutschland HD",
+                          "Beginn":  "2026-11-07T12:30:00",
+                          "Ende":  "2026-11-07T13:30:00",
+                          "Sendung":  "The Mentalist"
+                      },
+                      {
+                          "Art":  "Krimi",
                           "Sender":  "SWR BW HD",
                           "Beginn":  "2026-11-07T12:30:00",
                           "Ende":  "2026-11-07T14:00:00",
@@ -10377,13 +10384,6 @@
                           "Beginn":  "2026-11-07T12:30:00",
                           "Ende":  "2026-11-07T13:30:00",
                           "Sendung":  "Hautnah: Die Tierklinik"
-                      },
-                      {
-                          "Art":  "Krimi",
-                          "Sender":  "Kabel Eins Deutschland HD",
-                          "Beginn":  "2026-11-07T12:35:00",
-                          "Ende":  "2026-11-07T13:30:00",
-                          "Sendung":  "The Mentalist"
                       },
                       {
                           "Art":  "Dokumentation",
@@ -10407,13 +10407,6 @@
                           "Sendung":  "Die Tuning Profis"
                       },
                       {
-                          "Art":  "Serie",
-                          "Sender":  "Pro7 Deutschland HD",
-                          "Beginn":  "2026-11-07T12:45:00",
-                          "Ende":  "2026-11-07T13:15:00",
-                          "Sendung":  "Die Goldbergs"
-                      },
-                      {
                           "Art":  "Spielfilm",
                           "Sender":  "RTL Deutschland HD",
                           "Beginn":  "2026-11-07T12:50:00",
@@ -10422,17 +10415,10 @@
                       },
                       {
                           "Art":  "Serie",
-                          "Sender":  "Vox Deutschland HD",
+                          "Sender":  "Pro7 Deutschland HD",
                           "Beginn":  "2026-11-07T12:50:00",
-                          "Ende":  "2026-11-07T13:50:00",
-                          "Sendung":  "Shopping Queen"
-                      },
-                      {
-                          "Art":  "Serie",
-                          "Sender":  "Sat.1 Deutschland HD",
-                          "Beginn":  "2026-11-07T12:55:00",
-                          "Ende":  "2026-11-07T13:55:00",
-                          "Sendung":  "Richter Alexander Hold - Seine neuen Fälle"
+                          "Ende":  "2026-11-07T13:15:00",
+                          "Sendung":  "Die Goldbergs"
                       },
                       {
                           "Art":  "Serie",
@@ -10440,6 +10426,13 @@
                           "Beginn":  "2026-11-07T12:55:00",
                           "Ende":  "2026-11-07T13:15:00",
                           "Sendung":  "Pokémon Horizonte: Die Serie"
+                      },
+                      {
+                          "Art":  "Serie",
+                          "Sender":  "Vox Deutschland HD",
+                          "Beginn":  "2026-11-07T12:55:00",
+                          "Ende":  "2026-11-07T13:55:00",
+                          "Sendung":  "Shopping Queen"
                       },
                       {
                           "Art":  "Dokumentation",
@@ -10470,13 +10463,6 @@
                           "Sendung":  "Wie lebt NRW"
                       },
                       {
-                          "Art":  "Spielfilm",
-                          "Sender":  "DF1 HD",
-                          "Beginn":  "2026-11-07T13:00:00",
-                          "Ende":  "2026-11-07T14:00:00",
-                          "Sendung":  "Genius"
-                      },
-                      {
                           "Art":  "Serie",
                           "Sender":  "Das Erste HD",
                           "Beginn":  "2026-11-07T13:00:00",
@@ -10491,18 +10477,25 @@
                           "Sendung":  "Willkommen bei den Louds"
                       },
                       {
-                          "Art":  "Krimi",
-                          "Sender":  "SAT.1 Gold HD",
-                          "Beginn":  "2026-11-07T13:05:00",
-                          "Ende":  "2026-11-07T14:55:00",
-                          "Sendung":  "Diagnose: Mord"
+                          "Art":  "Serie",
+                          "Sender":  "Sat.1 Deutschland HD",
+                          "Beginn":  "2026-11-07T13:00:00",
+                          "Ende":  "2026-11-07T13:55:00",
+                          "Sendung":  "Richter Alexander Hold - Seine neuen Fälle"
                       },
                       {
                           "Art":  "Dokumentation",
                           "Sender":  "N24 Doku HD",
-                          "Beginn":  "2026-11-07T13:10:00",
+                          "Beginn":  "2026-11-07T13:05:00",
                           "Ende":  "2026-11-07T14:05:00",
                           "Sendung":  "Made in Germany - Besondere Produkte aus Deutschland (1)"
+                      },
+                      {
+                          "Art":  "Krimi",
+                          "Sender":  "SAT.1 Gold HD",
+                          "Beginn":  "2026-11-07T13:10:00",
+                          "Ende":  "2026-11-07T14:55:00",
+                          "Sendung":  "Diagnose: Mord"
                       },
                       {
                           "Art":  "Dokumentation",
@@ -10631,6 +10624,13 @@
                           "Sendung":  "In aller Freundschaft"
                       },
                       {
+                          "Art":  "Dokumentation",
+                          "Sender":  "DF1 HD",
+                          "Beginn":  "2026-11-07T13:40:00",
+                          "Ende":  "2026-11-07T14:40:00",
+                          "Sendung":  "Die Sportdokumentation"
+                      },
+                      {
                           "Art":  "Serie",
                           "Sender":  "Nick/CC+1 HD",
                           "Beginn":  "2026-11-07T13:40:00",
@@ -10662,15 +10662,8 @@
                           "Art":  "Serie",
                           "Sender":  "Pro7 Deutschland HD",
                           "Beginn":  "2026-11-07T13:45:00",
-                          "Ende":  "2026-11-07T14:10:00",
+                          "Ende":  "2026-11-07T14:15:00",
                           "Sendung":  "Family Guy"
-                      },
-                      {
-                          "Art":  "Serie",
-                          "Sender":  "Vox Deutschland HD",
-                          "Beginn":  "2026-11-07T13:50:00",
-                          "Ende":  "2026-11-07T14:50:00",
-                          "Sendung":  "Shopping Queen"
                       },
                       {
                           "Art":  "Serie",
@@ -10692,6 +10685,13 @@
                           "Beginn":  "2026-11-07T13:55:00",
                           "Ende":  "2026-11-07T14:05:00",
                           "Sendung":  "Die Patrick Star Show"
+                      },
+                      {
+                          "Art":  "Serie",
+                          "Sender":  "Vox Deutschland HD",
+                          "Beginn":  "2026-11-07T13:55:00",
+                          "Ende":  "2026-11-07T14:55:00",
+                          "Sendung":  "Shopping Queen"
                       },
                       {
                           "Art":  "Dokumentation",
@@ -10723,13 +10723,6 @@
                       },
                       {
                           "Art":  "Dokumentation",
-                          "Sender":  "DF1 HD",
-                          "Beginn":  "2026-11-07T14:05:00",
-                          "Ende":  "2026-11-07T15:10:00",
-                          "Sendung":  "Faszination Heimat"
-                      },
-                      {
-                          "Art":  "Dokumentation",
                           "Sender":  "zdf_neo HD",
                           "Beginn":  "2026-11-07T14:05:00",
                           "Ende":  "2026-11-07T14:50:00",
@@ -10739,7 +10732,7 @@
                           "Art":  "Spielfilm",
                           "Sender":  "N24 Doku HD",
                           "Beginn":  "2026-11-07T14:05:00",
-                          "Ende":  "2026-11-07T15:00:00",
+                          "Ende":  "2026-11-07T14:55:00",
                           "Sendung":  "Made in Germany - Besondere Produkte aus Deutschland (2)"
                       },
                       {
@@ -10755,13 +10748,6 @@
                           "Beginn":  "2026-11-07T14:10:00",
                           "Ende":  "2026-11-07T14:20:00",
                           "Sendung":  "SpongeBob Schwammkopf"
-                      },
-                      {
-                          "Art":  "Serie",
-                          "Sender":  "Pro7 Deutschland HD",
-                          "Beginn":  "2026-11-07T14:10:00",
-                          "Ende":  "2026-11-07T14:40:00",
-                          "Sendung":  "Family Guy"
                       },
                       {
                           "Art":  "Dokumentation",
@@ -10783,6 +10769,13 @@
                           "Beginn":  "2026-11-07T14:15:00",
                           "Ende":  "2026-11-07T15:10:00",
                           "Sendung":  "Filthy Fortunes - Schatz oder Schrott?"
+                      },
+                      {
+                          "Art":  "Serie",
+                          "Sender":  "Pro7 Deutschland HD",
+                          "Beginn":  "2026-11-07T14:15:00",
+                          "Ende":  "2026-11-07T14:40:00",
+                          "Sendung":  "Family Guy"
                       },
                       {
                           "Art":  "Serie",
@@ -10932,13 +10925,6 @@
                           "Sendung":  "SpongeBob Schwammkopf"
                       },
                       {
-                          "Art":  "Serie",
-                          "Sender":  "Vox Deutschland HD",
-                          "Beginn":  "2026-11-07T14:50:00",
-                          "Ende":  "2026-11-07T15:50:00",
-                          "Sendung":  "Shopping Queen"
-                      },
-                      {
                           "Art":  "Krimi",
                           "Sender":  "SAT.1 Gold HD",
                           "Beginn":  "2026-11-07T14:55:00",
@@ -10958,6 +10944,13 @@
                           "Beginn":  "2026-11-07T14:55:00",
                           "Ende":  "2026-11-07T15:05:00",
                           "Sendung":  "SpongeBob Schwammkopf"
+                      },
+                      {
+                          "Art":  "Serie",
+                          "Sender":  "Vox Deutschland HD",
+                          "Beginn":  "2026-11-07T14:55:00",
+                          "Ende":  "2026-11-07T15:50:00",
+                          "Sendung":  "Shopping Queen"
                       },
                       {
                           "Art":  "Dokumentation",
@@ -11005,15 +10998,8 @@
                           "Art":  "Serie",
                           "Sender":  "Super RTL Deutschland HD",
                           "Beginn":  "2026-11-07T15:05:00",
-                          "Ende":  "2026-11-07T15:25:00",
+                          "Ende":  "2026-11-07T15:15:00",
                           "Sendung":  "SpongeBob Schwammkopf"
-                      },
-                      {
-                          "Art":  "Dokumentation",
-                          "Sender":  "DF1 HD",
-                          "Beginn":  "2026-11-07T15:10:00",
-                          "Ende":  "2026-11-07T16:05:00",
-                          "Sendung":  "Faszination Heimat"
                       },
                       {
                           "Art":  "Dokumentation",
@@ -11049,6 +11035,13 @@
                           "Beginn":  "2026-11-07T15:10:00",
                           "Ende":  "2026-11-07T15:40:00",
                           "Sendung":  "Die Simpsons"
+                      },
+                      {
+                          "Art":  "Serie",
+                          "Sender":  "Super RTL Deutschland HD",
+                          "Beginn":  "2026-11-07T15:15:00",
+                          "Ende":  "2026-11-07T15:25:00",
+                          "Sendung":  "SpongeBob Schwammkopf"
                       },
                       {
                           "Art":  "Spielfilm",
@@ -11254,17 +11247,10 @@
                           "Sendung":  "Hardcore Pawn: Chicago"
                       },
                       {
-                          "Art":  "Krimi",
-                          "Sender":  "DF1 HD",
-                          "Beginn":  "2026-11-07T16:05:00",
-                          "Ende":  "2026-11-07T16:50:00",
-                          "Sendung":  "Das Küstenrevier"
-                      },
-                      {
                           "Art":  "Serie",
                           "Sender":  "WELT HD",
                           "Beginn":  "2026-11-07T16:05:00",
-                          "Ende":  "2026-11-07T16:35:00",
+                          "Ende":  "2026-11-07T16:30:00",
                           "Sendung":  "Border Patrol Neuseeland"
                       },
                       {
@@ -11320,7 +11306,7 @@
                           "Art":  "Serie",
                           "Sender":  "N24 Doku HD",
                           "Beginn":  "2026-11-07T16:20:00",
-                          "Ende":  "2026-11-07T16:45:00",
+                          "Ende":  "2026-11-07T16:50:00",
                           "Sendung":  "Border Patrol Neuseeland"
                       },
                       {
@@ -11388,17 +11374,17 @@
                       },
                       {
                           "Art":  "Serie",
+                          "Sender":  "WELT HD",
+                          "Beginn":  "2026-11-07T16:30:00",
+                          "Ende":  "2026-11-07T16:55:00",
+                          "Sendung":  "Border Patrol Neuseeland"
+                      },
+                      {
+                          "Art":  "Serie",
                           "Sender":  "Kabel Eins Deutschland HD",
                           "Beginn":  "2026-11-07T16:35:00",
                           "Ende":  "2026-11-07T17:30:00",
                           "Sendung":  "Hawaii Five-0"
-                      },
-                      {
-                          "Art":  "Serie",
-                          "Sender":  "WELT HD",
-                          "Beginn":  "2026-11-07T16:35:00",
-                          "Ende":  "2026-11-07T17:00:00",
-                          "Sendung":  "Border Patrol Neuseeland"
                       },
                       {
                           "Art":  "Spielfilm",
@@ -11444,13 +11430,6 @@
                       },
                       {
                           "Art":  "Serie",
-                          "Sender":  "N24 Doku HD",
-                          "Beginn":  "2026-11-07T16:45:00",
-                          "Ende":  "2026-11-07T17:10:00",
-                          "Sendung":  "Border Patrol Neuseeland"
-                      },
-                      {
-                          "Art":  "Serie",
                           "Sender":  "Nick/CC+1 HD",
                           "Beginn":  "2026-11-07T16:45:00",
                           "Ende":  "2026-11-07T17:05:00",
@@ -11464,11 +11443,11 @@
                           "Sendung":  "SpongeBob Schwammkopf"
                       },
                       {
-                          "Art":  "Krimi",
-                          "Sender":  "DF1 HD",
+                          "Art":  "Serie",
+                          "Sender":  "N24 Doku HD",
                           "Beginn":  "2026-11-07T16:50:00",
-                          "Ende":  "2026-11-07T17:35:00",
-                          "Sendung":  "Das Küstenrevier"
+                          "Ende":  "2026-11-07T17:10:00",
+                          "Sendung":  "Border Patrol Neuseeland"
                       },
                       {
                           "Art":  "Serie",
@@ -11520,18 +11499,18 @@
                           "Sendung":  "SpongeBob Schwammkopf"
                       },
                       {
+                          "Art":  "Serie",
+                          "Sender":  "WELT HD",
+                          "Beginn":  "2026-11-07T16:55:00",
+                          "Ende":  "2026-11-07T17:25:00",
+                          "Sendung":  "Border Patrol Neuseeland"
+                      },
+                      {
                           "Art":  "Dokumentation",
                           "Sender":  "NTV",
                           "Beginn":  "2026-11-07T17:00:00",
                           "Ende":  "2026-11-07T17:10:00",
                           "Sendung":  "Nachrichten"
-                      },
-                      {
-                          "Art":  "Serie",
-                          "Sender":  "WELT HD",
-                          "Beginn":  "2026-11-07T17:00:00",
-                          "Ende":  "2026-11-07T17:30:00",
-                          "Sendung":  "Border Patrol Neuseeland"
                       },
                       {
                           "Art":  "Dokumentation",
@@ -11702,13 +11681,6 @@
                           "Sendung":  "Jung und Macher"
                       },
                       {
-                          "Art":  "Krimi",
-                          "Sender":  "DF1 HD",
-                          "Beginn":  "2026-11-07T17:35:00",
-                          "Ende":  "2026-11-07T18:20:00",
-                          "Sendung":  "Das Küstenrevier"
-                      },
-                      {
                           "Art":  "Serie",
                           "Sender":  "N24 Doku HD",
                           "Beginn":  "2026-11-07T17:35:00",
@@ -11721,6 +11693,13 @@
                           "Beginn":  "2026-11-07T17:35:00",
                           "Ende":  "2026-11-07T18:25:00",
                           "Sendung":  "Das Strafgericht"
+                      },
+                      {
+                          "Art":  "Krimi",
+                          "Sender":  "DF1 HD",
+                          "Beginn":  "2026-11-07T17:40:00",
+                          "Ende":  "2026-11-07T18:20:00",
+                          "Sendung":  "Das Küstenrevier"
                       },
                       {
                           "Art":  "Krimi",
@@ -12398,7 +12377,7 @@
                           "Art":  "Krimi",
                           "Sender":  "Kabel Eins Deutschland HD",
                           "Beginn":  "2026-11-07T20:15:00",
-                          "Ende":  "2026-11-07T21:15:00",
+                          "Ende":  "2026-11-07T21:10:00",
                           "Sendung":  "FBI: Special Crime Unit"
                       },
                       {
@@ -12454,7 +12433,7 @@
                           "Art":  "Spielfilm",
                           "Sender":  "Pro7 Deutschland HD",
                           "Beginn":  "2026-11-07T20:15:00",
-                          "Ende":  "2026-11-07T22:50:00",
+                          "Ende":  "2026-11-07T22:45:00",
                           "Sendung":  "Baywatch"
                       },
                       {
@@ -12668,18 +12647,18 @@
                           "Sendung":  "Kommissar Rex"
                       },
                       {
+                          "Art":  "Krimi",
+                          "Sender":  "Kabel Eins Deutschland HD",
+                          "Beginn":  "2026-11-07T21:10:00",
+                          "Ende":  "2026-11-07T22:10:00",
+                          "Sendung":  "FBI: Special Crime Unit"
+                      },
+                      {
                           "Art":  "Serie",
                           "Sender":  "VOXup HD",
                           "Beginn":  "2026-11-07T21:10:00",
                           "Ende":  "2026-11-07T22:10:00",
                           "Sendung":  "Private Practice"
-                      },
-                      {
-                          "Art":  "Krimi",
-                          "Sender":  "Kabel Eins Deutschland HD",
-                          "Beginn":  "2026-11-07T21:15:00",
-                          "Ende":  "2026-11-07T22:15:00",
-                          "Sendung":  "FBI: Special Crime Unit"
                       },
                       {
                           "Art":  "Serie",
@@ -12809,6 +12788,13 @@
                       },
                       {
                           "Art":  "Krimi",
+                          "Sender":  "WELT HD",
+                          "Beginn":  "2026-11-07T22:00:00",
+                          "Ende":  "2026-11-07T23:00:00",
+                          "Sendung":  "Deutschland rüstet auf - Hightech gegen Kriminelle"
+                      },
+                      {
+                          "Art":  "Krimi",
                           "Sender":  "ZDF HD",
                           "Beginn":  "2026-11-07T22:00:00",
                           "Ende":  "2026-11-07T23:00:00",
@@ -12836,17 +12822,10 @@
                           "Sendung":  "Medicopter 117 - Jedes Leben zählt"
                       },
                       {
-                          "Art":  "Krimi",
-                          "Sender":  "WELT HD",
-                          "Beginn":  "2026-11-07T22:05:00",
-                          "Ende":  "2026-11-07T23:05:00",
-                          "Sendung":  "Deutschland rüstet auf - Hightech gegen Kriminelle"
-                      },
-                      {
                           "Art":  "Spielfilm",
                           "Sender":  "Vox Deutschland HD",
                           "Beginn":  "2026-11-07T22:05:00",
-                          "Ende":  "2026-11-08T00:20:00",
+                          "Ende":  "2026-11-08T00:15:00",
                           "Sendung":  "Maze Runner - Die Auserwählten im Labyrinth"
                       },
                       {
@@ -12878,6 +12857,13 @@
                           "Sendung":  "Feuer, Dürre, Tote - Was tun nach dem Hitzesommer?"
                       },
                       {
+                          "Art":  "Krimi",
+                          "Sender":  "Kabel Eins Deutschland HD",
+                          "Beginn":  "2026-11-07T22:10:00",
+                          "Ende":  "2026-11-07T23:10:00",
+                          "Sendung":  "FBI: Most Wanted"
+                      },
+                      {
                           "Art":  "Serie",
                           "Sender":  "SAT.1 Gold HD",
                           "Beginn":  "2026-11-07T22:10:00",
@@ -12904,13 +12890,6 @@
                           "Beginn":  "2026-11-07T22:15:00",
                           "Ende":  "2026-11-07T23:15:00",
                           "Sendung":  "Police Interceptors - Auf Verfolgungsjagd"
-                      },
-                      {
-                          "Art":  "Krimi",
-                          "Sender":  "Kabel Eins Deutschland HD",
-                          "Beginn":  "2026-11-07T22:15:00",
-                          "Ende":  "2026-11-07T23:10:00",
-                          "Sendung":  "FBI: Most Wanted"
                       },
                       {
                           "Art":  "Serie",
@@ -12976,18 +12955,18 @@
                           "Sendung":  "Sommer, Sonne, Rekordtemperaturen - Arbeiten in extremer Hitze"
                       },
                       {
+                          "Art":  "Spielfilm",
+                          "Sender":  "Pro7 Deutschland HD",
+                          "Beginn":  "2026-11-07T22:45:00",
+                          "Ende":  "2026-11-08T00:50:00",
+                          "Sendung":  "Meg"
+                      },
+                      {
                           "Art":  "Serie",
                           "Sender":  "Sport1",
                           "Beginn":  "2026-11-07T22:45:00",
                           "Ende":  "2026-11-07T23:15:00",
                           "Sendung":  "Axel!"
-                      },
-                      {
-                          "Art":  "Spielfilm",
-                          "Sender":  "Pro7 Deutschland HD",
-                          "Beginn":  "2026-11-07T22:50:00",
-                          "Ende":  "2026-11-08T00:55:00",
-                          "Sendung":  "Meg"
                       },
                       {
                           "Art":  "Spielfilm",
@@ -13011,6 +12990,20 @@
                           "Sendung":  "Nachrichten"
                       },
                       {
+                          "Art":  "Dokumentation",
+                          "Sender":  "WELT HD",
+                          "Beginn":  "2026-11-07T23:00:00",
+                          "Ende":  "2026-11-07T23:50:00",
+                          "Sendung":  "Verbrechen. Versagen. Verfall. Deutschlands Brennpunkte"
+                      },
+                      {
+                          "Art":  "Krimi",
+                          "Sender":  "N24 Doku HD",
+                          "Beginn":  "2026-11-07T23:00:00",
+                          "Ende":  "2026-11-08T00:00:00",
+                          "Sendung":  "Deutschland rüstet auf - Hightech gegen Kriminelle"
+                      },
+                      {
                           "Art":  "Serie",
                           "Sender":  "HGTV HD",
                           "Beginn":  "2026-11-07T23:00:00",
@@ -13023,20 +13016,6 @@
                           "Beginn":  "2026-11-07T23:00:00",
                           "Ende":  "2026-11-07T23:45:00",
                           "Sendung":  "Medicopter 117 - Jedes Leben zählt"
-                      },
-                      {
-                          "Art":  "Dokumentation",
-                          "Sender":  "WELT HD",
-                          "Beginn":  "2026-11-07T23:05:00",
-                          "Ende":  "2026-11-07T23:50:00",
-                          "Sendung":  "Verbrechen. Versagen. Verfall. Deutschlands Brennpunkte"
-                      },
-                      {
-                          "Art":  "Krimi",
-                          "Sender":  "N24 Doku HD",
-                          "Beginn":  "2026-11-07T23:05:00",
-                          "Ende":  "2026-11-08T00:05:00",
-                          "Sendung":  "Deutschland rüstet auf - Hightech gegen Kriminelle"
                       },
                       {
                           "Art":  "Krimi",
@@ -13077,7 +13056,7 @@
                           "Art":  "Krimi",
                           "Sender":  "Kabel Eins Deutschland HD",
                           "Beginn":  "2026-11-07T23:10:00",
-                          "Ende":  "2026-11-08T00:10:00",
+                          "Ende":  "2026-11-08T00:05:00",
                           "Sendung":  "FBI: Most Wanted"
                       },
                       {
@@ -13252,7 +13231,7 @@
                           "Art":  "Dokumentation",
                           "Sender":  "WELT HD",
                           "Beginn":  "2026-11-07T23:50:00",
-                          "Ende":  "2026-11-08T00:40:00",
+                          "Ende":  "2026-11-08T00:45:00",
                           "Sendung":  "Der Ku-Klux-Klan - Eine amerikanische Geschichte"
                       },
                       {
