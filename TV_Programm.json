@@ -1,8 +1,8 @@
 ﻿{
-    "Aktualisiert":  "2026-11-14T04:47:42",
+    "Aktualisiert":  "2026-11-14T15:16:39",
     "ZeitraumVon":  "2026-11-14T00:00:00",
     "ZeitraumBis":  "2026-11-16T00:00:00",
-    "Anzahl":  1857,
+    "Anzahl":  1854,
     "Sendungen":  [
                       {
                           "Art":  "Spielfilm",
@@ -22,29 +22,50 @@
                           "Art":  "Spielfilm",
                           "Sender":  "Vox Deutschland HD",
                           "Beginn":  "2026-11-13T22:15:00",
-                          "Ende":  "2026-11-14T00:20:00",
+                          "Ende":  "2026-11-14T00:25:00",
                           "Sendung":  "Rampage - Big Meets Bigger"
                       },
                       {
                           "Art":  "Spielfilm",
                           "Sender":  "Pro7 Deutschland HD",
-                          "Beginn":  "2026-11-13T22:20:00",
-                          "Ende":  "2026-11-14T01:00:00",
+                          "Beginn":  "2026-11-13T22:30:00",
+                          "Ende":  "2026-11-14T01:10:00",
                           "Sendung":  "Fast \u0026 Furious Five"
                       },
                       {
                           "Art":  "Spielfilm",
                           "Sender":  "arte HD",
                           "Beginn":  "2026-11-13T22:40:00",
-                          "Ende":  "2026-11-14T00:05:00",
+                          "Ende":  "2026-11-14T00:10:00",
                           "Sendung":  "Stop Making Sense"
                       },
                       {
                           "Art":  "Krimi",
                           "Sender":  "RTLZWEI Deutschland HD",
-                          "Beginn":  "2026-11-13T23:06:00",
-                          "Ende":  "2026-11-14T01:29:00",
+                          "Beginn":  "2026-11-13T23:05:00",
+                          "Ende":  "2026-11-14T01:25:00",
                           "Sendung":  "Der Schakal"
+                      },
+                      {
+                          "Art":  "Serie",
+                          "Sender":  "N24 Doku HD",
+                          "Beginn":  "2026-11-13T23:05:00",
+                          "Ende":  "2026-11-14T00:05:00",
+                          "Sendung":  "Border Patrol USA - Einsatz an Mexikos Grenze: Folge 9"
+                      },
+                      {
+                          "Art":  "Serie",
+                          "Sender":  "Sixx HD",
+                          "Beginn":  "2026-11-13T23:05:00",
+                          "Ende":  "2026-11-14T00:05:00",
+                          "Sendung":  "Verpfuscht - Ein Fall für die Beauty Docs"
+                      },
+                      {
+                          "Art":  "Serie",
+                          "Sender":  "WELT HD",
+                          "Beginn":  "2026-11-13T23:05:00",
+                          "Ende":  "2026-11-14T00:05:00",
+                          "Sendung":  "Border Patrol USA - Einsatz an Mexikos Grenze:"
                       },
                       {
                           "Art":  "Serie",
@@ -104,13 +125,6 @@
                       },
                       {
                           "Art":  "Serie",
-                          "Sender":  "N24 Doku HD",
-                          "Beginn":  "2026-11-13T23:50:00",
-                          "Ende":  "2026-11-14T00:45:00",
-                          "Sendung":  "Border Patrol USA - Einsatz an Mexikos Grenze: Folge 10"
-                      },
-                      {
-                          "Art":  "Serie",
                           "Sender":  "ProSieben MAXX HD",
                           "Beginn":  "2026-11-13T23:50:00",
                           "Ende":  "2026-11-14T00:10:00",
@@ -118,17 +132,17 @@
                       },
                       {
                           "Art":  "Dokumentation",
+                          "Sender":  "HGTV HD",
+                          "Beginn":  "2026-11-13T23:55:00",
+                          "Ende":  "2026-11-14T00:50:00",
+                          "Sendung":  "Die Blockhaus-Profis"
+                      },
+                      {
+                          "Art":  "Dokumentation",
                           "Sender":  "SWR BW HD",
                           "Beginn":  "2026-11-13T23:55:00",
                           "Ende":  "2026-11-14T00:20:00",
                           "Sendung":  "Kurzstrecke mit Pierre M. Krause"
-                      },
-                      {
-                          "Art":  "Dokumentation",
-                          "Sender":  "ZDFinfo HD",
-                          "Beginn":  "2026-11-13T23:55:00",
-                          "Ende":  "2026-11-14T00:35:00",
-                          "Sendung":  "Legendäre Piraten"
                       },
                       {
                           "Art":  "Krimi",
@@ -143,13 +157,6 @@
                           "Beginn":  "2026-11-13T23:55:00",
                           "Ende":  "2026-11-14T00:20:00",
                           "Sendung":  "Nikola"
-                      },
-                      {
-                          "Art":  "Serie",
-                          "Sender":  "Sixx HD",
-                          "Beginn":  "2026-11-13T23:55:00",
-                          "Ende":  "2026-11-14T00:45:00",
-                          "Sendung":  "Verpfuscht - Ein Fall für die Beauty Docs"
                       },
                       {
                           "Art":  "Dokumentation",
@@ -1308,17 +1315,17 @@
                       },
                       {
                           "Art":  "Serie",
-                          "Sender":  "3sat HD",
-                          "Beginn":  "2026-11-14T04:05:00",
-                          "Ende":  "2026-11-14T04:25:00",
-                          "Sendung":  "Almania"
-                      },
-                      {
-                          "Art":  "Serie",
                           "Sender":  "TLC",
                           "Beginn":  "2026-11-14T04:05:00",
                           "Ende":  "2026-11-14T04:45:00",
                           "Sendung":  "Haunted - Seelen ohne Frieden"
+                      },
+                      {
+                          "Art":  "Serie",
+                          "Sender":  "3sat HD",
+                          "Beginn":  "2026-11-14T04:07:00",
+                          "Ende":  "2026-11-14T04:27:00",
+                          "Sendung":  "Almania"
                       },
                       {
                           "Art":  "Dokumentation",
@@ -1420,13 +1427,6 @@
                       },
                       {
                           "Art":  "Serie",
-                          "Sender":  "3sat HD",
-                          "Beginn":  "2026-11-14T04:25:00",
-                          "Ende":  "2026-11-14T04:50:00",
-                          "Sendung":  "Almania"
-                      },
-                      {
-                          "Art":  "Serie",
                           "Sender":  "VOXup HD",
                           "Beginn":  "2026-11-14T04:25:00",
                           "Ende":  "2026-11-14T05:10:00",
@@ -1438,6 +1438,13 @@
                           "Beginn":  "2026-11-14T04:25:00",
                           "Ende":  "2026-11-14T04:50:00",
                           "Sendung":  "Hullraisers"
+                      },
+                      {
+                          "Art":  "Serie",
+                          "Sender":  "3sat HD",
+                          "Beginn":  "2026-11-14T04:27:00",
+                          "Ende":  "2026-11-14T04:50:00",
+                          "Sendung":  "Almania"
                       },
                       {
                           "Art":  "Dokumentation",
@@ -1527,7 +1534,7 @@
                           "Art":  "Serie",
                           "Sender":  "3sat HD",
                           "Beginn":  "2026-11-14T04:50:00",
-                          "Ende":  "2026-11-14T05:10:00",
+                          "Ende":  "2026-11-14T05:11:00",
                           "Sendung":  "Almania"
                       },
                       {
@@ -1630,13 +1637,6 @@
                       },
                       {
                           "Art":  "Serie",
-                          "Sender":  "3sat HD",
-                          "Beginn":  "2026-11-14T05:10:00",
-                          "Ende":  "2026-11-14T05:35:00",
-                          "Sendung":  "Almania"
-                      },
-                      {
-                          "Art":  "Serie",
                           "Sender":  "ONE HD",
                           "Beginn":  "2026-11-14T05:10:00",
                           "Ende":  "2026-11-14T06:00:00",
@@ -1655,6 +1655,13 @@
                           "Beginn":  "2026-11-14T05:10:00",
                           "Ende":  "2026-11-14T05:30:00",
                           "Sendung":  "Hullraisers"
+                      },
+                      {
+                          "Art":  "Serie",
+                          "Sender":  "3sat HD",
+                          "Beginn":  "2026-11-14T05:11:00",
+                          "Ende":  "2026-11-14T05:37:00",
+                          "Sendung":  "Almania"
                       },
                       {
                           "Art":  "Dokumentation",
@@ -1784,13 +1791,6 @@
                       },
                       {
                           "Art":  "Serie",
-                          "Sender":  "3sat HD",
-                          "Beginn":  "2026-11-14T05:35:00",
-                          "Ende":  "2026-11-14T06:20:00",
-                          "Sendung":  "Almania"
-                      },
-                      {
-                          "Art":  "Serie",
                           "Sender":  "DMAX HD",
                           "Beginn":  "2026-11-14T05:35:00",
                           "Ende":  "2026-11-14T06:00:00",
@@ -1830,6 +1830,13 @@
                           "Beginn":  "2026-11-14T05:35:00",
                           "Ende":  "2026-11-14T05:45:00",
                           "Sendung":  "Der Blaulicht Report"
+                      },
+                      {
+                          "Art":  "Serie",
+                          "Sender":  "3sat HD",
+                          "Beginn":  "2026-11-14T05:37:00",
+                          "Ende":  "2026-11-14T06:20:00",
+                          "Sendung":  "Almania"
                       },
                       {
                           "Art":  "Dokumentation",
@@ -2752,7 +2759,7 @@
                           "Art":  "Dokumentation",
                           "Sender":  "phoenix",
                           "Beginn":  "2026-11-14T08:00:00",
-                          "Ende":  "2026-11-14T08:45:00",
+                          "Ende":  "2026-11-14T08:40:00",
                           "Sendung":  "Legendäre Hotels - Glamour, Glanz, Geheimnisse"
                       },
                       {
@@ -2945,6 +2952,13 @@
                           "Sendung":  "POV - Deine Geschichte zählt"
                       },
                       {
+                          "Art":  "Dokumentation",
+                          "Sender":  "phoenix",
+                          "Beginn":  "2026-11-14T08:40:00",
+                          "Ende":  "2026-11-14T09:00:00",
+                          "Sendung":  "Die First Nations in Kanada - Im Kampf gegen den Klimawandel"
+                      },
+                      {
                           "Art":  "Serie",
                           "Sender":  "ProSieben MAXX HD",
                           "Beginn":  "2026-11-14T08:40:00",
@@ -2957,13 +2971,6 @@
                           "Beginn":  "2026-11-14T08:40:00",
                           "Ende":  "2026-11-14T10:35:00",
                           "Sendung":  "Verklag mich doch!"
-                      },
-                      {
-                          "Art":  "Dokumentation",
-                          "Sender":  "phoenix",
-                          "Beginn":  "2026-11-14T08:45:00",
-                          "Ende":  "2026-11-14T09:30:00",
-                          "Sendung":  "Wo uns Touristen niederrennen - Übertourismus in Österreich"
                       },
                       {
                           "Art":  "Serie",
@@ -3032,7 +3039,7 @@
                           "Art":  "Dokumentation",
                           "Sender":  "ZDFinfo HD",
                           "Beginn":  "2026-11-14T08:55:00",
-                          "Ende":  "2026-11-14T09:40:00",
+                          "Ende":  "2026-11-14T09:38:00",
                           "Sendung":  "Das war dann mal weg"
                       },
                       {
@@ -3116,7 +3123,7 @@
                           "Art":  "Krimi",
                           "Sender":  "Vox Deutschland HD",
                           "Beginn":  "2026-11-14T09:10:00",
-                          "Ende":  "2026-11-14T10:05:00",
+                          "Ende":  "2026-11-14T10:10:00",
                           "Sendung":  "Criminal Intent - Verbrechen im Visier"
                       },
                       {
@@ -3211,13 +3218,6 @@
                           "Sendung":  "Nachrichten"
                       },
                       {
-                          "Art":  "Dokumentation",
-                          "Sender":  "phoenix",
-                          "Beginn":  "2026-11-14T09:30:00",
-                          "Ende":  "2026-11-14T10:00:00",
-                          "Sendung":  "Winter auf Mallorca"
-                      },
-                      {
                           "Art":  "Serie",
                           "Sender":  "KiKa HD",
                           "Beginn":  "2026-11-14T09:30:00",
@@ -3249,7 +3249,7 @@
                           "Art":  "Dokumentation",
                           "Sender":  "ZDFinfo HD",
                           "Beginn":  "2026-11-14T09:40:00",
-                          "Ende":  "2026-11-14T09:48:00",
+                          "Ende":  "2026-11-14T10:25:00",
                           "Sendung":  "Das war dann mal weg"
                       },
                       {
@@ -3352,13 +3352,6 @@
                       },
                       {
                           "Art":  "Dokumentation",
-                          "Sender":  "phoenix",
-                          "Beginn":  "2026-11-14T10:00:00",
-                          "Ende":  "2026-11-14T10:45:00",
-                          "Sendung":  "Dokumentation"
-                      },
-                      {
-                          "Art":  "Dokumentation",
                           "Sender":  "Welt der Wunder",
                           "Beginn":  "2026-11-14T10:00:00",
                           "Ende":  "2026-11-14T11:00:00",
@@ -3377,13 +3370,6 @@
                           "Beginn":  "2026-11-14T10:05:00",
                           "Ende":  "2026-11-14T10:55:00",
                           "Sendung":  "Alles Klara"
-                      },
-                      {
-                          "Art":  "Krimi",
-                          "Sender":  "Vox Deutschland HD",
-                          "Beginn":  "2026-11-14T10:05:00",
-                          "Ende":  "2026-11-14T11:00:00",
-                          "Sendung":  "Criminal Intent - Verbrechen im Visier"
                       },
                       {
                           "Art":  "Serie",
@@ -3412,6 +3398,13 @@
                           "Beginn":  "2026-11-14T10:05:00",
                           "Ende":  "2026-11-14T10:35:00",
                           "Sendung":  "Weihnachtsmann \u0026 Co. KG"
+                      },
+                      {
+                          "Art":  "Krimi",
+                          "Sender":  "Vox Deutschland HD",
+                          "Beginn":  "2026-11-14T10:10:00",
+                          "Ende":  "2026-11-14T11:05:00",
+                          "Sendung":  "Criminal Intent - Verbrechen im Visier"
                       },
                       {
                           "Art":  "Dokumentation",
@@ -3547,13 +3540,6 @@
                           "Sendung":  "She-Ra"
                       },
                       {
-                          "Art":  "Dokumentation",
-                          "Sender":  "phoenix",
-                          "Beginn":  "2026-11-14T10:45:00",
-                          "Ende":  "2026-11-14T11:30:00",
-                          "Sendung":  "Dokumentation"
-                      },
-                      {
                           "Art":  "Serie",
                           "Sender":  "Pro7 Deutschland HD",
                           "Beginn":  "2026-11-14T10:50:00",
@@ -3582,18 +3568,18 @@
                           "Sendung":  "Nachrichten"
                       },
                       {
-                          "Art":  "Krimi",
-                          "Sender":  "Vox Deutschland HD",
-                          "Beginn":  "2026-11-14T11:00:00",
-                          "Ende":  "2026-11-14T11:50:00",
-                          "Sendung":  "Criminal Intent - Verbrechen im Visier"
-                      },
-                      {
                           "Art":  "Serie",
                           "Sender":  "NITRO HD",
                           "Beginn":  "2026-11-14T11:00:00",
                           "Ende":  "2026-11-14T11:55:00",
                           "Sendung":  "MacGyver"
+                      },
+                      {
+                          "Art":  "Krimi",
+                          "Sender":  "Vox Deutschland HD",
+                          "Beginn":  "2026-11-14T11:05:00",
+                          "Ende":  "2026-11-14T11:50:00",
+                          "Sendung":  "Criminal Intent - Verbrechen im Visier"
                       },
                       {
                           "Art":  "Serie",
@@ -3720,13 +3706,6 @@
                           "Beginn":  "2026-11-14T11:30:00",
                           "Ende":  "2026-11-14T12:00:00",
                           "Sendung":  "Nachrichten"
-                      },
-                      {
-                          "Art":  "Dokumentation",
-                          "Sender":  "phoenix",
-                          "Beginn":  "2026-11-14T11:30:00",
-                          "Ende":  "2026-11-14T12:15:00",
-                          "Sendung":  "Dokumentation"
                       },
                       {
                           "Art":  "Serie",
@@ -3908,7 +3887,7 @@
                           "Sender":  "phoenix",
                           "Beginn":  "2026-11-14T12:15:00",
                           "Ende":  "2026-11-14T13:00:00",
-                          "Sendung":  "Dokumentation"
+                          "Sendung":  "Clever Reisen - Die Welt für wenig Geld"
                       },
                       {
                           "Art":  "Spielfilm",
@@ -4084,13 +4063,6 @@
                           "Beginn":  "2026-11-14T13:00:00",
                           "Ende":  "2026-11-14T13:30:00",
                           "Sendung":  "Nachrichten"
-                      },
-                      {
-                          "Art":  "Dokumentation",
-                          "Sender":  "phoenix",
-                          "Beginn":  "2026-11-14T13:00:00",
-                          "Ende":  "2026-11-14T14:15:00",
-                          "Sendung":  "Phoenix plus"
                       },
                       {
                           "Art":  "Dokumentation",
@@ -4350,6 +4322,13 @@
                           "Beginn":  "2026-11-14T14:00:00",
                           "Ende":  "2026-11-14T14:30:00",
                           "Sendung":  "Nachrichten"
+                      },
+                      {
+                          "Art":  "Dokumentation",
+                          "Sender":  "phoenix",
+                          "Beginn":  "2026-11-14T14:00:00",
+                          "Ende":  "2026-11-14T14:15:00",
+                          "Sendung":  "Für den Fall der Fälle - Wie Polen sich rüstet"
                       },
                       {
                           "Art":  "Dokumentation",
@@ -5623,7 +5602,7 @@
                           "Sender":  "phoenix",
                           "Beginn":  "2026-11-14T18:45:00",
                           "Ende":  "2026-11-14T19:30:00",
-                          "Sendung":  "Wo uns Touristen niederrennen - Übertourismus in Österreich"
+                          "Sendung":  "Clever Reisen - Die Welt für wenig Geld"
                       },
                       {
                           "Art":  "Dokumentation",
@@ -5820,6 +5799,13 @@
                           "Beginn":  "2026-11-14T19:25:00",
                           "Ende":  "2026-11-14T20:15:00",
                           "Sendung":  "New Amsterdam"
+                      },
+                      {
+                          "Art":  "Dokumentation",
+                          "Sender":  "phoenix",
+                          "Beginn":  "2026-11-14T19:30:00",
+                          "Ende":  "2026-11-14T20:00:00",
+                          "Sendung":  "Berlin Code"
                       },
                       {
                           "Art":  "Dokumentation",
@@ -6368,6 +6354,13 @@
                           "Sendung":  "Drei Weihnachtsmänner und ein Baby"
                       },
                       {
+                          "Art":  "Spielfilm",
+                          "Sender":  "Vox Deutschland HD",
+                          "Beginn":  "2026-11-14T22:10:00",
+                          "Ende":  "2026-11-15T00:30:00",
+                          "Sendung":  "Demolition Man"
+                      },
+                      {
                           "Art":  "Serie",
                           "Sender":  "HGTV HD",
                           "Beginn":  "2026-11-14T22:10:00",
@@ -6387,13 +6380,6 @@
                           "Beginn":  "2026-11-14T22:15:00",
                           "Ende":  "2026-11-14T23:15:00",
                           "Sendung":  "Police Interceptors - Auf Verfolgungsjagd"
-                      },
-                      {
-                          "Art":  "Spielfilm",
-                          "Sender":  "Vox Deutschland HD",
-                          "Beginn":  "2026-11-14T22:15:00",
-                          "Ende":  "2026-11-15T00:30:00",
-                          "Sendung":  "Demolition Man"
                       },
                       {
                           "Art":  "Serie",
@@ -6442,7 +6428,7 @@
                           "Sender":  "phoenix",
                           "Beginn":  "2026-11-14T22:45:00",
                           "Ende":  "2026-11-14T23:15:00",
-                          "Sendung":  "Mein Vater war ein deutscher Soldat - Wehrmachtskinder in Frankreich"
+                          "Sendung":  "Guernseys Kriegskinder - Das Erbe der deutschen Besatzung"
                       },
                       {
                           "Art":  "Spielfilm",
@@ -6575,7 +6561,7 @@
                           "Sender":  "phoenix",
                           "Beginn":  "2026-11-14T23:15:00",
                           "Ende":  "2026-11-15T00:00:00",
-                          "Sendung":  "Terra X-History"
+                          "Sendung":  "Trumps Amerika - Das Ende der Freiheit?"
                       },
                       {
                           "Art":  "Dokumentation",
@@ -7022,7 +7008,7 @@
                           "Art":  "Krimi",
                           "Sender":  "Vox Deutschland HD",
                           "Beginn":  "2026-11-15T01:25:00",
-                          "Ende":  "2026-11-15T02:15:00",
+                          "Ende":  "2026-11-15T02:10:00",
                           "Sendung":  "Medical Detectives - Geheimnisse der Gerichtsmedizin"
                       },
                       {
@@ -7202,13 +7188,6 @@
                       },
                       {
                           "Art":  "Dokumentation",
-                          "Sender":  "DMAX HD",
-                          "Beginn":  "2026-11-15T02:10:00",
-                          "Ende":  "2026-11-15T03:05:00",
-                          "Sendung":  "Police Interceptors - Auf Verfolgungsjagd"
-                      },
-                      {
-                          "Art":  "Dokumentation",
                           "Sender":  "ZDFinfo HD",
                           "Beginn":  "2026-11-15T02:10:00",
                           "Ende":  "2026-11-15T02:55:00",
@@ -7220,6 +7199,13 @@
                           "Beginn":  "2026-11-15T02:10:00",
                           "Ende":  "2026-11-15T03:35:00",
                           "Sendung":  "Wildland"
+                      },
+                      {
+                          "Art":  "Krimi",
+                          "Sender":  "Vox Deutschland HD",
+                          "Beginn":  "2026-11-15T02:10:00",
+                          "Ende":  "2026-11-15T03:00:00",
+                          "Sendung":  "Medical Detectives - Geheimnisse der Gerichtsmedizin"
                       },
                       {
                           "Art":  "Serie",
@@ -7244,6 +7230,13 @@
                       },
                       {
                           "Art":  "Dokumentation",
+                          "Sender":  "DMAX HD",
+                          "Beginn":  "2026-11-15T02:15:00",
+                          "Ende":  "2026-11-15T03:10:00",
+                          "Sendung":  "Police Interceptors - Auf Verfolgungsjagd"
+                      },
+                      {
+                          "Art":  "Dokumentation",
                           "Sender":  "phoenix",
                           "Beginn":  "2026-11-15T02:15:00",
                           "Ende":  "2026-11-15T03:00:00",
@@ -7255,13 +7248,6 @@
                           "Beginn":  "2026-11-15T02:15:00",
                           "Ende":  "2026-11-15T03:15:00",
                           "Sendung":  "Sicher ist sicher"
-                      },
-                      {
-                          "Art":  "Krimi",
-                          "Sender":  "Vox Deutschland HD",
-                          "Beginn":  "2026-11-15T02:15:00",
-                          "Ende":  "2026-11-15T03:05:00",
-                          "Sendung":  "Medical Detectives - Geheimnisse der Gerichtsmedizin"
                       },
                       {
                           "Art":  "Krimi",
@@ -7464,14 +7450,14 @@
                           "Sender":  "phoenix",
                           "Beginn":  "2026-11-15T03:00:00",
                           "Ende":  "2026-11-15T03:45:00",
-                          "Sendung":  "Terra X-History"
+                          "Sendung":  "Trumps Amerika - Das Ende der Freiheit?"
                       },
                       {
-                          "Art":  "Dokumentation",
-                          "Sender":  "DMAX HD",
-                          "Beginn":  "2026-11-15T03:05:00",
-                          "Ende":  "2026-11-15T03:55:00",
-                          "Sendung":  "Police Interceptors - Auf Verfolgungsjagd"
+                          "Art":  "Krimi",
+                          "Sender":  "Vox Deutschland HD",
+                          "Beginn":  "2026-11-15T03:00:00",
+                          "Ende":  "2026-11-15T03:45:00",
+                          "Sendung":  "Medical Detectives - Geheimnisse der Gerichtsmedizin"
                       },
                       {
                           "Art":  "Dokumentation",
@@ -7479,13 +7465,6 @@
                           "Beginn":  "2026-11-15T03:05:00",
                           "Ende":  "2026-11-15T03:50:00",
                           "Sendung":  "Geheimakte Tschernobyl"
-                      },
-                      {
-                          "Art":  "Krimi",
-                          "Sender":  "Vox Deutschland HD",
-                          "Beginn":  "2026-11-15T03:05:00",
-                          "Ende":  "2026-11-15T03:55:00",
-                          "Sendung":  "Medical Detectives - Geheimnisse der Gerichtsmedizin"
                       },
                       {
                           "Art":  "Serie",
@@ -7500,6 +7479,13 @@
                           "Beginn":  "2026-11-15T03:05:00",
                           "Ende":  "2026-11-15T03:15:00",
                           "Sendung":  "Der Blaulicht Report"
+                      },
+                      {
+                          "Art":  "Dokumentation",
+                          "Sender":  "DMAX HD",
+                          "Beginn":  "2026-11-15T03:10:00",
+                          "Ende":  "2026-11-15T03:55:00",
+                          "Sendung":  "Police Interceptors - Auf Verfolgungsjagd"
                       },
                       {
                           "Art":  "Krimi",
@@ -7705,6 +7691,13 @@
                           "Sendung":  "AKW am Limit"
                       },
                       {
+                          "Art":  "Krimi",
+                          "Sender":  "Vox Deutschland HD",
+                          "Beginn":  "2026-11-15T03:45:00",
+                          "Ende":  "2026-11-15T04:35:00",
+                          "Sendung":  "Medical Detectives - Geheimnisse der Gerichtsmedizin"
+                      },
+                      {
                           "Art":  "Spielfilm",
                           "Sender":  "Sat.1 Deutschland HD",
                           "Beginn":  "2026-11-15T03:45:00",
@@ -7745,13 +7738,6 @@
                           "Beginn":  "2026-11-15T03:55:00",
                           "Ende":  "2026-11-15T05:20:00",
                           "Sendung":  "Der Bulle und das Landei"
-                      },
-                      {
-                          "Art":  "Krimi",
-                          "Sender":  "Vox Deutschland HD",
-                          "Beginn":  "2026-11-15T03:55:00",
-                          "Ende":  "2026-11-15T04:45:00",
-                          "Sendung":  "Medical Detectives - Geheimnisse der Gerichtsmedizin"
                       },
                       {
                           "Art":  "Serie",
@@ -7911,7 +7897,7 @@
                           "Art":  "Dokumentation",
                           "Sender":  "ZDFinfo HD",
                           "Beginn":  "2026-11-15T04:25:00",
-                          "Ende":  "2026-11-15T04:45:00",
+                          "Ende":  "2026-11-15T04:50:00",
                           "Sendung":  "The Day the Rock Star Died"
                       },
                       {
@@ -7967,8 +7953,15 @@
                           "Art":  "Dokumentation",
                           "Sender":  "WELT HD",
                           "Beginn":  "2026-11-15T04:35:00",
-                          "Ende":  "2026-11-15T05:15:00",
+                          "Ende":  "2026-11-15T05:20:00",
                           "Sendung":  "Geheimakte Atombombe - Lügen und Verrat"
+                      },
+                      {
+                          "Art":  "Krimi",
+                          "Sender":  "Vox Deutschland HD",
+                          "Beginn":  "2026-11-15T04:35:00",
+                          "Ende":  "2026-11-15T05:00:00",
+                          "Sendung":  "Medical Detectives - Geheimnisse der Gerichtsmedizin"
                       },
                       {
                           "Art":  "Serie",
@@ -8004,20 +7997,6 @@
                           "Beginn":  "2026-11-15T04:45:00",
                           "Ende":  "2026-11-15T05:00:00",
                           "Sendung":  "Berliner Nächte"
-                      },
-                      {
-                          "Art":  "Dokumentation",
-                          "Sender":  "ZDFinfo HD",
-                          "Beginn":  "2026-11-15T04:45:00",
-                          "Ende":  "2026-11-15T05:10:00",
-                          "Sendung":  "The Day the Rock Star Died"
-                      },
-                      {
-                          "Art":  "Krimi",
-                          "Sender":  "Vox Deutschland HD",
-                          "Beginn":  "2026-11-15T04:45:00",
-                          "Ende":  "2026-11-15T05:00:00",
-                          "Sendung":  "Medical Detectives - Geheimnisse der Gerichtsmedizin"
                       },
                       {
                           "Art":  "Krimi",
@@ -8062,6 +8041,13 @@
                           "Sendung":  "The Haunted Museum"
                       },
                       {
+                          "Art":  "Dokumentation",
+                          "Sender":  "ZDFinfo HD",
+                          "Beginn":  "2026-11-15T04:50:00",
+                          "Ende":  "2026-11-15T05:10:00",
+                          "Sendung":  "The Day the Rock Star Died"
+                      },
+                      {
                           "Art":  "Serie",
                           "Sender":  "HGTV HD",
                           "Beginn":  "2026-11-15T04:50:00",
@@ -8069,10 +8055,17 @@
                           "Sendung":  "Tiny House - Klein, aber oho"
                       },
                       {
+                          "Art":  "Serie",
+                          "Sender":  "Pro7 Deutschland HD",
+                          "Beginn":  "2026-11-15T04:50:00",
+                          "Ende":  "2026-11-15T05:10:00",
+                          "Sendung":  "The Neighborhood"
+                      },
+                      {
                           "Art":  "Krimi",
                           "Sender":  "Kabel Eins Deutschland HD",
                           "Beginn":  "2026-11-15T05:00:00",
-                          "Ende":  "2026-11-15T05:40:00",
+                          "Ende":  "2026-11-15T05:45:00",
                           "Sendung":  "Magnum"
                       },
                       {
@@ -8133,6 +8126,13 @@
                       },
                       {
                           "Art":  "Serie",
+                          "Sender":  "Pro7 Deutschland HD",
+                          "Beginn":  "2026-11-15T05:10:00",
+                          "Ende":  "2026-11-15T05:30:00",
+                          "Sendung":  "The Neighborhood"
+                      },
+                      {
+                          "Art":  "Serie",
                           "Sender":  "ProSieben MAXX HD",
                           "Beginn":  "2026-11-15T05:10:00",
                           "Ende":  "2026-11-15T05:35:00",
@@ -8188,13 +8188,6 @@
                           "Sendung":  "Der Pazifikkrieg"
                       },
                       {
-                          "Art":  "Dokumentation",
-                          "Sender":  "WELT HD",
-                          "Beginn":  "2026-11-15T05:15:00",
-                          "Ende":  "2026-11-15T06:00:00",
-                          "Sendung":  "Geheimakte Atombombe - Bilder der Apokalypse"
-                      },
-                      {
                           "Art":  "Krimi",
                           "Sender":  "RTLZWEI Deutschland HD",
                           "Beginn":  "2026-11-15T05:15:00",
@@ -8210,10 +8203,10 @@
                       },
                       {
                           "Art":  "Dokumentation",
-                          "Sender":  "Sixx HD",
+                          "Sender":  "WELT HD",
                           "Beginn":  "2026-11-15T05:20:00",
                           "Ende":  "2026-11-15T06:05:00",
-                          "Sendung":  "Unsere Hundeschule"
+                          "Sendung":  "Geheimakte Atombombe - Bilder der Apokalypse"
                       },
                       {
                           "Art":  "Serie",
@@ -8244,6 +8237,13 @@
                           "Sendung":  "Geheimakte Atombombe - Lügen und Verrat"
                       },
                       {
+                          "Art":  "Dokumentation",
+                          "Sender":  "Sixx HD",
+                          "Beginn":  "2026-11-15T05:30:00",
+                          "Ende":  "2026-11-15T06:20:00",
+                          "Sendung":  "Unsere Hundeschule"
+                      },
+                      {
                           "Art":  "Serie",
                           "Sender":  "Das Erste HD",
                           "Beginn":  "2026-11-15T05:30:00",
@@ -8263,13 +8263,6 @@
                           "Beginn":  "2026-11-15T05:30:00",
                           "Ende":  "2026-11-15T05:50:00",
                           "Sendung":  "The Neighborhood"
-                      },
-                      {
-                          "Art":  "Serie",
-                          "Sender":  "SAT.1 Gold HD",
-                          "Beginn":  "2026-11-15T05:30:00",
-                          "Ende":  "2026-11-15T06:25:00",
-                          "Sendung":  "Richter Alexander Hold"
                       },
                       {
                           "Art":  "Serie",
@@ -8301,17 +8294,17 @@
                       },
                       {
                           "Art":  "Serie",
+                          "Sender":  "SAT.1 Gold HD",
+                          "Beginn":  "2026-11-15T05:35:00",
+                          "Ende":  "2026-11-15T06:30:00",
+                          "Sendung":  "Richter Alexander Hold"
+                      },
+                      {
+                          "Art":  "Serie",
                           "Sender":  "VOXup HD",
                           "Beginn":  "2026-11-15T05:35:00",
                           "Ende":  "2026-11-15T06:30:00",
                           "Sendung":  "Verklag mich doch!"
-                      },
-                      {
-                          "Art":  "Serie",
-                          "Sender":  "Kabel Eins Deutschland HD",
-                          "Beginn":  "2026-11-15T05:40:00",
-                          "Ende":  "2026-11-15T06:40:00",
-                          "Sendung":  "Steel Buddies - Stahlharte Geschäfte"
                       },
                       {
                           "Art":  "Serie",
@@ -8338,7 +8331,7 @@
                           "Art":  "Krimi",
                           "Sender":  "Vox Deutschland HD",
                           "Beginn":  "2026-11-15T05:45:00",
-                          "Ende":  "2026-11-15T06:30:00",
+                          "Ende":  "2026-11-15T05:50:00",
                           "Sendung":  "CSI: New York"
                       },
                       {
@@ -8347,6 +8340,13 @@
                           "Beginn":  "2026-11-15T05:45:00",
                           "Ende":  "2026-11-15T05:55:00",
                           "Sendung":  "Action Heroes"
+                      },
+                      {
+                          "Art":  "Serie",
+                          "Sender":  "Kabel Eins Deutschland HD",
+                          "Beginn":  "2026-11-15T05:45:00",
+                          "Ende":  "2026-11-15T06:40:00",
+                          "Sendung":  "Steel Buddies - Stahlharte Geschäfte"
                       },
                       {
                           "Art":  "Serie",
@@ -8384,6 +8384,13 @@
                           "Sendung":  "kinokino"
                       },
                       {
+                          "Art":  "Krimi",
+                          "Sender":  "Vox Deutschland HD",
+                          "Beginn":  "2026-11-15T05:50:00",
+                          "Ende":  "2026-11-15T06:30:00",
+                          "Sendung":  "CSI: New York"
+                      },
+                      {
                           "Art":  "Serie",
                           "Sender":  "HGTV HD",
                           "Beginn":  "2026-11-15T05:50:00",
@@ -8394,7 +8401,7 @@
                           "Art":  "Serie",
                           "Sender":  "Pro7 Deutschland HD",
                           "Beginn":  "2026-11-15T05:50:00",
-                          "Ende":  "2026-11-15T06:10:00",
+                          "Ende":  "2026-11-15T06:20:00",
                           "Sendung":  "The Neighborhood"
                       },
                       {
@@ -8429,7 +8436,7 @@
                           "Art":  "Serie",
                           "Sender":  "RTL Deutschland HD",
                           "Beginn":  "2026-11-15T05:55:00",
-                          "Ende":  "2026-11-15T06:25:00",
+                          "Ende":  "2026-11-15T06:20:00",
                           "Sendung":  "Der Blaulicht Report"
                       },
                       {
@@ -8489,13 +8496,6 @@
                           "Sendung":  "Der Pazifikkrieg"
                       },
                       {
-                          "Art":  "Dokumentation",
-                          "Sender":  "Sixx HD",
-                          "Beginn":  "2026-11-15T06:05:00",
-                          "Ende":  "2026-11-15T07:00:00",
-                          "Sendung":  "Unsere Hundeschule"
-                      },
-                      {
                           "Art":  "Spielfilm",
                           "Sender":  "ONE HD",
                           "Beginn":  "2026-11-15T06:05:00",
@@ -8532,13 +8532,6 @@
                       },
                       {
                           "Art":  "Serie",
-                          "Sender":  "Pro7 Deutschland HD",
-                          "Beginn":  "2026-11-15T06:10:00",
-                          "Ende":  "2026-11-15T06:40:00",
-                          "Sendung":  "The Neighborhood"
-                      },
-                      {
-                          "Art":  "Serie",
                           "Sender":  "RTLup HD",
                           "Beginn":  "2026-11-15T06:10:00",
                           "Ende":  "2026-11-15T06:55:00",
@@ -8555,7 +8548,7 @@
                           "Art":  "Dokumentation",
                           "Sender":  "N24 Doku HD",
                           "Beginn":  "2026-11-15T06:15:00",
-                          "Ende":  "2026-11-15T07:05:00",
+                          "Ende":  "2026-11-15T07:00:00",
                           "Sendung":  "Geheimakte Atombombe - Bilder der Apokalypse"
                       },
                       {
@@ -8581,17 +8574,38 @@
                       },
                       {
                           "Art":  "Dokumentation",
+                          "Sender":  "Sixx HD",
+                          "Beginn":  "2026-11-15T06:20:00",
+                          "Ende":  "2026-11-15T07:10:00",
+                          "Sendung":  "Unsere Hundeschule"
+                      },
+                      {
+                          "Art":  "Dokumentation",
                           "Sender":  "ZDFinfo HD",
                           "Beginn":  "2026-11-15T06:20:00",
                           "Ende":  "2026-11-15T07:05:00",
                           "Sendung":  "Das war dann mal weg"
                       },
                       {
+                          "Art":  "Spielfilm",
+                          "Sender":  "RTL Deutschland HD",
+                          "Beginn":  "2026-11-15T06:20:00",
+                          "Ende":  "2026-11-15T06:30:00",
+                          "Sendung":  "Winter Castle - Romanze im Eishotel"
+                      },
+                      {
                           "Art":  "Serie",
                           "Sender":  "Nick/CC+1 HD",
                           "Beginn":  "2026-11-15T06:20:00",
-                          "Ende":  "2026-11-15T06:45:00",
+                          "Ende":  "2026-11-15T06:50:00",
                           "Sendung":  "SpongeBob Schwammkopf"
+                      },
+                      {
+                          "Art":  "Serie",
+                          "Sender":  "Pro7 Deutschland HD",
+                          "Beginn":  "2026-11-15T06:20:00",
+                          "Ende":  "2026-11-15T06:45:00",
+                          "Sendung":  "The Neighborhood"
                       },
                       {
                           "Art":  "Serie",
@@ -8604,15 +8618,8 @@
                           "Art":  "Dokumentation",
                           "Sender":  "zdf_neo HD",
                           "Beginn":  "2026-11-15T06:25:00",
-                          "Ende":  "2026-11-15T06:30:00",
+                          "Ende":  "2026-11-15T06:35:00",
                           "Sendung":  "Dinge Erklärt - Kurzgesagt"
-                      },
-                      {
-                          "Art":  "Spielfilm",
-                          "Sender":  "RTL Deutschland HD",
-                          "Beginn":  "2026-11-15T06:25:00",
-                          "Ende":  "2026-11-15T08:10:00",
-                          "Sendung":  "Winter Castle - Romanze im Eishotel"
                       },
                       {
                           "Art":  "Serie",
@@ -8627,13 +8634,6 @@
                           "Beginn":  "2026-11-15T06:25:00",
                           "Ende":  "2026-11-15T07:10:00",
                           "Sendung":  "24 Stunden in Teufels Küche - Undercover mit Gordon Ramsay"
-                      },
-                      {
-                          "Art":  "Serie",
-                          "Sender":  "SAT.1 Gold HD",
-                          "Beginn":  "2026-11-15T06:25:00",
-                          "Ende":  "2026-11-15T07:20:00",
-                          "Sendung":  "Richter Alexander Hold"
                       },
                       {
                           "Art":  "Serie",
@@ -8657,18 +8657,25 @@
                           "Sendung":  "ntv reisen"
                       },
                       {
-                          "Art":  "Dokumentation",
-                          "Sender":  "zdf_neo HD",
-                          "Beginn":  "2026-11-15T06:30:00",
-                          "Ende":  "2026-11-15T07:00:00",
-                          "Sendung":  "Kunz und die Welt"
-                      },
-                      {
                           "Art":  "Krimi",
                           "Sender":  "Vox Deutschland HD",
                           "Beginn":  "2026-11-15T06:30:00",
                           "Ende":  "2026-11-15T07:10:00",
                           "Sendung":  "Criminal Intent - Verbrechen im Visier"
+                      },
+                      {
+                          "Art":  "Serie",
+                          "Sender":  "RTL Deutschland HD",
+                          "Beginn":  "2026-11-15T06:30:00",
+                          "Ende":  "2026-11-15T08:05:00",
+                          "Sendung":  "Der Blaulicht Report"
+                      },
+                      {
+                          "Art":  "Serie",
+                          "Sender":  "SAT.1 Gold HD",
+                          "Beginn":  "2026-11-15T06:30:00",
+                          "Ende":  "2026-11-15T07:25:00",
+                          "Sendung":  "Richter Alexander Hold"
                       },
                       {
                           "Art":  "Serie",
@@ -8706,6 +8713,13 @@
                           "Sendung":  "Erlebnisreisen"
                       },
                       {
+                          "Art":  "Dokumentation",
+                          "Sender":  "zdf_neo HD",
+                          "Beginn":  "2026-11-15T06:35:00",
+                          "Ende":  "2026-11-15T07:00:00",
+                          "Sendung":  "Kunz und die Welt"
+                      },
+                      {
                           "Art":  "Serie",
                           "Sender":  "HGTV HD",
                           "Beginn":  "2026-11-15T06:35:00",
@@ -8735,13 +8749,6 @@
                       },
                       {
                           "Art":  "Serie",
-                          "Sender":  "Pro7 Deutschland HD",
-                          "Beginn":  "2026-11-15T06:40:00",
-                          "Ende":  "2026-11-15T07:05:00",
-                          "Sendung":  "The Neighborhood"
-                      },
-                      {
-                          "Art":  "Serie",
                           "Sender":  "Sat.1 Deutschland HD",
                           "Beginn":  "2026-11-15T06:40:00",
                           "Ende":  "2026-11-15T07:40:00",
@@ -8763,17 +8770,17 @@
                       },
                       {
                           "Art":  "Serie",
-                          "Sender":  "Nick/CC+1 HD",
-                          "Beginn":  "2026-11-15T06:45:00",
-                          "Ende":  "2026-11-15T07:05:00",
-                          "Sendung":  "SpongeBob Schwammkopf"
-                      },
-                      {
-                          "Art":  "Serie",
                           "Sender":  "KiKa HD",
                           "Beginn":  "2026-11-15T06:50:00",
                           "Ende":  "2026-11-15T07:00:00",
                           "Sendung":  "Tashi"
+                      },
+                      {
+                          "Art":  "Serie",
+                          "Sender":  "Nick/CC+1 HD",
+                          "Beginn":  "2026-11-15T06:50:00",
+                          "Ende":  "2026-11-15T07:10:00",
+                          "Sendung":  "SpongeBob Schwammkopf"
                       },
                       {
                           "Art":  "Dokumentation",
@@ -8840,13 +8847,6 @@
                       },
                       {
                           "Art":  "Dokumentation",
-                          "Sender":  "Sixx HD",
-                          "Beginn":  "2026-11-15T07:00:00",
-                          "Ende":  "2026-11-15T08:05:00",
-                          "Sendung":  "Unsere Hundeschule"
-                      },
-                      {
-                          "Art":  "Dokumentation",
                           "Sender":  "Welt der Wunder",
                           "Beginn":  "2026-11-15T07:00:00",
                           "Ende":  "2026-11-15T08:00:00",
@@ -8856,7 +8856,7 @@
                           "Art":  "Dokumentation",
                           "Sender":  "zdf_neo HD",
                           "Beginn":  "2026-11-15T07:00:00",
-                          "Ende":  "2026-11-15T07:40:00",
+                          "Ende":  "2026-11-15T07:45:00",
                           "Sendung":  "Thunfisch - Der bedrohte Jäger"
                       },
                       {
@@ -8882,13 +8882,6 @@
                       },
                       {
                           "Art":  "Serie",
-                          "Sender":  "Nick/CC+1 HD",
-                          "Beginn":  "2026-11-15T07:05:00",
-                          "Ende":  "2026-11-15T07:30:00",
-                          "Sendung":  "SpongeBob Schwammkopf"
-                      },
-                      {
-                          "Art":  "Serie",
                           "Sender":  "Super RTL Deutschland HD",
                           "Beginn":  "2026-11-15T07:05:00",
                           "Ende":  "2026-11-15T07:15:00",
@@ -8900,6 +8893,13 @@
                           "Beginn":  "2026-11-15T07:10:00",
                           "Ende":  "2026-11-15T08:40:00",
                           "Sendung":  "Polychromie Die Archäologie der Farben"
+                      },
+                      {
+                          "Art":  "Dokumentation",
+                          "Sender":  "Sixx HD",
+                          "Beginn":  "2026-11-15T07:10:00",
+                          "Ende":  "2026-11-15T08:15:00",
+                          "Sendung":  "Unsere Hundeschule"
                       },
                       {
                           "Art":  "Krimi",
@@ -8921,6 +8921,13 @@
                           "Beginn":  "2026-11-15T07:10:00",
                           "Ende":  "2026-11-15T07:20:00",
                           "Sendung":  "Ach du heilige Scheibe - Die Abenteuer von Mimo und Leva"
+                      },
+                      {
+                          "Art":  "Serie",
+                          "Sender":  "Nick/CC+1 HD",
+                          "Beginn":  "2026-11-15T07:10:00",
+                          "Ende":  "2026-11-15T07:30:00",
+                          "Sendung":  "SpongeBob Schwammkopf"
                       },
                       {
                           "Art":  "Serie",
@@ -9057,13 +9064,6 @@
                       },
                       {
                           "Art":  "Dokumentation",
-                          "Sender":  "zdf_neo HD",
-                          "Beginn":  "2026-11-15T07:40:00",
-                          "Ende":  "2026-11-15T08:25:00",
-                          "Sendung":  "Spione im Tierreich"
-                      },
-                      {
-                          "Art":  "Dokumentation",
                           "Sender":  "ZDFinfo HD",
                           "Beginn":  "2026-11-15T07:40:00",
                           "Ende":  "2026-11-15T08:25:00",
@@ -9101,8 +9101,15 @@
                           "Art":  "Dokumentation",
                           "Sender":  "phoenix",
                           "Beginn":  "2026-11-15T07:45:00",
-                          "Ende":  "2026-11-15T08:00:00",
-                          "Sendung":  "Mein Vater war ein deutscher Soldat - Wehrmachtskinder in Frankreich"
+                          "Ende":  "2026-11-15T08:15:00",
+                          "Sendung":  "London - Stadt der Spione"
+                      },
+                      {
+                          "Art":  "Dokumentation",
+                          "Sender":  "zdf_neo HD",
+                          "Beginn":  "2026-11-15T07:45:00",
+                          "Ende":  "2026-11-15T08:30:00",
+                          "Sendung":  "Spione im Tierreich"
                       },
                       {
                           "Art":  "Serie",
@@ -9148,13 +9155,6 @@
                       },
                       {
                           "Art":  "Dokumentation",
-                          "Sender":  "phoenix",
-                          "Beginn":  "2026-11-15T08:00:00",
-                          "Ende":  "2026-11-15T08:30:00",
-                          "Sendung":  "Dokumentation"
-                      },
-                      {
-                          "Art":  "Dokumentation",
                           "Sender":  "Welt der Wunder",
                           "Beginn":  "2026-11-15T08:00:00",
                           "Ende":  "2026-11-15T09:00:00",
@@ -9175,11 +9175,11 @@
                           "Sendung":  "Genius"
                       },
                       {
-                          "Art":  "Serie",
-                          "Sender":  "Sixx HD",
+                          "Art":  "Spielfilm",
+                          "Sender":  "RTL Deutschland HD",
                           "Beginn":  "2026-11-15T08:05:00",
-                          "Ende":  "2026-11-15T09:00:00",
-                          "Sendung":  "Mein perfektes Hochzeitskleid! - USA"
+                          "Ende":  "2026-11-15T09:55:00",
+                          "Sendung":  "Winter Castle 2 - Eine winterliche Liebe"
                       },
                       {
                           "Art":  "Serie",
@@ -9189,18 +9189,25 @@
                           "Sendung":  "Unicorn Academy: Wintersonnenwende"
                       },
                       {
-                          "Art":  "Spielfilm",
-                          "Sender":  "RTL Deutschland HD",
-                          "Beginn":  "2026-11-15T08:10:00",
-                          "Ende":  "2026-11-15T09:55:00",
-                          "Sendung":  "Winter Castle 2 - Eine winterliche Liebe"
-                      },
-                      {
                           "Art":  "Serie",
                           "Sender":  "KiKa HD",
                           "Beginn":  "2026-11-15T08:10:00",
                           "Ende":  "2026-11-15T08:30:00",
                           "Sendung":  "CHI RHO - Das Geheimnis"
+                      },
+                      {
+                          "Art":  "Dokumentation",
+                          "Sender":  "phoenix",
+                          "Beginn":  "2026-11-15T08:15:00",
+                          "Ende":  "2026-11-15T09:00:00",
+                          "Sendung":  "Generation DDR - Geboren im Osten"
+                      },
+                      {
+                          "Art":  "Serie",
+                          "Sender":  "Sixx HD",
+                          "Beginn":  "2026-11-15T08:15:00",
+                          "Ende":  "2026-11-15T09:10:00",
+                          "Sendung":  "Mein perfektes Hochzeitskleid! - USA"
                       },
                       {
                           "Art":  "Serie",
@@ -9215,13 +9222,6 @@
                           "Beginn":  "2026-11-15T08:20:00",
                           "Ende":  "2026-11-15T08:50:00",
                           "Sendung":  "Kamp Koral: SpongeBobs Kinderjahre"
-                      },
-                      {
-                          "Art":  "Dokumentation",
-                          "Sender":  "zdf_neo HD",
-                          "Beginn":  "2026-11-15T08:25:00",
-                          "Ende":  "2026-11-15T09:10:00",
-                          "Sendung":  "Spione im Tierreich"
                       },
                       {
                           "Art":  "Dokumentation",
@@ -9253,10 +9253,10 @@
                       },
                       {
                           "Art":  "Dokumentation",
-                          "Sender":  "phoenix",
+                          "Sender":  "zdf_neo HD",
                           "Beginn":  "2026-11-15T08:30:00",
                           "Ende":  "2026-11-15T09:15:00",
-                          "Sendung":  "Generation DDR - Geboren im Osten"
+                          "Sendung":  "Spione im Tierreich"
                       },
                       {
                           "Art":  "Serie",
@@ -9378,13 +9378,6 @@
                           "Sendung":  "Tiere bis unters Dach"
                       },
                       {
-                          "Art":  "Serie",
-                          "Sender":  "Sixx HD",
-                          "Beginn":  "2026-11-15T09:00:00",
-                          "Ende":  "2026-11-15T09:55:00",
-                          "Sendung":  "Mein perfektes Hochzeitskleid! - USA"
-                      },
-                      {
                           "Art":  "Dokumentation",
                           "Sender":  "ZDF HD",
                           "Beginn":  "2026-11-15T09:03:00",
@@ -9413,18 +9406,18 @@
                           "Sendung":  "Universitäten der Welt"
                       },
                       {
-                          "Art":  "Dokumentation",
-                          "Sender":  "zdf_neo HD",
-                          "Beginn":  "2026-11-15T09:10:00",
-                          "Ende":  "2026-11-15T09:55:00",
-                          "Sendung":  "Geheimnisse der Tiefsee"
-                      },
-                      {
                           "Art":  "Krimi",
                           "Sender":  "ONE HD",
                           "Beginn":  "2026-11-15T09:10:00",
                           "Ende":  "2026-11-15T09:55:00",
                           "Sendung":  "Alles Klara"
+                      },
+                      {
+                          "Art":  "Serie",
+                          "Sender":  "Sixx HD",
+                          "Beginn":  "2026-11-15T09:10:00",
+                          "Ende":  "2026-11-15T10:00:00",
+                          "Sendung":  "Mein perfektes Hochzeitskleid! - USA"
                       },
                       {
                           "Art":  "Dokumentation",
@@ -9435,10 +9428,10 @@
                       },
                       {
                           "Art":  "Dokumentation",
-                          "Sender":  "phoenix",
+                          "Sender":  "zdf_neo HD",
                           "Beginn":  "2026-11-15T09:15:00",
                           "Ende":  "2026-11-15T10:00:00",
-                          "Sendung":  "DDR genial"
+                          "Sendung":  "Geheimnisse der Tiefsee"
                       },
                       {
                           "Art":  "Krimi",
@@ -9451,7 +9444,7 @@
                           "Art":  "Serie",
                           "Sender":  "Nick/CC+1 HD",
                           "Beginn":  "2026-11-15T09:15:00",
-                          "Ende":  "2026-11-15T09:45:00",
+                          "Ende":  "2026-11-15T09:40:00",
                           "Sendung":  "SpongeBob Schwammkopf"
                       },
                       {
@@ -9460,13 +9453,6 @@
                           "Beginn":  "2026-11-15T09:20:00",
                           "Ende":  "2026-11-15T10:05:00",
                           "Sendung":  "Die Donau - Ein Fluss, zehn Länder"
-                      },
-                      {
-                          "Art":  "Krimi",
-                          "Sender":  "SAT.1 Gold HD",
-                          "Beginn":  "2026-11-15T09:20:00",
-                          "Ende":  "2026-11-15T10:05:00",
-                          "Sendung":  "K 11 - Kommissare im Einsatz"
                       },
                       {
                           "Art":  "Serie",
@@ -9481,6 +9467,13 @@
                           "Beginn":  "2026-11-15T09:25:00",
                           "Ende":  "2026-11-15T10:15:00",
                           "Sendung":  "Miami Vice"
+                      },
+                      {
+                          "Art":  "Krimi",
+                          "Sender":  "SAT.1 Gold HD",
+                          "Beginn":  "2026-11-15T09:25:00",
+                          "Ende":  "2026-11-15T10:10:00",
+                          "Sendung":  "K 11 - Kommissare im Einsatz"
                       },
                       {
                           "Art":  "Serie",
@@ -9525,6 +9518,13 @@
                           "Sendung":  "Steel Buddies - Stahlharte Geschäfte"
                       },
                       {
+                          "Art":  "Serie",
+                          "Sender":  "Nick/CC+1 HD",
+                          "Beginn":  "2026-11-15T09:40:00",
+                          "Ende":  "2026-11-15T10:10:00",
+                          "Sendung":  "Wylde Pak"
+                      },
+                      {
                           "Art":  "Dokumentation",
                           "Sender":  "ARD-alpha HD",
                           "Beginn":  "2026-11-15T09:45:00",
@@ -9553,25 +9553,11 @@
                           "Sendung":  "Border Patrol USA - Einsatz an Mexikos Grenze: Folge 20"
                       },
                       {
-                          "Art":  "Serie",
-                          "Sender":  "Nick/CC+1 HD",
-                          "Beginn":  "2026-11-15T09:45:00",
-                          "Ende":  "2026-11-15T10:15:00",
-                          "Sendung":  "Wylde Pak"
-                      },
-                      {
                           "Art":  "Krimi",
                           "Sender":  "Vox Deutschland HD",
                           "Beginn":  "2026-11-15T09:50:00",
                           "Ende":  "2026-11-15T10:45:00",
                           "Sendung":  "Criminal Intent - Verbrechen im Visier"
-                      },
-                      {
-                          "Art":  "Dokumentation",
-                          "Sender":  "zdf_neo HD",
-                          "Beginn":  "2026-11-15T09:55:00",
-                          "Ende":  "2026-11-15T10:40:00",
-                          "Sendung":  "Extreme der Tiefsee"
                       },
                       {
                           "Art":  "Dokumentation",
@@ -9603,13 +9589,6 @@
                       },
                       {
                           "Art":  "Serie",
-                          "Sender":  "Sixx HD",
-                          "Beginn":  "2026-11-15T09:55:00",
-                          "Ende":  "2026-11-15T10:50:00",
-                          "Sendung":  "Fixer Upper - Umbauen, einrichten, einziehen!"
-                      },
-                      {
-                          "Art":  "Serie",
                           "Sender":  "Super RTL Deutschland HD",
                           "Beginn":  "2026-11-15T09:55:00",
                           "Ende":  "2026-11-15T10:25:00",
@@ -9624,10 +9603,10 @@
                       },
                       {
                           "Art":  "Dokumentation",
-                          "Sender":  "phoenix",
+                          "Sender":  "zdf_neo HD",
                           "Beginn":  "2026-11-15T10:00:00",
-                          "Ende":  "2026-11-15T10:45:00",
-                          "Sendung":  "DDR genial"
+                          "Ende":  "2026-11-15T10:40:00",
+                          "Sendung":  "Extreme der Tiefsee"
                       },
                       {
                           "Art":  "Spielfilm",
@@ -9635,6 +9614,13 @@
                           "Beginn":  "2026-11-15T10:00:00",
                           "Ende":  "2026-11-15T12:00:00",
                           "Sendung":  "Genius"
+                      },
+                      {
+                          "Art":  "Serie",
+                          "Sender":  "Sixx HD",
+                          "Beginn":  "2026-11-15T10:00:00",
+                          "Ende":  "2026-11-15T11:00:00",
+                          "Sendung":  "Fixer Upper - Umbauen, einrichten, einziehen!"
                       },
                       {
                           "Art":  "Spielfilm",
@@ -9658,13 +9644,6 @@
                           "Sendung":  "Der kleine Drache Kokosnuss"
                       },
                       {
-                          "Art":  "Serie",
-                          "Sender":  "SAT.1 Gold HD",
-                          "Beginn":  "2026-11-15T10:05:00",
-                          "Ende":  "2026-11-15T11:00:00",
-                          "Sendung":  "Richterin Barbara Salesch"
-                      },
-                      {
                           "Art":  "Dokumentation",
                           "Sender":  "arte HD",
                           "Beginn":  "2026-11-15T10:10:00",
@@ -9673,10 +9652,24 @@
                       },
                       {
                           "Art":  "Serie",
+                          "Sender":  "Nick/CC+1 HD",
+                          "Beginn":  "2026-11-15T10:10:00",
+                          "Ende":  "2026-11-15T10:35:00",
+                          "Sendung":  "Wylde Pak"
+                      },
+                      {
+                          "Art":  "Serie",
                           "Sender":  "ProSieben MAXX HD",
                           "Beginn":  "2026-11-15T10:10:00",
                           "Ende":  "2026-11-15T11:00:00",
                           "Sendung":  "24 Stunden in Teufels Küche - Undercover mit Gordon Ramsay"
+                      },
+                      {
+                          "Art":  "Serie",
+                          "Sender":  "SAT.1 Gold HD",
+                          "Beginn":  "2026-11-15T10:10:00",
+                          "Ende":  "2026-11-15T11:05:00",
+                          "Sendung":  "Richterin Barbara Salesch"
                       },
                       {
                           "Art":  "Krimi",
@@ -9705,13 +9698,6 @@
                           "Beginn":  "2026-11-15T10:15:00",
                           "Ende":  "2026-11-15T10:30:00",
                           "Sendung":  "Grisu - Der kleine Drache"
-                      },
-                      {
-                          "Art":  "Serie",
-                          "Sender":  "Nick/CC+1 HD",
-                          "Beginn":  "2026-11-15T10:15:00",
-                          "Ende":  "2026-11-15T10:40:00",
-                          "Sendung":  "Wylde Pak"
                       },
                       {
                           "Art":  "Serie",
@@ -9785,6 +9771,13 @@
                       },
                       {
                           "Art":  "Serie",
+                          "Sender":  "Nick/CC+1 HD",
+                          "Beginn":  "2026-11-15T10:35:00",
+                          "Ende":  "2026-11-15T10:55:00",
+                          "Sendung":  "Schere, Stein, Papier"
+                      },
+                      {
+                          "Art":  "Serie",
                           "Sender":  "RTLup HD",
                           "Beginn":  "2026-11-15T10:35:00",
                           "Ende":  "2026-11-15T12:35:00",
@@ -9808,22 +9801,8 @@
                           "Art":  "Serie",
                           "Sender":  "N24 Doku HD",
                           "Beginn":  "2026-11-15T10:40:00",
-                          "Ende":  "2026-11-15T11:20:00",
+                          "Ende":  "2026-11-15T11:25:00",
                           "Sendung":  "Border Patrol USA - Einsatz an Mexikos Grenze: Folge 1"
-                      },
-                      {
-                          "Art":  "Serie",
-                          "Sender":  "Nick/CC+1 HD",
-                          "Beginn":  "2026-11-15T10:40:00",
-                          "Ende":  "2026-11-15T11:00:00",
-                          "Sendung":  "Schere, Stein, Papier"
-                      },
-                      {
-                          "Art":  "Dokumentation",
-                          "Sender":  "phoenix",
-                          "Beginn":  "2026-11-15T10:45:00",
-                          "Ende":  "2026-11-15T11:30:00",
-                          "Sendung":  "DDR genial"
                       },
                       {
                           "Art":  "Krimi",
@@ -9836,15 +9815,8 @@
                           "Art":  "Krimi",
                           "Sender":  "Vox Deutschland HD",
                           "Beginn":  "2026-11-15T10:45:00",
-                          "Ende":  "2026-11-15T11:35:00",
+                          "Ende":  "2026-11-15T11:30:00",
                           "Sendung":  "Criminal Intent - Verbrechen im Visier"
-                      },
-                      {
-                          "Art":  "Serie",
-                          "Sender":  "Sixx HD",
-                          "Beginn":  "2026-11-15T10:50:00",
-                          "Ende":  "2026-11-15T11:45:00",
-                          "Sendung":  "Fixer Upper - Umbauen, einrichten, einziehen!"
                       },
                       {
                           "Art":  "Dokumentation",
@@ -9859,6 +9831,13 @@
                           "Beginn":  "2026-11-15T10:55:00",
                           "Ende":  "2026-11-15T12:25:00",
                           "Sendung":  "Im Fluss des Lebens"
+                      },
+                      {
+                          "Art":  "Serie",
+                          "Sender":  "Nick/CC+1 HD",
+                          "Beginn":  "2026-11-15T10:55:00",
+                          "Ende":  "2026-11-15T11:25:00",
+                          "Sendung":  "Schere, Stein, Papier"
                       },
                       {
                           "Art":  "Serie",
@@ -9890,13 +9869,6 @@
                       },
                       {
                           "Art":  "Serie",
-                          "Sender":  "Nick/CC+1 HD",
-                          "Beginn":  "2026-11-15T11:00:00",
-                          "Ende":  "2026-11-15T11:25:00",
-                          "Sendung":  "Schere, Stein, Papier"
-                      },
-                      {
-                          "Art":  "Serie",
                           "Sender":  "ProSieben MAXX HD",
                           "Beginn":  "2026-11-15T11:00:00",
                           "Ende":  "2026-11-15T11:50:00",
@@ -9904,10 +9876,10 @@
                       },
                       {
                           "Art":  "Serie",
-                          "Sender":  "SAT.1 Gold HD",
+                          "Sender":  "Sixx HD",
                           "Beginn":  "2026-11-15T11:00:00",
                           "Ende":  "2026-11-15T11:55:00",
-                          "Sendung":  "Richterin Barbara Salesch"
+                          "Sendung":  "Fixer Upper - Umbauen, einrichten, einziehen!"
                       },
                       {
                           "Art":  "Serie",
@@ -9922,6 +9894,13 @@
                           "Beginn":  "2026-11-15T11:05:00",
                           "Ende":  "2026-11-15T11:30:00",
                           "Sendung":  "Sagenhaftes Südtirol - Mystische Berge und Legenden"
+                      },
+                      {
+                          "Art":  "Serie",
+                          "Sender":  "SAT.1 Gold HD",
+                          "Beginn":  "2026-11-15T11:05:00",
+                          "Ende":  "2026-11-15T11:55:00",
+                          "Sendung":  "Richterin Barbara Salesch"
                       },
                       {
                           "Art":  "Serie",
@@ -9987,6 +9966,13 @@
                           "Sendung":  "Nachrichten"
                       },
                       {
+                          "Art":  "Krimi",
+                          "Sender":  "Vox Deutschland HD",
+                          "Beginn":  "2026-11-15T11:30:00",
+                          "Ende":  "2026-11-15T12:20:00",
+                          "Sendung":  "Criminal Intent - Verbrechen im Visier"
+                      },
+                      {
                           "Art":  "Serie",
                           "Sender":  "DMAX HD",
                           "Beginn":  "2026-11-15T11:30:00",
@@ -10015,13 +10001,6 @@
                           "Sendung":  "Alles Klara"
                       },
                       {
-                          "Art":  "Krimi",
-                          "Sender":  "Vox Deutschland HD",
-                          "Beginn":  "2026-11-15T11:35:00",
-                          "Ende":  "2026-11-15T12:25:00",
-                          "Sendung":  "Criminal Intent - Verbrechen im Visier"
-                      },
-                      {
                           "Art":  "Dokumentation",
                           "Sender":  "arte HD",
                           "Beginn":  "2026-11-15T11:40:00",
@@ -10030,16 +10009,9 @@
                       },
                       {
                           "Art":  "Serie",
-                          "Sender":  "Sixx HD",
-                          "Beginn":  "2026-11-15T11:45:00",
-                          "Ende":  "2026-11-15T12:45:00",
-                          "Sendung":  "Fixer Upper - Umbauen, einrichten, einziehen!"
-                      },
-                      {
-                          "Art":  "Serie",
                           "Sender":  "Nick/CC+1 HD",
                           "Beginn":  "2026-11-15T11:50:00",
-                          "Ende":  "2026-11-15T12:15:00",
+                          "Ende":  "2026-11-15T12:20:00",
                           "Sendung":  "Willkommen bei den Louds"
                       },
                       {
@@ -10062,6 +10034,13 @@
                           "Beginn":  "2026-11-15T11:55:00",
                           "Ende":  "2026-11-15T12:50:00",
                           "Sendung":  "Richter Alexander Hold"
+                      },
+                      {
+                          "Art":  "Serie",
+                          "Sender":  "Sixx HD",
+                          "Beginn":  "2026-11-15T11:55:00",
+                          "Ende":  "2026-11-15T12:50:00",
+                          "Sendung":  "Fixer Upper - Umbauen, einrichten, einziehen!"
                       },
                       {
                           "Art":  "Dokumentation",
@@ -10148,11 +10127,11 @@
                           "Sendung":  "Der kalte Himmel"
                       },
                       {
-                          "Art":  "Serie",
-                          "Sender":  "Nick/CC+1 HD",
-                          "Beginn":  "2026-11-15T12:15:00",
-                          "Ende":  "2026-11-15T12:40:00",
-                          "Sendung":  "Willkommen bei den Louds"
+                          "Art":  "Krimi",
+                          "Sender":  "Vox Deutschland HD",
+                          "Beginn":  "2026-11-15T12:20:00",
+                          "Ende":  "2026-11-15T13:15:00",
+                          "Sendung":  "Criminal Intent - Verbrechen im Visier"
                       },
                       {
                           "Art":  "Spielfilm",
@@ -10160,6 +10139,13 @@
                           "Beginn":  "2026-11-15T12:20:00",
                           "Ende":  "2026-11-15T14:30:00",
                           "Sendung":  "Klick"
+                      },
+                      {
+                          "Art":  "Serie",
+                          "Sender":  "Nick/CC+1 HD",
+                          "Beginn":  "2026-11-15T12:20:00",
+                          "Ende":  "2026-11-15T12:45:00",
+                          "Sendung":  "Willkommen bei den Louds"
                       },
                       {
                           "Art":  "Dokumentation",
@@ -10174,13 +10160,6 @@
                           "Beginn":  "2026-11-15T12:25:00",
                           "Ende":  "2026-11-15T13:15:00",
                           "Sendung":  "Alles Klara"
-                      },
-                      {
-                          "Art":  "Krimi",
-                          "Sender":  "Vox Deutschland HD",
-                          "Beginn":  "2026-11-15T12:25:00",
-                          "Ende":  "2026-11-15T13:20:00",
-                          "Sendung":  "Criminal Intent - Verbrechen im Visier"
                       },
                       {
                           "Art":  "Spielfilm",
@@ -10226,13 +10205,6 @@
                       },
                       {
                           "Art":  "Serie",
-                          "Sender":  "Nick/CC+1 HD",
-                          "Beginn":  "2026-11-15T12:40:00",
-                          "Ende":  "2026-11-15T13:00:00",
-                          "Sendung":  "Willkommen bei den Louds"
-                      },
-                      {
-                          "Art":  "Serie",
                           "Sender":  "ProSieben MAXX HD",
                           "Beginn":  "2026-11-15T12:40:00",
                           "Ende":  "2026-11-15T13:30:00",
@@ -10247,10 +10219,10 @@
                       },
                       {
                           "Art":  "Serie",
-                          "Sender":  "Sixx HD",
+                          "Sender":  "Nick/CC+1 HD",
                           "Beginn":  "2026-11-15T12:45:00",
-                          "Ende":  "2026-11-15T13:10:00",
-                          "Sendung":  "Fixer Upper: Behind the Design"
+                          "Ende":  "2026-11-15T12:55:00",
+                          "Sendung":  "Willkommen bei den Louds"
                       },
                       {
                           "Art":  "Serie",
@@ -10258,6 +10230,13 @@
                           "Beginn":  "2026-11-15T12:50:00",
                           "Ende":  "2026-11-15T13:45:00",
                           "Sendung":  "Richter Alexander Hold"
+                      },
+                      {
+                          "Art":  "Serie",
+                          "Sender":  "Sixx HD",
+                          "Beginn":  "2026-11-15T12:50:00",
+                          "Ende":  "2026-11-15T13:20:00",
+                          "Sendung":  "Fixer Upper: Behind the Design"
                       },
                       {
                           "Art":  "Serie",
@@ -10279,6 +10258,13 @@
                           "Beginn":  "2026-11-15T12:55:00",
                           "Ende":  "2026-11-15T13:40:00",
                           "Sendung":  "Humans - Geschichte der Menschheit"
+                      },
+                      {
+                          "Art":  "Serie",
+                          "Sender":  "Nick/CC+1 HD",
+                          "Beginn":  "2026-11-15T12:55:00",
+                          "Ende":  "2026-11-15T13:15:00",
+                          "Sendung":  "Willkommen bei den Louds"
                       },
                       {
                           "Art":  "Dokumentation",
@@ -10307,13 +10293,6 @@
                           "Beginn":  "2026-11-15T13:00:00",
                           "Ende":  "2026-11-15T14:00:00",
                           "Sendung":  "Genius"
-                      },
-                      {
-                          "Art":  "Serie",
-                          "Sender":  "Nick/CC+1 HD",
-                          "Beginn":  "2026-11-15T13:00:00",
-                          "Ende":  "2026-11-15T13:15:00",
-                          "Sendung":  "Willkommen bei den Louds"
                       },
                       {
                           "Art":  "Serie",
@@ -10352,13 +10331,6 @@
                       },
                       {
                           "Art":  "Serie",
-                          "Sender":  "Sixx HD",
-                          "Beginn":  "2026-11-15T13:10:00",
-                          "Ende":  "2026-11-15T13:40:00",
-                          "Sendung":  "Fixer Upper: Behind the Design"
-                      },
-                      {
-                          "Art":  "Serie",
                           "Sender":  "Super RTL Deutschland HD",
                           "Beginn":  "2026-11-15T13:10:00",
                           "Ende":  "2026-11-15T13:25:00",
@@ -10377,6 +10349,13 @@
                           "Beginn":  "2026-11-15T13:15:00",
                           "Ende":  "2026-11-15T14:00:00",
                           "Sendung":  "Windkraft vor der Tür: Was bringt\u0027s den Gemeinden?"
+                      },
+                      {
+                          "Art":  "Krimi",
+                          "Sender":  "Vox Deutschland HD",
+                          "Beginn":  "2026-11-15T13:15:00",
+                          "Ende":  "2026-11-15T14:05:00",
+                          "Sendung":  "Criminal Intent - Verbrechen im Visier"
                       },
                       {
                           "Art":  "Spielfilm",
@@ -10400,11 +10379,11 @@
                           "Sendung":  "Die Schnäppchenhäuser - Jeder Cent zählt"
                       },
                       {
-                          "Art":  "Krimi",
-                          "Sender":  "Vox Deutschland HD",
+                          "Art":  "Serie",
+                          "Sender":  "Sixx HD",
                           "Beginn":  "2026-11-15T13:20:00",
-                          "Ende":  "2026-11-15T14:10:00",
-                          "Sendung":  "Criminal Intent - Verbrechen im Visier"
+                          "Ende":  "2026-11-15T13:45:00",
+                          "Sendung":  "Fixer Upper: Behind the Design"
                       },
                       {
                           "Art":  "Serie",
@@ -10508,15 +10487,8 @@
                           "Art":  "Serie",
                           "Sender":  "Nick/CC+1 HD",
                           "Beginn":  "2026-11-15T13:40:00",
-                          "Ende":  "2026-11-15T13:50:00",
+                          "Ende":  "2026-11-15T13:55:00",
                           "Sendung":  "SpongeBob Schwammkopf"
-                      },
-                      {
-                          "Art":  "Serie",
-                          "Sender":  "Sixx HD",
-                          "Beginn":  "2026-11-15T13:40:00",
-                          "Ende":  "2026-11-15T14:35:00",
-                          "Sendung":  "Mein perfektes Hochzeitskleid! - USA"
                       },
                       {
                           "Art":  "Dokumentation",
@@ -10526,11 +10498,25 @@
                           "Sendung":  "Das Waisenhaus für wilde Tiere"
                       },
                       {
+                          "Art":  "Dokumentation",
+                          "Sender":  "phoenix",
+                          "Beginn":  "2026-11-15T13:45:00",
+                          "Ende":  "2026-11-15T14:00:00",
+                          "Sendung":  "Mein Vater war ein deutscher Soldat - Wehrmachtskinder in Frankreich"
+                      },
+                      {
                           "Art":  "Serie",
                           "Sender":  "SAT.1 Gold HD",
                           "Beginn":  "2026-11-15T13:45:00",
                           "Ende":  "2026-11-15T14:40:00",
                           "Sendung":  "Richter Alexander Hold"
+                      },
+                      {
+                          "Art":  "Serie",
+                          "Sender":  "Sixx HD",
+                          "Beginn":  "2026-11-15T13:45:00",
+                          "Ende":  "2026-11-15T14:45:00",
+                          "Sendung":  "Mein perfektes Hochzeitskleid! - USA"
                       },
                       {
                           "Art":  "Krimi",
@@ -10540,18 +10526,18 @@
                           "Sendung":  "Watzmann ermittelt"
                       },
                       {
-                          "Art":  "Serie",
-                          "Sender":  "Nick/CC+1 HD",
-                          "Beginn":  "2026-11-15T13:50:00",
-                          "Ende":  "2026-11-15T14:00:00",
-                          "Sendung":  "SpongeBob Schwammkopf"
-                      },
-                      {
                           "Art":  "Krimi",
                           "Sender":  "arte HD",
                           "Beginn":  "2026-11-15T13:55:00",
                           "Ende":  "2026-11-15T15:25:00",
                           "Sendung":  "Alle Mörder sind schon da"
+                      },
+                      {
+                          "Art":  "Serie",
+                          "Sender":  "Nick/CC+1 HD",
+                          "Beginn":  "2026-11-15T13:55:00",
+                          "Ende":  "2026-11-15T14:05:00",
+                          "Sendung":  "SpongeBob Schwammkopf"
                       },
                       {
                           "Art":  "Serie",
@@ -10603,18 +10589,18 @@
                           "Sendung":  "Hauptstadtrevier"
                       },
                       {
-                          "Art":  "Serie",
-                          "Sender":  "Nick/CC+1 HD",
-                          "Beginn":  "2026-11-15T14:00:00",
-                          "Ende":  "2026-11-15T14:20:00",
-                          "Sendung":  "SpongeBob Schwammkopf"
-                      },
-                      {
                           "Art":  "Dokumentation",
                           "Sender":  "N24 Doku HD",
                           "Beginn":  "2026-11-15T14:05:00",
-                          "Ende":  "2026-11-15T15:00:00",
+                          "Ende":  "2026-11-15T14:55:00",
                           "Sendung":  "Hightech und Handarbeit - Der Bau eines Kreuzfahrtschiffes"
+                      },
+                      {
+                          "Art":  "Krimi",
+                          "Sender":  "Vox Deutschland HD",
+                          "Beginn":  "2026-11-15T14:05:00",
+                          "Ende":  "2026-11-15T15:00:00",
+                          "Sendung":  "Criminal Intent - Verbrechen im Visier"
                       },
                       {
                           "Art":  "Spielfilm",
@@ -10632,17 +10618,17 @@
                       },
                       {
                           "Art":  "Serie",
+                          "Sender":  "Nick/CC+1 HD",
+                          "Beginn":  "2026-11-15T14:05:00",
+                          "Ende":  "2026-11-15T14:20:00",
+                          "Sendung":  "SpongeBob Schwammkopf"
+                      },
+                      {
+                          "Art":  "Serie",
                           "Sender":  "Super RTL Deutschland HD",
                           "Beginn":  "2026-11-15T14:05:00",
                           "Ende":  "2026-11-15T14:25:00",
                           "Sendung":  "Voll zu spät!"
-                      },
-                      {
-                          "Art":  "Krimi",
-                          "Sender":  "Vox Deutschland HD",
-                          "Beginn":  "2026-11-15T14:10:00",
-                          "Ende":  "2026-11-15T15:00:00",
-                          "Sendung":  "Criminal Intent - Verbrechen im Visier"
                       },
                       {
                           "Art":  "Serie",
@@ -10683,7 +10669,7 @@
                           "Art":  "Serie",
                           "Sender":  "Nick/CC+1 HD",
                           "Beginn":  "2026-11-15T14:20:00",
-                          "Ende":  "2026-11-15T14:30:00",
+                          "Ende":  "2026-11-15T14:35:00",
                           "Sendung":  "SpongeBob Schwammkopf"
                       },
                       {
@@ -10697,7 +10683,7 @@
                           "Art":  "Dokumentation",
                           "Sender":  "zdf_neo HD",
                           "Beginn":  "2026-11-15T14:25:00",
-                          "Ende":  "2026-11-15T15:05:00",
+                          "Ende":  "2026-11-15T15:10:00",
                           "Sendung":  "Ozeane - Eine Menschheitsgeschichte"
                       },
                       {
@@ -10750,13 +10736,6 @@
                           "Sendung":  "Das Märchen von der Regentrude"
                       },
                       {
-                          "Art":  "Serie",
-                          "Sender":  "Nick/CC+1 HD",
-                          "Beginn":  "2026-11-15T14:30:00",
-                          "Ende":  "2026-11-15T14:45:00",
-                          "Sendung":  "SpongeBob Schwammkopf"
-                      },
-                      {
                           "Art":  "Dokumentation",
                           "Sender":  "Anixe+",
                           "Beginn":  "2026-11-15T14:35:00",
@@ -10765,10 +10744,10 @@
                       },
                       {
                           "Art":  "Serie",
-                          "Sender":  "Sixx HD",
+                          "Sender":  "Nick/CC+1 HD",
                           "Beginn":  "2026-11-15T14:35:00",
-                          "Ende":  "2026-11-15T15:30:00",
-                          "Sendung":  "Mein perfektes Hochzeitskleid! - USA"
+                          "Ende":  "2026-11-15T14:50:00",
+                          "Sendung":  "SpongeBob Schwammkopf"
                       },
                       {
                           "Art":  "Serie",
@@ -10795,7 +10774,7 @@
                           "Art":  "Serie",
                           "Sender":  "SAT.1 Gold HD",
                           "Beginn":  "2026-11-15T14:40:00",
-                          "Ende":  "2026-11-15T15:30:00",
+                          "Ende":  "2026-11-15T15:35:00",
                           "Sendung":  "Im Namen der Gerechtigkeit - Wir kämpfen für Sie!"
                       },
                       {
@@ -10828,17 +10807,17 @@
                       },
                       {
                           "Art":  "Serie",
-                          "Sender":  "Nick/CC+1 HD",
-                          "Beginn":  "2026-11-15T14:45:00",
-                          "Ende":  "2026-11-15T15:00:00",
-                          "Sendung":  "SpongeBob Schwammkopf"
-                      },
-                      {
-                          "Art":  "Serie",
                           "Sender":  "NITRO HD",
                           "Beginn":  "2026-11-15T14:45:00",
                           "Ende":  "2026-11-15T15:40:00",
                           "Sendung":  "Die Tuning Profis"
+                      },
+                      {
+                          "Art":  "Serie",
+                          "Sender":  "Sixx HD",
+                          "Beginn":  "2026-11-15T14:45:00",
+                          "Ende":  "2026-11-15T15:35:00",
+                          "Sendung":  "Mein perfektes Hochzeitskleid! - USA"
                       },
                       {
                           "Art":  "Serie",
@@ -10849,17 +10828,24 @@
                       },
                       {
                           "Art":  "Serie",
-                          "Sender":  "Super RTL Deutschland HD",
-                          "Beginn":  "2026-11-15T14:55:00",
-                          "Ende":  "2026-11-15T15:05:00",
-                          "Sendung":  "Voll zu spät!"
+                          "Sender":  "Nick/CC+1 HD",
+                          "Beginn":  "2026-11-15T14:50:00",
+                          "Ende":  "2026-11-15T15:00:00",
+                          "Sendung":  "SpongeBob Schwammkopf"
                       },
                       {
                           "Art":  "Dokumentation",
                           "Sender":  "N24 Doku HD",
-                          "Beginn":  "2026-11-15T15:00:00",
-                          "Ende":  "2026-11-15T15:50:00",
+                          "Beginn":  "2026-11-15T14:55:00",
+                          "Ende":  "2026-11-15T15:55:00",
                           "Sendung":  "Die Flugzeugbauer - Hightech-Flieger am Fließband"
+                      },
+                      {
+                          "Art":  "Serie",
+                          "Sender":  "Super RTL Deutschland HD",
+                          "Beginn":  "2026-11-15T14:55:00",
+                          "Ende":  "2026-11-15T15:05:00",
+                          "Sendung":  "Voll zu spät!"
                       },
                       {
                           "Art":  "Dokumentation",
@@ -10879,7 +10865,7 @@
                           "Art":  "Serie",
                           "Sender":  "Nick/CC+1 HD",
                           "Beginn":  "2026-11-15T15:00:00",
-                          "Ende":  "2026-11-15T15:30:00",
+                          "Ende":  "2026-11-15T15:25:00",
                           "Sendung":  "Die Thundermans: Undercover"
                       },
                       {
@@ -10888,13 +10874,6 @@
                           "Beginn":  "2026-11-15T15:00:00",
                           "Ende":  "2026-11-15T15:50:00",
                           "Sendung":  "Highway Heroes Canada"
-                      },
-                      {
-                          "Art":  "Dokumentation",
-                          "Sender":  "zdf_neo HD",
-                          "Beginn":  "2026-11-15T15:05:00",
-                          "Ende":  "2026-11-15T15:50:00",
-                          "Sendung":  "Ozeane - Eine Menschheitsgeschichte"
                       },
                       {
                           "Art":  "Serie",
@@ -10916,6 +10895,13 @@
                           "Beginn":  "2026-11-15T15:10:00",
                           "Ende":  "2026-11-15T16:00:00",
                           "Sendung":  "Die Chinesische Mauer"
+                      },
+                      {
+                          "Art":  "Dokumentation",
+                          "Sender":  "zdf_neo HD",
+                          "Beginn":  "2026-11-15T15:10:00",
+                          "Ende":  "2026-11-15T15:55:00",
+                          "Sendung":  "Ozeane - Eine Menschheitsgeschichte"
                       },
                       {
                           "Art":  "Dokumentation",
@@ -10974,6 +10960,13 @@
                           "Sendung":  "Byzanz, goldenes Erbe Europas"
                       },
                       {
+                          "Art":  "Serie",
+                          "Sender":  "Nick/CC+1 HD",
+                          "Beginn":  "2026-11-15T15:25:00",
+                          "Ende":  "2026-11-15T15:55:00",
+                          "Sendung":  "Die Thundermans: Undercover"
+                      },
+                      {
                           "Art":  "Dokumentation",
                           "Sender":  "NDR FS HH HD",
                           "Beginn":  "2026-11-15T15:30:00",
@@ -11016,25 +11009,18 @@
                           "Sendung":  "Belle und Sebastian"
                       },
                       {
-                          "Art":  "Serie",
-                          "Sender":  "Nick/CC+1 HD",
-                          "Beginn":  "2026-11-15T15:30:00",
-                          "Ende":  "2026-11-15T15:55:00",
-                          "Sendung":  "Die Thundermans: Undercover"
-                      },
-                      {
-                          "Art":  "Serie",
-                          "Sender":  "SAT.1 Gold HD",
-                          "Beginn":  "2026-11-15T15:30:00",
-                          "Ende":  "2026-11-15T16:15:00",
-                          "Sendung":  "Im Namen der Gerechtigkeit - Wir kämpfen für Sie!"
-                      },
-                      {
                           "Art":  "Spielfilm",
                           "Sender":  "Das Erste HD",
                           "Beginn":  "2026-11-15T15:35:00",
                           "Ende":  "2026-11-15T17:00:00",
                           "Sendung":  "Drei Haselnüsse für Aschenbrödel"
+                      },
+                      {
+                          "Art":  "Serie",
+                          "Sender":  "SAT.1 Gold HD",
+                          "Beginn":  "2026-11-15T15:35:00",
+                          "Ende":  "2026-11-15T16:20:00",
+                          "Sendung":  "Im Namen der Gerechtigkeit - Wir kämpfen für Sie!"
                       },
                       {
                           "Art":  "Serie",
@@ -11051,20 +11037,6 @@
                           "Sendung":  "Verkauft \u0026 Zugelassen - Die Autohändler"
                       },
                       {
-                          "Art":  "Dokumentation",
-                          "Sender":  "N24 Doku HD",
-                          "Beginn":  "2026-11-15T15:50:00",
-                          "Ende":  "2026-11-15T16:45:00",
-                          "Sendung":  "Traumzüge: Transcantabrico Clasico"
-                      },
-                      {
-                          "Art":  "Dokumentation",
-                          "Sender":  "zdf_neo HD",
-                          "Beginn":  "2026-11-15T15:50:00",
-                          "Ende":  "2026-11-15T16:35:00",
-                          "Sendung":  "Die glorreichen 10"
-                      },
-                      {
                           "Art":  "Krimi",
                           "Sender":  "VOXup HD",
                           "Beginn":  "2026-11-15T15:50:00",
@@ -11077,6 +11049,20 @@
                           "Beginn":  "2026-11-15T15:50:00",
                           "Ende":  "2026-11-15T16:00:00",
                           "Sendung":  "Belle und Sebastian"
+                      },
+                      {
+                          "Art":  "Dokumentation",
+                          "Sender":  "N24 Doku HD",
+                          "Beginn":  "2026-11-15T15:55:00",
+                          "Ende":  "2026-11-15T16:50:00",
+                          "Sendung":  "Traumzüge: Transcantabrico Clasico"
+                      },
+                      {
+                          "Art":  "Dokumentation",
+                          "Sender":  "zdf_neo HD",
+                          "Beginn":  "2026-11-15T15:55:00",
+                          "Ende":  "2026-11-15T16:35:00",
+                          "Sendung":  "Die glorreichen 10"
                       },
                       {
                           "Art":  "Serie",
@@ -11205,13 +11191,6 @@
                           "Sendung":  "Die Schnäppchenhäuser - Jeder Cent zählt"
                       },
                       {
-                          "Art":  "Serie",
-                          "Sender":  "SAT.1 Gold HD",
-                          "Beginn":  "2026-11-15T16:15:00",
-                          "Ende":  "2026-11-15T17:10:00",
-                          "Sendung":  "Die Ruhrpottwache"
-                      },
-                      {
                           "Art":  "Dokumentation",
                           "Sender":  "Anixe+",
                           "Beginn":  "2026-11-15T16:20:00",
@@ -11238,6 +11217,13 @@
                           "Beginn":  "2026-11-15T16:20:00",
                           "Ende":  "2026-11-15T16:45:00",
                           "Sendung":  "Schere, Stein, Papier"
+                      },
+                      {
+                          "Art":  "Serie",
+                          "Sender":  "SAT.1 Gold HD",
+                          "Beginn":  "2026-11-15T16:20:00",
+                          "Ende":  "2026-11-15T17:10:00",
+                          "Sendung":  "Die Ruhrpottwache"
                       },
                       {
                           "Art":  "Serie",
@@ -11304,13 +11290,6 @@
                       },
                       {
                           "Art":  "Dokumentation",
-                          "Sender":  "N24 Doku HD",
-                          "Beginn":  "2026-11-15T16:45:00",
-                          "Ende":  "2026-11-15T17:35:00",
-                          "Sendung":  "Traumzüge: Seven Stars"
-                      },
-                      {
-                          "Art":  "Dokumentation",
                           "Sender":  "WELT HD",
                           "Beginn":  "2026-11-15T16:45:00",
                           "Ende":  "2026-11-15T17:30:00",
@@ -11327,7 +11306,7 @@
                           "Art":  "Serie",
                           "Sender":  "Nick/CC+1 HD",
                           "Beginn":  "2026-11-15T16:45:00",
-                          "Ende":  "2026-11-15T17:05:00",
+                          "Ende":  "2026-11-15T17:10:00",
                           "Sendung":  "Die Patrick Star Show"
                       },
                       {
@@ -11343,6 +11322,13 @@
                           "Beginn":  "2026-11-15T16:45:00",
                           "Ende":  "2026-11-15T17:15:00",
                           "Sendung":  "SpongeBob Schwammkopf"
+                      },
+                      {
+                          "Art":  "Dokumentation",
+                          "Sender":  "N24 Doku HD",
+                          "Beginn":  "2026-11-15T16:50:00",
+                          "Ende":  "2026-11-15T17:40:00",
+                          "Sendung":  "Traumzüge: Seven Stars"
                       },
                       {
                           "Art":  "Krimi",
@@ -11416,13 +11402,6 @@
                       },
                       {
                           "Art":  "Serie",
-                          "Sender":  "Nick/CC+1 HD",
-                          "Beginn":  "2026-11-15T17:05:00",
-                          "Ende":  "2026-11-15T17:30:00",
-                          "Sendung":  "Pinky Malinky"
-                      },
-                      {
-                          "Art":  "Serie",
                           "Sender":  "rbb Berlin HD",
                           "Beginn":  "2026-11-15T17:05:00",
                           "Ende":  "2026-11-15T17:53:00",
@@ -11444,9 +11423,16 @@
                       },
                       {
                           "Art":  "Serie",
+                          "Sender":  "Nick/CC+1 HD",
+                          "Beginn":  "2026-11-15T17:10:00",
+                          "Ende":  "2026-11-15T17:35:00",
+                          "Sendung":  "Pinky Malinky"
+                      },
+                      {
+                          "Art":  "Serie",
                           "Sender":  "SAT.1 Gold HD",
                           "Beginn":  "2026-11-15T17:10:00",
-                          "Ende":  "2026-11-15T18:00:00",
+                          "Ende":  "2026-11-15T18:05:00",
                           "Sendung":  "Die Ruhrpottwache"
                       },
                       {
@@ -11563,24 +11549,10 @@
                       },
                       {
                           "Art":  "Serie",
-                          "Sender":  "Nick/CC+1 HD",
-                          "Beginn":  "2026-11-15T17:30:00",
-                          "Ende":  "2026-11-15T17:55:00",
-                          "Sendung":  "SpongeBob Schwammkopf"
-                      },
-                      {
-                          "Art":  "Serie",
                           "Sender":  "TLC",
                           "Beginn":  "2026-11-15T17:30:00",
                           "Ende":  "2026-11-15T18:25:00",
                           "Sendung":  "Life of Baylen - Ich ticke anders!"
-                      },
-                      {
-                          "Art":  "Dokumentation",
-                          "Sender":  "N24 Doku HD",
-                          "Beginn":  "2026-11-15T17:35:00",
-                          "Ende":  "2026-11-15T18:30:00",
-                          "Sendung":  "Lost Places"
                       },
                       {
                           "Art":  "Serie",
@@ -11588,6 +11560,20 @@
                           "Beginn":  "2026-11-15T17:35:00",
                           "Ende":  "2026-11-15T17:40:00",
                           "Sendung":  "Shaun das Schaf"
+                      },
+                      {
+                          "Art":  "Serie",
+                          "Sender":  "Nick/CC+1 HD",
+                          "Beginn":  "2026-11-15T17:35:00",
+                          "Ende":  "2026-11-15T17:50:00",
+                          "Sendung":  "SpongeBob Schwammkopf"
+                      },
+                      {
+                          "Art":  "Dokumentation",
+                          "Sender":  "N24 Doku HD",
+                          "Beginn":  "2026-11-15T17:40:00",
+                          "Ende":  "2026-11-15T18:30:00",
+                          "Sendung":  "Lost Places"
                       },
                       {
                           "Art":  "Serie",
@@ -11640,6 +11626,13 @@
                       },
                       {
                           "Art":  "Serie",
+                          "Sender":  "Nick/CC+1 HD",
+                          "Beginn":  "2026-11-15T17:50:00",
+                          "Ende":  "2026-11-15T18:20:00",
+                          "Sendung":  "SpongeBob Schwammkopf"
+                      },
+                      {
+                          "Art":  "Serie",
                           "Sender":  "rbb Berlin HD",
                           "Beginn":  "2026-11-15T17:53:00",
                           "Ende":  "2026-11-15T18:00:00",
@@ -11651,13 +11644,6 @@
                           "Beginn":  "2026-11-15T17:55:00",
                           "Ende":  "2026-11-15T18:45:00",
                           "Sendung":  "Seaside Hotel"
-                      },
-                      {
-                          "Art":  "Serie",
-                          "Sender":  "Nick/CC+1 HD",
-                          "Beginn":  "2026-11-15T17:55:00",
-                          "Ende":  "2026-11-15T18:20:00",
-                          "Sendung":  "SpongeBob Schwammkopf"
                       },
                       {
                           "Art":  "Dokumentation",
@@ -11672,13 +11658,6 @@
                           "Beginn":  "2026-11-15T18:00:00",
                           "Ende":  "2026-11-15T18:45:00",
                           "Sendung":  "Tiere suchen ein Zuhause"
-                      },
-                      {
-                          "Art":  "Krimi",
-                          "Sender":  "SAT.1 Gold HD",
-                          "Beginn":  "2026-11-15T18:00:00",
-                          "Ende":  "2026-11-15T18:35:00",
-                          "Sendung":  "K 11 - Kommissare im Einsatz"
                       },
                       {
                           "Art":  "Krimi",
@@ -11702,6 +11681,13 @@
                           "Sendung":  "PS Profis - Sidney\u0027s Autocheck und Ferry"
                       },
                       {
+                          "Art":  "Krimi",
+                          "Sender":  "SAT.1 Gold HD",
+                          "Beginn":  "2026-11-15T18:05:00",
+                          "Ende":  "2026-11-15T18:35:00",
+                          "Sendung":  "K 11 - Kommissare im Einsatz"
+                      },
+                      {
                           "Art":  "Dokumentation",
                           "Sender":  "ZDFinfo HD",
                           "Beginn":  "2026-11-15T18:10:00",
@@ -11712,7 +11698,7 @@
                           "Art":  "Serie",
                           "Sender":  "ProSieben MAXX HD",
                           "Beginn":  "2026-11-15T18:10:00",
-                          "Ende":  "2026-11-15T18:35:00",
+                          "Ende":  "2026-11-15T18:40:00",
                           "Sendung":  "Storage Wars - Die Geschäftemacher"
                       },
                       {
@@ -11754,14 +11740,14 @@
                           "Art":  "Serie",
                           "Sender":  "Nick/CC+1 HD",
                           "Beginn":  "2026-11-15T18:20:00",
-                          "Ende":  "2026-11-15T18:45:00",
+                          "Ende":  "2026-11-15T18:50:00",
                           "Sendung":  "SpongeBob Schwammkopf"
                       },
                       {
                           "Art":  "Dokumentation",
                           "Sender":  "WELT HD",
                           "Beginn":  "2026-11-15T18:25:00",
-                          "Ende":  "2026-11-15T19:20:00",
+                          "Ende":  "2026-11-15T19:25:00",
                           "Sendung":  "Lost Places"
                       },
                       {
@@ -11828,18 +11814,18 @@
                           "Sendung":  "K 11 - Kommissare im Einsatz"
                       },
                       {
-                          "Art":  "Serie",
-                          "Sender":  "ProSieben MAXX HD",
-                          "Beginn":  "2026-11-15T18:35:00",
-                          "Ende":  "2026-11-15T19:00:00",
-                          "Sendung":  "Storage Wars - Die Geschäftemacher"
-                      },
-                      {
                           "Art":  "Dokumentation",
                           "Sender":  "phoenix",
                           "Beginn":  "2026-11-15T18:40:00",
                           "Ende":  "2026-11-15T19:30:00",
                           "Sendung":  "Der Pazifikkrieg"
+                      },
+                      {
+                          "Art":  "Serie",
+                          "Sender":  "ProSieben MAXX HD",
+                          "Beginn":  "2026-11-15T18:40:00",
+                          "Ende":  "2026-11-15T19:00:00",
+                          "Sendung":  "Storage Wars - Die Geschäftemacher"
                       },
                       {
                           "Art":  "Serie",
@@ -11854,13 +11840,6 @@
                           "Beginn":  "2026-11-15T18:45:00",
                           "Ende":  "2026-11-15T19:30:00",
                           "Sendung":  "Seaside Hotel"
-                      },
-                      {
-                          "Art":  "Serie",
-                          "Sender":  "Nick/CC+1 HD",
-                          "Beginn":  "2026-11-15T18:45:00",
-                          "Ende":  "2026-11-15T19:05:00",
-                          "Sendung":  "SpongeBob Schwammkopf"
                       },
                       {
                           "Art":  "Dokumentation",
@@ -11889,6 +11868,13 @@
                           "Beginn":  "2026-11-15T18:50:00",
                           "Ende":  "2026-11-15T19:00:00",
                           "Sendung":  "Unser Sandmännchen"
+                      },
+                      {
+                          "Art":  "Serie",
+                          "Sender":  "Nick/CC+1 HD",
+                          "Beginn":  "2026-11-15T18:50:00",
+                          "Ende":  "2026-11-15T19:10:00",
+                          "Sendung":  "SpongeBob Schwammkopf"
                       },
                       {
                           "Art":  "Serie",
@@ -11961,13 +11947,6 @@
                           "Sendung":  "Weihnachtsmann \u0026 Co. KG"
                       },
                       {
-                          "Art":  "Serie",
-                          "Sender":  "Nick/CC+1 HD",
-                          "Beginn":  "2026-11-15T19:05:00",
-                          "Ende":  "2026-11-15T19:30:00",
-                          "Sendung":  "SpongeBob Schwammkopf"
-                      },
-                      {
                           "Art":  "Dokumentation",
                           "Sender":  "3sat HD",
                           "Beginn":  "2026-11-15T19:10:00",
@@ -11980,6 +11959,13 @@
                           "Beginn":  "2026-11-15T19:10:00",
                           "Ende":  "2026-11-15T20:00:00",
                           "Sendung":  "ntv Wissen"
+                      },
+                      {
+                          "Art":  "Serie",
+                          "Sender":  "Nick/CC+1 HD",
+                          "Beginn":  "2026-11-15T19:10:00",
+                          "Ende":  "2026-11-15T19:25:00",
+                          "Sendung":  "SpongeBob Schwammkopf"
                       },
                       {
                           "Art":  "Krimi",
@@ -12008,13 +11994,6 @@
                           "Beginn":  "2026-11-15T19:15:00",
                           "Ende":  "2026-11-15T19:45:00",
                           "Sendung":  "Die Fallers - Die SWR Schwarzwaldserie"
-                      },
-                      {
-                          "Art":  "Dokumentation",
-                          "Sender":  "WELT HD",
-                          "Beginn":  "2026-11-15T19:20:00",
-                          "Ende":  "2026-11-15T20:15:00",
-                          "Sendung":  "Lost Places"
                       },
                       {
                           "Art":  "Krimi",
@@ -12048,8 +12027,22 @@
                           "Art":  "Dokumentation",
                           "Sender":  "N24 Doku HD",
                           "Beginn":  "2026-11-15T19:25:00",
-                          "Ende":  "2026-11-15T20:15:00",
+                          "Ende":  "2026-11-15T20:20:00",
                           "Sendung":  "Lost Places"
+                      },
+                      {
+                          "Art":  "Dokumentation",
+                          "Sender":  "WELT HD",
+                          "Beginn":  "2026-11-15T19:25:00",
+                          "Ende":  "2026-11-15T20:20:00",
+                          "Sendung":  "Lost Places"
+                      },
+                      {
+                          "Art":  "Serie",
+                          "Sender":  "Nick/CC+1 HD",
+                          "Beginn":  "2026-11-15T19:25:00",
+                          "Ende":  "2026-11-15T19:50:00",
+                          "Sendung":  "SpongeBob Schwammkopf"
                       },
                       {
                           "Art":  "Serie",
@@ -12063,7 +12056,7 @@
                           "Sender":  "phoenix",
                           "Beginn":  "2026-11-15T19:30:00",
                           "Ende":  "2026-11-15T20:00:00",
-                          "Sendung":  "Mein Vater war ein deutscher Soldat - Wehrmachtskinder in Frankreich"
+                          "Sendung":  "Mythos Enigma - Tauchgang in die Vergangenheit"
                       },
                       {
                           "Art":  "Dokumentation",
@@ -12085,13 +12078,6 @@
                           "Beginn":  "2026-11-15T19:30:00",
                           "Ende":  "2026-11-15T20:15:00",
                           "Sendung":  "Seaside Hotel"
-                      },
-                      {
-                          "Art":  "Serie",
-                          "Sender":  "Nick/CC+1 HD",
-                          "Beginn":  "2026-11-15T19:30:00",
-                          "Ende":  "2026-11-15T19:55:00",
-                          "Sendung":  "SpongeBob Schwammkopf"
                       },
                       {
                           "Art":  "Serie",
@@ -12145,7 +12131,7 @@
                       {
                           "Art":  "Serie",
                           "Sender":  "Nick/CC+1 HD",
-                          "Beginn":  "2026-11-15T19:55:00",
+                          "Beginn":  "2026-11-15T19:50:00",
                           "Ende":  "2026-11-15T20:15:00",
                           "Sendung":  "SpongeBob Schwammkopf"
                       },
@@ -12186,13 +12172,6 @@
                       },
                       {
                           "Art":  "Dokumentation",
-                          "Sender":  "N24 Doku HD",
-                          "Beginn":  "2026-11-15T20:15:00",
-                          "Ende":  "2026-11-15T21:10:00",
-                          "Sendung":  "Lost Places"
-                      },
-                      {
-                          "Art":  "Dokumentation",
                           "Sender":  "phoenix",
                           "Beginn":  "2026-11-15T20:15:00",
                           "Ende":  "2026-11-15T21:00:00",
@@ -12218,13 +12197,6 @@
                           "Beginn":  "2026-11-15T20:15:00",
                           "Ende":  "2026-11-15T21:45:00",
                           "Sendung":  "Wunderschön!"
-                      },
-                      {
-                          "Art":  "Dokumentation",
-                          "Sender":  "WELT HD",
-                          "Beginn":  "2026-11-15T20:15:00",
-                          "Ende":  "2026-11-15T21:10:00",
-                          "Sendung":  "Lost Places"
                       },
                       {
                           "Art":  "Dokumentation",
@@ -12314,7 +12286,7 @@
                           "Art":  "Spielfilm",
                           "Sender":  "Sixx HD",
                           "Beginn":  "2026-11-15T20:15:00",
-                          "Ende":  "2026-11-15T22:50:00",
+                          "Ende":  "2026-11-15T22:45:00",
                           "Sendung":  "Moulin Rouge"
                       },
                       {
@@ -12375,6 +12347,20 @@
                       },
                       {
                           "Art":  "Dokumentation",
+                          "Sender":  "N24 Doku HD",
+                          "Beginn":  "2026-11-15T20:20:00",
+                          "Ende":  "2026-11-15T21:20:00",
+                          "Sendung":  "Lost Places"
+                      },
+                      {
+                          "Art":  "Dokumentation",
+                          "Sender":  "WELT HD",
+                          "Beginn":  "2026-11-15T20:20:00",
+                          "Ende":  "2026-11-15T21:10:00",
+                          "Sendung":  "Lost Places"
+                      },
+                      {
+                          "Art":  "Dokumentation",
                           "Sender":  "KiKa HD",
                           "Beginn":  "2026-11-15T20:45:00",
                           "Ende":  "2026-11-15T21:00:00",
@@ -12398,7 +12384,7 @@
                           "Art":  "Krimi",
                           "Sender":  "tagesschau24 HD",
                           "Beginn":  "2026-11-15T20:50:00",
-                          "Ende":  "2026-11-15T21:23:00",
+                          "Ende":  "2026-11-15T21:20:00",
                           "Sendung":  "Der Graf und der Fälscher"
                       },
                       {
@@ -12473,13 +12459,6 @@
                       },
                       {
                           "Art":  "Dokumentation",
-                          "Sender":  "N24 Doku HD",
-                          "Beginn":  "2026-11-15T21:10:00",
-                          "Ende":  "2026-11-15T22:05:00",
-                          "Sendung":  "Lost Places"
-                      },
-                      {
-                          "Art":  "Dokumentation",
                           "Sender":  "WELT HD",
                           "Beginn":  "2026-11-15T21:10:00",
                           "Ende":  "2026-11-15T22:05:00",
@@ -12512,6 +12491,13 @@
                           "Beginn":  "2026-11-15T21:15:00",
                           "Ende":  "2026-11-15T22:15:00",
                           "Sendung":  "Goldrausch in Alaska"
+                      },
+                      {
+                          "Art":  "Dokumentation",
+                          "Sender":  "N24 Doku HD",
+                          "Beginn":  "2026-11-15T21:20:00",
+                          "Ende":  "2026-11-15T22:10:00",
+                          "Sendung":  "Lost Places"
                       },
                       {
                           "Art":  "Krimi",
@@ -12558,9 +12544,16 @@
                       {
                           "Art":  "Spielfilm",
                           "Sender":  "3sat HD",
-                          "Beginn":  "2026-11-15T21:45:00",
-                          "Ende":  "2026-11-15T23:15:00",
+                          "Beginn":  "2026-11-15T21:50:00",
+                          "Ende":  "2026-11-15T23:20:00",
                           "Sendung":  "Mein Vater, der Esel und ich"
+                      },
+                      {
+                          "Art":  "Dokumentation",
+                          "Sender":  "tagesschau24 HD",
+                          "Beginn":  "2026-11-15T21:55:00",
+                          "Ende":  "2026-11-15T22:25:00",
+                          "Sendung":  "Retter der Potenz? - Roboter gegen Prostatakrebs"
                       },
                       {
                           "Art":  "Krimi",
@@ -12599,13 +12592,6 @@
                       },
                       {
                           "Art":  "Dokumentation",
-                          "Sender":  "tagesschau24 HD",
-                          "Beginn":  "2026-11-15T22:00:00",
-                          "Ende":  "2026-11-15T22:30:00",
-                          "Sendung":  "Retter der Potenz? - Roboter gegen Prostatakrebs"
-                      },
-                      {
-                          "Art":  "Dokumentation",
                           "Sender":  "zdf_neo HD",
                           "Beginn":  "2026-11-15T22:00:00",
                           "Ende":  "2026-11-15T22:30:00",
@@ -12620,16 +12606,9 @@
                       },
                       {
                           "Art":  "Dokumentation",
-                          "Sender":  "N24 Doku HD",
-                          "Beginn":  "2026-11-15T22:05:00",
-                          "Ende":  "2026-11-15T23:05:00",
-                          "Sendung":  "Lost Places"
-                      },
-                      {
-                          "Art":  "Dokumentation",
                           "Sender":  "WELT HD",
                           "Beginn":  "2026-11-15T22:05:00",
-                          "Ende":  "2026-11-15T23:00:00",
+                          "Ende":  "2026-11-15T23:05:00",
                           "Sendung":  "STASI - Ein Staat gegen seine Bürger"
                       },
                       {
@@ -12668,6 +12647,13 @@
                           "Sendung":  "Mein Leben mit 300 kg"
                       },
                       {
+                          "Art":  "Dokumentation",
+                          "Sender":  "N24 Doku HD",
+                          "Beginn":  "2026-11-15T22:10:00",
+                          "Ende":  "2026-11-15T23:05:00",
+                          "Sendung":  "Lost Places"
+                      },
+                      {
                           "Art":  "Serie",
                           "Sender":  "ProSieben MAXX HD",
                           "Beginn":  "2026-11-15T22:10:00",
@@ -12697,6 +12683,13 @@
                       },
                       {
                           "Art":  "Dokumentation",
+                          "Sender":  "tagesschau24 HD",
+                          "Beginn":  "2026-11-15T22:25:00",
+                          "Ende":  "2026-11-15T22:40:00",
+                          "Sendung":  "Tagesschau vor 20 Jahren"
+                      },
+                      {
+                          "Art":  "Dokumentation",
                           "Sender":  "ZDFinfo HD",
                           "Beginn":  "2026-11-15T22:25:00",
                           "Ende":  "2026-11-15T23:10:00",
@@ -12715,13 +12708,6 @@
                           "Beginn":  "2026-11-15T22:30:00",
                           "Ende":  "2026-11-15T23:15:00",
                           "Sendung":  "Der Geparden-Clan"
-                      },
-                      {
-                          "Art":  "Dokumentation",
-                          "Sender":  "tagesschau24 HD",
-                          "Beginn":  "2026-11-15T22:30:00",
-                          "Ende":  "2026-11-15T22:45:00",
-                          "Sendung":  "Tagesschau vor 20 Jahren"
                       },
                       {
                           "Art":  "Krimi",
@@ -12745,18 +12731,18 @@
                           "Sendung":  "Storage Wars - Die Geschäftemacher"
                       },
                       {
+                          "Art":  "Spielfilm",
+                          "Sender":  "Sixx HD",
+                          "Beginn":  "2026-11-15T22:45:00",
+                          "Ende":  "2026-11-16T00:55:00",
+                          "Sendung":  "Eiffel in Love"
+                      },
+                      {
                           "Art":  "Krimi",
                           "Sender":  "SAT.1 Gold HD",
                           "Beginn":  "2026-11-15T22:50:00",
                           "Ende":  "2026-11-15T23:35:00",
                           "Sendung":  "Criminal Minds"
-                      },
-                      {
-                          "Art":  "Spielfilm",
-                          "Sender":  "Sixx HD",
-                          "Beginn":  "2026-11-15T22:50:00",
-                          "Ende":  "2026-11-16T01:00:00",
-                          "Sendung":  "Eiffel in Love"
                       },
                       {
                           "Art":  "Krimi",
@@ -12778,13 +12764,6 @@
                           "Beginn":  "2026-11-15T23:00:00",
                           "Ende":  "2026-11-15T23:30:00",
                           "Sendung":  "Nachrichten"
-                      },
-                      {
-                          "Art":  "Dokumentation",
-                          "Sender":  "WELT HD",
-                          "Beginn":  "2026-11-15T23:00:00",
-                          "Ende":  "2026-11-15T23:55:00",
-                          "Sendung":  "Hitlers Helferinnen - Frauen im NS-Staat"
                       },
                       {
                           "Art":  "Krimi",
@@ -12825,8 +12804,15 @@
                           "Art":  "Dokumentation",
                           "Sender":  "N24 Doku HD",
                           "Beginn":  "2026-11-15T23:05:00",
-                          "Ende":  "2026-11-16T00:05:00",
+                          "Ende":  "2026-11-16T00:00:00",
                           "Sendung":  "STASI - Ein Staat gegen seine Bürger"
+                      },
+                      {
+                          "Art":  "Dokumentation",
+                          "Sender":  "WELT HD",
+                          "Beginn":  "2026-11-15T23:05:00",
+                          "Ende":  "2026-11-16T00:00:00",
+                          "Sendung":  "Hitlers Helferinnen - Frauen im NS-Staat"
                       },
                       {
                           "Art":  "Serie",
@@ -12894,8 +12880,8 @@
                       {
                           "Art":  "Spielfilm",
                           "Sender":  "3sat HD",
-                          "Beginn":  "2026-11-15T23:15:00",
-                          "Ende":  "2026-11-16T01:05:00",
+                          "Beginn":  "2026-11-15T23:20:00",
+                          "Ende":  "2026-11-16T01:10:00",
                           "Sendung":  "Largo Winch: Die Burma Verschwörung"
                       },
                       {
@@ -12941,18 +12927,18 @@
                           "Sendung":  "Dream Scenario"
                       },
                       {
-                          "Art":  "Serie",
-                          "Sender":  "Vox Deutschland HD",
-                          "Beginn":  "2026-11-15T23:35:00",
-                          "Ende":  "2026-11-16T00:35:00",
-                          "Sendung":  "Hot oder Schrott - Die Allestester"
-                      },
-                      {
                           "Art":  "Spielfilm",
                           "Sender":  "Super RTL Deutschland HD",
                           "Beginn":  "2026-11-15T23:40:00",
                           "Ende":  "2026-11-16T01:30:00",
                           "Sendung":  "Ein Junge namens Weihnacht"
+                      },
+                      {
+                          "Art":  "Serie",
+                          "Sender":  "Vox Deutschland HD",
+                          "Beginn":  "2026-11-15T23:40:00",
+                          "Ende":  "2026-11-16T00:40:00",
+                          "Sendung":  "Hot oder Schrott - Die Allestester"
                       },
                       {
                           "Art":  "Dokumentation",
@@ -12974,13 +12960,6 @@
                           "Beginn":  "2026-11-15T23:50:00",
                           "Ende":  "2026-11-16T00:40:00",
                           "Sendung":  "Gauner vs. Kaufhaus-Cops"
-                      },
-                      {
-                          "Art":  "Dokumentation",
-                          "Sender":  "WELT HD",
-                          "Beginn":  "2026-11-15T23:55:00",
-                          "Ende":  "2026-11-16T00:50:00",
-                          "Sendung":  "Hitlers Helferinnen - Frauen im NS-Staat"
                       },
                       {
                           "Art":  "Dokumentation",
